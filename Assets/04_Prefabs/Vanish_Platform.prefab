@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 2197523698456235026}
   - component: {fileID: 2197523698456235027}
   - component: {fileID: 2197523698456235024}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Vanish_Platform
   m_TagString: Ground
   m_Icon: {fileID: 0}
