@@ -268,7 +268,7 @@ public class Player : MonoBehaviour
         color6.a = 0.5f;
         transform.GetChild(0).GetChild(6).GetComponent<SpriteRenderer>().color = color6;
 
-        BtnUI.gameObject.SetActive(false);
+        //BtnUI.gameObject.SetActive(false);
     }
 
     public void HealEffect()

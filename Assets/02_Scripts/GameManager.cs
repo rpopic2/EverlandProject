@@ -38,7 +38,12 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(!isGameStart && Input.GetMouseButtonDown(0))
+
+    }
+
+    public void GameStart_Button()
+    {
+        if (!isGameStart)
         {
             isGameStart = true;
             Start_Panel.SetActive(false);
