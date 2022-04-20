@@ -10,15 +10,15 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5bf7c34a0dc4e6348bea04faa70406ee, type: 3}
-  m_Name: Player_library
+  m_Name: Player_L_leg
   m_EditorClassIdentifier: 
   m_Labels:
-  - m_Name: head
-    m_Hash: -1477183844
+  - m_Name: Left_Leg
+    m_Hash: 835961224
     m_CategoryList:
-    - m_Name: one
-      m_Hash: 2053932785
-      m_Sprite: {fileID: 7367734127802783136, guid: ce7a943b9c6603d43ac73615f0080c77, type: 3}
-    - m_Name: two
-      m_Hash: 298486374
-      m_Sprite: {fileID: 21300000, guid: 2bb1bb2f9b397cb489e4ec245977227f, type: 3}
+    - m_Name: 1
+      m_Hash: -2082672713
+      m_Sprite: {fileID: 965984767058770909, guid: ce7a943b9c6603d43ac73615f0080c77, type: 3}
+    - m_Name: 2
+      m_Hash: 450215437
+      m_Sprite: {fileID: 911397814644570616, guid: 824c8f579f1b54149a665afc15caf02b, type: 3}
