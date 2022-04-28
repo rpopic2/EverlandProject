@@ -6,8 +6,8 @@ using UnityEngine.UI;
 
 public class PlayerSetting : MonoBehaviour
 {
-    public enum backgroundImage { Spring, Summer, Fall, Winter };
-    public enum BGM { Spring, Summer, Fall, Winter };
+    public enum backgroundImage { Morning, Afternoon, Evening, Night };
+    public enum BGM { Morning, Afternoon, Evening, Night };
 
     public Sprite treasureImg;//최종 보물 이미지
 
@@ -22,23 +22,52 @@ public class PlayerSetting : MonoBehaviour
     public GameObject ShowPanel;
     public GameObject ClosePanel;
 
-
-    float time = 0f;
-    float fadeTime = 2f;
-
+    public Sprite[] bgSprite;
+    public Sprite[] tentSprite;
 
     void Start()
     {
+        if ( _background == backgroundImage.Morning)
+        {
+            for (int i = 0; i < 14; i++)
+            {
+                GameObject.Find("Background_Sky").transform.GetChild(i).GetComponent<SpriteRenderer>().sprite = bgSprite[0];
+            }
+            GameObject.Find("House_back").GetComponent<SpriteRenderer>().sprite = tentSprite[0];
+            GameObject.Find("House_Front").GetComponent<SpriteRenderer>().sprite = tentSprite[1];
+        }
+
+        else if (_background == backgroundImage.Afternoon)
+        {
+            for (int i = 0; i < 14; i++)
+            {
+                GameObject.Find("Background_Sky").transform.GetChild(i).GetComponent<SpriteRenderer>().sprite = bgSprite[1];
+            }
+            GameObject.Find("House_back").GetComponent<SpriteRenderer>().sprite = tentSprite[2];
+            GameObject.Find("House_Front").GetComponent<SpriteRenderer>().sprite = tentSprite[3];
+        }
+
+        else if (_background == backgroundImage.Evening)
+        {
+            for (int i = 0; i < 14; i++)
+            {
+                GameObject.Find("Background_Sky").transform.GetChild(i).GetComponent<SpriteRenderer>().sprite = bgSprite[2];
+            }
+            GameObject.Find("House_back").GetComponent<SpriteRenderer>().sprite = tentSprite[4];
+            GameObject.Find("House_Front").GetComponent<SpriteRenderer>().sprite = tentSprite[5];
+        }
+
+        else if (_background == backgroundImage.Night)
+        {
+            for (int i = 0; i < 14; i++)
+            {
+                GameObject.Find("Background_Sky").transform.GetChild(i).GetComponent<SpriteRenderer>().sprite = bgSprite[3];
+            }
+            GameObject.Find("House_back").GetComponent<SpriteRenderer>().sprite = tentSprite[6];
+            GameObject.Find("House_Front").GetComponent<SpriteRenderer>().sprite = tentSprite[7];
+        }
         username1.GetComponent<Text>().text = playerName;
         username2.GetComponent<Text>().text = playerName;
-        //StartCoroutine("FadeOut", 3);
-        //Invoke("HeadPhonePlz", 5f);
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 
     public void HeadPhonePlz()
