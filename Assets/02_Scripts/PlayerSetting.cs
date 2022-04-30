@@ -22,47 +22,113 @@ public class PlayerSetting : MonoBehaviour
     public GameObject ShowPanel;
     public GameObject ClosePanel;
 
-    public Sprite[] bgSprite;
+    public Sprite[] frontSprite;
+    public Sprite[] backSprite;
+    public Sprite[] cloudSprite;
+    public Sprite[] skySprite;
+    public Sprite[] particleSprite;
+    public Sprite[] sunSprite;
     public Sprite[] tentSprite;
 
     void Start()
     {
         if ( _background == backgroundImage.Morning)
         {
-            for (int i = 0; i < 14; i++)
-            {
-                GameObject.Find("Background_Sky").transform.GetChild(i).GetComponent<SpriteRenderer>().sprite = bgSprite[0];
-            }
+            GameObject.Find("Background_Sky").transform.GetChild(0).GetComponent<SpriteRenderer>().sprite = frontSprite[0];
+            GameObject.Find("Background_Sky").transform.GetChild(0).GetChild(0).GetComponent<SpriteRenderer>().sprite = frontSprite[0];
+            GameObject.Find("Background_Sky").transform.GetChild(0).GetChild(1).GetComponent<SpriteRenderer>().sprite = frontSprite[0];
+
+            GameObject.Find("Background_Sky").transform.GetChild(1).GetComponent<SpriteRenderer>().sprite = backSprite[0];
+            GameObject.Find("Background_Sky").transform.GetChild(1).GetChild(0).GetComponent<SpriteRenderer>().sprite = backSprite[0];
+            GameObject.Find("Background_Sky").transform.GetChild(1).GetChild(1).GetComponent<SpriteRenderer>().sprite = backSprite[0];
+
+            GameObject.Find("Background_Sky").transform.GetChild(2).GetComponent<SpriteRenderer>().sprite = cloudSprite[0];
+            GameObject.Find("Background_Sky").transform.GetChild(2).GetChild(0).GetComponent<SpriteRenderer>().sprite = cloudSprite[0];
+            GameObject.Find("Background_Sky").transform.GetChild(2).GetChild(1).GetComponent<SpriteRenderer>().sprite = cloudSprite[0];
+
+            GameObject.Find("Background_Sky").transform.GetChild(3).GetComponent<SpriteRenderer>().sprite = skySprite[0];
+            GameObject.Find("Background_Sky").transform.GetChild(3).GetChild(0).GetComponent<SpriteRenderer>().sprite = skySprite[0];
+            GameObject.Find("Background_Sky").transform.GetChild(3).GetChild(1).GetComponent<SpriteRenderer>().sprite = skySprite[0];
+
+            GameObject.Find("BG_Sun&Particle").transform.GetChild(0).GetComponent<SpriteRenderer>().sprite = particleSprite[0];
+            GameObject.Find("BG_Sun&Particle").transform.GetChild(1).GetComponent<SpriteRenderer>().sprite = sunSprite[0];
+
             GameObject.Find("House_back").GetComponent<SpriteRenderer>().sprite = tentSprite[0];
             GameObject.Find("House_Front").GetComponent<SpriteRenderer>().sprite = tentSprite[1];
         }
 
         else if (_background == backgroundImage.Afternoon)
         {
-            for (int i = 0; i < 14; i++)
-            {
-                GameObject.Find("Background_Sky").transform.GetChild(i).GetComponent<SpriteRenderer>().sprite = bgSprite[1];
-            }
+            GameObject.Find("Background_Sky").transform.GetChild(0).GetComponent<SpriteRenderer>().sprite = frontSprite[1];
+            GameObject.Find("Background_Sky").transform.GetChild(0).GetChild(0).GetComponent<SpriteRenderer>().sprite = frontSprite[1];
+            GameObject.Find("Background_Sky").transform.GetChild(0).GetChild(1).GetComponent<SpriteRenderer>().sprite = frontSprite[1];
+
+            GameObject.Find("Background_Sky").transform.GetChild(1).GetComponent<SpriteRenderer>().sprite = backSprite[1];
+            GameObject.Find("Background_Sky").transform.GetChild(1).GetChild(0).GetComponent<SpriteRenderer>().sprite = backSprite[1];
+            GameObject.Find("Background_Sky").transform.GetChild(1).GetChild(1).GetComponent<SpriteRenderer>().sprite = backSprite[1];
+
+            GameObject.Find("Background_Sky").transform.GetChild(2).GetComponent<SpriteRenderer>().sprite = cloudSprite[1];
+            GameObject.Find("Background_Sky").transform.GetChild(2).GetChild(0).GetComponent<SpriteRenderer>().sprite = cloudSprite[1];
+            GameObject.Find("Background_Sky").transform.GetChild(2).GetChild(1).GetComponent<SpriteRenderer>().sprite = cloudSprite[1];
+
+            GameObject.Find("Background_Sky").transform.GetChild(3).GetComponent<SpriteRenderer>().sprite = skySprite[1];
+            GameObject.Find("Background_Sky").transform.GetChild(3).GetChild(0).GetComponent<SpriteRenderer>().sprite = skySprite[1];
+            GameObject.Find("Background_Sky").transform.GetChild(3).GetChild(1).GetComponent<SpriteRenderer>().sprite = skySprite[1];
+
+            GameObject.Find("BG_Sun&Particle").transform.GetChild(0).GetComponent<SpriteRenderer>().sprite = particleSprite[1];
+            GameObject.Find("BG_Sun&Particle").transform.GetChild(2).GetComponent<SpriteRenderer>().sprite = particleSprite[4];
+            GameObject.Find("BG_Sun&Particle").transform.GetChild(1).GetComponent<SpriteRenderer>().sprite = sunSprite[1];
+
             GameObject.Find("House_back").GetComponent<SpriteRenderer>().sprite = tentSprite[2];
             GameObject.Find("House_Front").GetComponent<SpriteRenderer>().sprite = tentSprite[3];
         }
 
         else if (_background == backgroundImage.Evening)
         {
-            for (int i = 0; i < 14; i++)
-            {
-                GameObject.Find("Background_Sky").transform.GetChild(i).GetComponent<SpriteRenderer>().sprite = bgSprite[2];
-            }
+            GameObject.Find("Background_Sky").transform.GetChild(0).GetComponent<SpriteRenderer>().sprite = frontSprite[2];
+            GameObject.Find("Background_Sky").transform.GetChild(0).GetChild(0).GetComponent<SpriteRenderer>().sprite = frontSprite[2];
+            GameObject.Find("Background_Sky").transform.GetChild(0).GetChild(1).GetComponent<SpriteRenderer>().sprite = frontSprite[2];
+
+            GameObject.Find("Background_Sky").transform.GetChild(1).GetComponent<SpriteRenderer>().sprite = backSprite[2];
+            GameObject.Find("Background_Sky").transform.GetChild(1).GetChild(0).GetComponent<SpriteRenderer>().sprite = backSprite[2];
+            GameObject.Find("Background_Sky").transform.GetChild(1).GetChild(1).GetComponent<SpriteRenderer>().sprite = backSprite[2];
+
+            GameObject.Find("Background_Sky").transform.GetChild(2).GetComponent<SpriteRenderer>().sprite = cloudSprite[2];
+            GameObject.Find("Background_Sky").transform.GetChild(2).GetChild(0).GetComponent<SpriteRenderer>().sprite = cloudSprite[2];
+            GameObject.Find("Background_Sky").transform.GetChild(2).GetChild(1).GetComponent<SpriteRenderer>().sprite = cloudSprite[2];
+
+            GameObject.Find("Background_Sky").transform.GetChild(3).GetComponent<SpriteRenderer>().sprite = skySprite[2];
+            GameObject.Find("Background_Sky").transform.GetChild(3).GetChild(0).GetComponent<SpriteRenderer>().sprite = skySprite[2];
+            GameObject.Find("Background_Sky").transform.GetChild(3).GetChild(1).GetComponent<SpriteRenderer>().sprite = skySprite[2];
+
+            GameObject.Find("BG_Sun&Particle").transform.GetChild(0).GetComponent<SpriteRenderer>().sprite = particleSprite[2];
+            GameObject.Find("BG_Sun&Particle").transform.GetChild(1).GetComponent<SpriteRenderer>().sprite = sunSprite[2];
+
             GameObject.Find("House_back").GetComponent<SpriteRenderer>().sprite = tentSprite[4];
             GameObject.Find("House_Front").GetComponent<SpriteRenderer>().sprite = tentSprite[5];
         }
 
         else if (_background == backgroundImage.Night)
         {
-            for (int i = 0; i < 14; i++)
-            {
-                GameObject.Find("Background_Sky").transform.GetChild(i).GetComponent<SpriteRenderer>().sprite = bgSprite[3];
-            }
+            GameObject.Find("Background_Sky").transform.GetChild(0).GetComponent<SpriteRenderer>().sprite = frontSprite[3];
+            GameObject.Find("Background_Sky").transform.GetChild(0).GetChild(0).GetComponent<SpriteRenderer>().sprite = frontSprite[3];
+            GameObject.Find("Background_Sky").transform.GetChild(0).GetChild(1).GetComponent<SpriteRenderer>().sprite = frontSprite[3];
+
+            GameObject.Find("Background_Sky").transform.GetChild(1).GetComponent<SpriteRenderer>().sprite = backSprite[3];
+            GameObject.Find("Background_Sky").transform.GetChild(1).GetChild(0).GetComponent<SpriteRenderer>().sprite = backSprite[3];
+            GameObject.Find("Background_Sky").transform.GetChild(1).GetChild(1).GetComponent<SpriteRenderer>().sprite = backSprite[3];
+
+            GameObject.Find("Background_Sky").transform.GetChild(2).GetComponent<SpriteRenderer>().sprite = cloudSprite[3];
+            GameObject.Find("Background_Sky").transform.GetChild(2).GetChild(0).GetComponent<SpriteRenderer>().sprite = cloudSprite[3];
+            GameObject.Find("Background_Sky").transform.GetChild(2).GetChild(1).GetComponent<SpriteRenderer>().sprite = cloudSprite[3];
+
+            GameObject.Find("Background_Sky").transform.GetChild(3).GetComponent<SpriteRenderer>().sprite = skySprite[3];
+            GameObject.Find("Background_Sky").transform.GetChild(3).GetChild(0).GetComponent<SpriteRenderer>().sprite = skySprite[3];
+            GameObject.Find("Background_Sky").transform.GetChild(3).GetChild(1).GetComponent<SpriteRenderer>().sprite = skySprite[3];
+
+            GameObject.Find("BG_Sun&Particle").transform.GetChild(0).GetComponent<SpriteRenderer>().sprite = particleSprite[3];
+            GameObject.Find("BG_Sun&Particle").transform.GetChild(1).GetComponent<SpriteRenderer>().sprite = sunSprite[3];
+
             GameObject.Find("House_back").GetComponent<SpriteRenderer>().sprite = tentSprite[6];
             GameObject.Find("House_Front").GetComponent<SpriteRenderer>().sprite = tentSprite[7];
         }

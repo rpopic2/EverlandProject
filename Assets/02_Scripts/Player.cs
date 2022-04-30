@@ -100,9 +100,9 @@ public class Player : MonoBehaviour
         }
 
         if (xInput == 1)//오른쪽 바라보게
-            transform.rotation = Quaternion.Euler(0, 180, 0);
+            transform.GetChild(0).rotation = Quaternion.Euler(0, 180, 0);
         else if (xInput == -1)//왼쪽 바라보게
-            transform.rotation = Quaternion.Euler(0, 0, 0);
+            transform.GetChild(0).rotation = Quaternion.Euler(0, 0, 0);
 
 
         if (Input.GetKeyDown(KeyCode.Space))
@@ -129,14 +129,14 @@ public class Player : MonoBehaviour
             {
                 moveVelocity = Vector3.left;
                 transform.position += moveVelocity * moveSpeed * Time.deltaTime;
-                transform.rotation = Quaternion.Euler(0, 0, 0);
+                transform.GetChild(0).rotation = Quaternion.Euler(0, 0, 0);
                 animator.SetBool("isRunning", true);
             }
             else if (RightMove)
             {
                 moveVelocity = Vector3.right;
                 transform.position += moveVelocity * moveSpeed * Time.deltaTime;
-                transform.rotation = Quaternion.Euler(0, 180, 0);
+                transform.GetChild(0).rotation = Quaternion.Euler(0, 180, 0);
                 animator.SetBool("isRunning", true);
             }
 
