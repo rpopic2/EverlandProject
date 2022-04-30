@@ -64,11 +64,11 @@ public class MovingPlatform : MonoBehaviour
     {
         if(isTruning)
         {
-            transform.position = Vector3.Lerp(transform.position, currPos, moveSpeed);
+            transform.position = Vector3.Lerp(transform.position, currPos, moveSpeed * Time.deltaTime);
         }
         else
         {
-            transform.position = Vector3.Lerp(transform.position, returnPos, moveSpeed);
+            transform.position = Vector3.Lerp(transform.position, returnPos, moveSpeed * Time.deltaTime);
         }
     }
 }
