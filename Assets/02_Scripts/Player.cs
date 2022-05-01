@@ -29,6 +29,8 @@ public class Player : MonoBehaviour
     public GameObject EndingCredit;
     public GameObject EndingEffect;
 
+    [SerializeField] Cinemachine.CinemachineVirtualCamera VC_Start;
+    [SerializeField] Cinemachine.CinemachineVirtualCamera VC_Playing;
 
     int playerLayer, platformLayer;
 
@@ -213,6 +215,8 @@ public class Player : MonoBehaviour
     {
         if (isMove == false)
         {
+            VC_Start.Priority = 10;
+            VC_Playing.Priority = 9;
             treasure.GetComponent<SpriteRenderer>().sprite = PlayerSetting.FindObjectOfType<PlayerSetting>().treasureImg;
             treasure.gameObject.SetActive(true);
             chest.gameObject.SetActive(false);

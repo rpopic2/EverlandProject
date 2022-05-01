@@ -92,4 +92,5 @@ public class GameManager : MonoBehaviour
         GameObject go = Instantiate(DropPlatform, Pos, Quaternion.identity);
         go.GetComponent<DropPlatform>().StartAppear();
     }
+
 }
