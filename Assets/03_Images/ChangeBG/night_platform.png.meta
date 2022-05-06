@@ -1,7 +1,379 @@
 fileFormatVersion: 2
 guid: 1a24c9c399776b149902b53a062a76f3
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -1052381276046704170
+    second: night_platform_0
+  - first:
+      213: -8618276011731574502
+    second: night_platform_9
+  - first:
+      213: -6838197935419933682
+    second: night_platform_21
+  - first:
+      213: -8550219271436851810
+    second: night_platform_24
+  - first:
+      213: 5242244690489708385
+    second: night_platform_30
+  - first:
+      213: -2418167664053869346
+    second: night_platform_31
+  - first:
+      213: 255697266430234780
+    second: night_platform_32
+  - first:
+      213: -3238003142057130932
+    second: night_platform_33
+  - first:
+      213: 8804545587569567461
+    second: night_platform_34
+  - first:
+      213: 5870955898165936674
+    second: night_platform_35
+  - first:
+      213: 4343947968334086750
+    second: night_platform_36
+  - first:
+      213: -8689522185387133069
+    second: night_platform_37
+  - first:
+      213: -4304210729817592957
+    second: night_platform_38
+  - first:
+      213: 4937917142112433295
+    second: night_platform_39
+  - first:
+      213: -2089016857859195242
+    second: night_platform_40
+  - first:
+      213: 6506445522569630197
+    second: night_platform_41
+  - first:
+      213: 9200502071716804117
+    second: night_platform_42
+  - first:
+      213: -8039450497301746757
+    second: night_platform_44
+  - first:
+      213: -9027841638304957001
+    second: night_platform_45
+  - first:
+      213: -4135179839621775993
+    second: night_platform_46
+  - first:
+      213: 6133250890883448533
+    second: night_platform_47
+  - first:
+      213: -1656434461833583800
+    second: night_platform_48
+  - first:
+      213: -5167713078389070662
+    second: night_platform_49
+  - first:
+      213: 8755067831364342476
+    second: night_platform_50
+  - first:
+      213: -1461658104928110147
+    second: night_platform_51
+  - first:
+      213: -957562845572359680
+    second: night_platform_52
+  - first:
+      213: -3804986483413841064
+    second: night_platform_53
+  - first:
+      213: -1010964267481358353
+    second: night_platform_54
+  - first:
+      213: -7187735149657027370
+    second: night_platform_55
+  - first:
+      213: -6846944498889510349
+    second: night_platform_56
+  - first:
+      213: 7509761644718528822
+    second: night_platform_57
+  - first:
+      213: 3664802871593747677
+    second: night_platform_58
+  - first:
+      213: -7821612861319876037
+    second: night_platform_59
+  - first:
+      213: 3481404669082779095
+    second: night_platform_60
+  - first:
+      213: -8578990600096910205
+    second: night_platform_61
+  - first:
+      213: 6790762877407017431
+    second: night_platform_62
+  - first:
+      213: -403626359950795139
+    second: night_platform_63
+  - first:
+      213: -6671960489221737081
+    second: night_platform_64
+  - first:
+      213: 8678091315464183266
+    second: night_platform_65
+  - first:
+      213: -6551634171722981087
+    second: night_platform_66
+  - first:
+      213: 6989539904049372089
+    second: night_platform_67
+  - first:
+      213: 314020491543034765
+    second: night_platform_68
+  - first:
+      213: 2799270212168176112
+    second: night_platform_69
+  - first:
+      213: -3957451581236703130
+    second: night_platform_70
+  - first:
+      213: -4049086920492169469
+    second: night_platform_71
+  - first:
+      213: -7347683465214213160
+    second: night_platform_72
+  - first:
+      213: 2702965564876531387
+    second: night_platform_73
+  - first:
+      213: 1165554735225833280
+    second: night_platform_74
+  - first:
+      213: 562219869788842234
+    second: night_platform_75
+  - first:
+      213: 317893017507450992
+    second: night_platform_76
+  - first:
+      213: 7459033765121324263
+    second: night_platform_77
+  - first:
+      213: -1744722048636140040
+    second: night_platform_78
+  - first:
+      213: 1204095043662693415
+    second: night_platform_79
+  - first:
+      213: -589435848346065441
+    second: night_platform_80
+  - first:
+      213: -4508578088845405144
+    second: night_platform_81
+  - first:
+      213: 8217332786753164783
+    second: night_platform_82
+  - first:
+      213: -3941457285996909534
+    second: night_platform_83
+  - first:
+      213: -2995757268659435288
+    second: night_platform_84
+  - first:
+      213: 7301305974432958456
+    second: night_platform_85
+  - first:
+      213: -3863296739585599676
+    second: night_platform_86
+  - first:
+      213: -8250064296474075994
+    second: night_platform_87
+  - first:
+      213: 461904663241937285
+    second: night_platform_88
+  - first:
+      213: 7522704081139655072
+    second: night_platform_89
+  - first:
+      213: -1079515517014791482
+    second: night_platform_90
+  - first:
+      213: 6192179437071934349
+    second: night_platform_91
+  - first:
+      213: -3940472593509148016
+    second: night_platform_92
+  - first:
+      213: -4274984315897140123
+    second: night_platform_93
+  - first:
+      213: -7470940638895571360
+    second: night_platform_94
+  - first:
+      213: 2922489578304336581
+    second: night_platform_95
+  - first:
+      213: 8101285128762700025
+    second: night_platform_96
+  - first:
+      213: 2353775081069303390
+    second: night_platform_97
+  - first:
+      213: 3364552325495285477
+    second: night_platform_98
+  - first:
+      213: 8230789018955452602
+    second: night_platform_99
+  - first:
+      213: 1187000654637750924
+    second: night_platform_100
+  - first:
+      213: 3798424030241720637
+    second: night_platform_101
+  - first:
+      213: -6436641316195615775
+    second: night_platform_102
+  - first:
+      213: -8494130705306475774
+    second: night_platform_103
+  - first:
+      213: -3099434867707220003
+    second: night_platform_104
+  - first:
+      213: 1538931402349947394
+    second: night_platform_105
+  - first:
+      213: -6517872104571150459
+    second: night_platform_106
+  - first:
+      213: -4451145422943542575
+    second: night_platform_107
+  - first:
+      213: -2394997514871767856
+    second: night_platform_108
+  - first:
+      213: 792677212075589509
+    second: night_platform_109
+  - first:
+      213: 3513172444584565799
+    second: night_platform_110
+  - first:
+      213: 862716090514619125
+    second: night_platform_111
+  - first:
+      213: 3745189029525545027
+    second: night_platform_112
+  - first:
+      213: 1075710242507515222
+    second: night_platform_113
+  - first:
+      213: -6651727701351264240
+    second: night_platform_114
+  - first:
+      213: 5730550311800179616
+    second: night_platform_115
+  - first:
+      213: 7505064623354252802
+    second: night_platform_116
+  - first:
+      213: 3589496656001370781
+    second: night_platform_117
+  - first:
+      213: 4329316355421580057
+    second: night_platform_118
+  - first:
+      213: 8713847765022354307
+    second: night_platform_119
+  - first:
+      213: -2931386371897103917
+    second: night_platform_120
+  - first:
+      213: 5889247242721881541
+    second: night_platform_121
+  - first:
+      213: -2629172325835159077
+    second: night_platform_122
+  - first:
+      213: 5400177518883490734
+    second: night_platform_123
+  - first:
+      213: -4544758605521267689
+    second: night_platform_124
+  - first:
+      213: 9129707215320018492
+    second: night_platform_125
+  - first:
+      213: 6754356271963448218
+    second: night_platform_126
+  - first:
+      213: 2852727111074753100
+    second: night_platform_127
+  - first:
+      213: -4970222577437143038
+    second: night_platform_128
+  - first:
+      213: -2896280359696353203
+    second: night_platform_129
+  - first:
+      213: -3701162738400474549
+    second: night_platform_130
+  - first:
+      213: 593338422752772657
+    second: night_platform_131
+  - first:
+      213: 7885728271548938290
+    second: night_platform_132
+  - first:
+      213: 3648634332190405437
+    second: night_platform_133
+  - first:
+      213: -3990870718591287193
+    second: night_platform_134
+  - first:
+      213: 5585090205477515006
+    second: night_platform_135
+  - first:
+      213: 8504085714720665972
+    second: night_platform_136
+  - first:
+      213: 8149767074702020898
+    second: night_platform_137
+  - first:
+      213: 4398446340425459060
+    second: night_platform_138
+  - first:
+      213: 4083638773219595914
+    second: night_platform_139
+  - first:
+      213: 3337247231687870139
+    second: night_platform_140
+  - first:
+      213: -7549761286265920575
+    second: night_platform_141
+  - first:
+      213: 2612389815865591795
+    second: night_platform_142
+  - first:
+      213: 3931917203004223515
+    second: night_platform_143
+  - first:
+      213: 8436989787421084776
+    second: night_platform_144
+  - first:
+      213: 297259147032084769
+    second: night_platform_145
+  - first:
+      213: 8984074457536772252
+    second: night_platform_146
+  - first:
+      213: -1917384483092288099
+    second: night_platform_147
+  - first:
+      213: -7271269251982413445
+    second: night_platform_148
+  - first:
+      213: 2410094090112268718
+    second: night_platform_149
+  - first:
+      213: -5595267544633399056
+    second: night_platform_1
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +413,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -75,9 +447,2625 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: night_platform_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 470
+        width: 162
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1c6f02ec03561f0800000000000000
+      internalID: -1052381276046704170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_9
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 473
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11287001abb56880800000000000000
+      internalID: -8618276011731574502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_21
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 400
+        width: 72
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c3c734537d911a0800000000000000
+      internalID: -6838197935419933682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_24
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95ae46afd4875980800000000000000
+      internalID: -8550219271436851810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f015a75c130c840800000000000000
+      internalID: 5242244690489708385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_31
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4abb05251f07ed0800000000000000
+      internalID: -2418167664053869346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90dc9f1f4b6c8300800000000000000
+      internalID: 255697266430234780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_33
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4406184c4d4013d0800000000000000
+      internalID: -3238003142057130932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_34
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e621db3097003a70800000000000000
+      internalID: 8804545587569567461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_35
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2224a22a843d97150800000000000000
+      internalID: 5870955898165936674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_36
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e52455779adc84c30800000000000000
+      internalID: 4343947968334086750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_37
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377bf188c9d986780800000000000000
+      internalID: -8689522185387133069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_38
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b2cca552f5444c0800000000000000
+      internalID: -4304210729817592957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_39
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f847ce18a71078440800000000000000
+      internalID: 4937917142112433295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69eff716c325203e0800000000000000
+      internalID: -2089016857859195242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_41
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 332
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1913beab98b4a50800000000000000
+      internalID: 6506445522569630197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_42
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 332
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 516fceb43efbeaf70800000000000000
+      internalID: 9200502071716804117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbedf61e522e6090800000000000000
+      internalID: -8039450497301746757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_45
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd3a5c8cd9a6b280800000000000000
+      internalID: -9027841638304957001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_46
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dbcf058d3ec96c0800000000000000
+      internalID: -4135179839621775993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_47
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5deb47d903fad1550800000000000000
+      internalID: 6133250890883448533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_48
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843a1b412a92309e0800000000000000
+      internalID: -1656434461833583800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_49
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4aa7db5589848b0800000000000000
+      internalID: -5167713078389070662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_50
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2dbe86ecf308970800000000000000
+      internalID: 8755067831364342476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_51
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db970b0a2b527bbe0800000000000000
+      internalID: -1461658104928110147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_52
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a1c835aad06b2f0800000000000000
+      internalID: -957562845572359680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_53
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b84f8f3f8f13bc0800000000000000
+      internalID: -3804986483413841064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_54
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef1924ea5558f1f0800000000000000
+      internalID: -1010964267481358353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_55
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc8a11b6f8004c90800000000000000
+      internalID: -7187735149657027370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_56
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 296
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33230e24144caf0a0800000000000000
+      internalID: -6846944498889510349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6391d4d6d68083860800000000000000
+      internalID: 7509761644718528822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_58
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd44d257bcefbd230800000000000000
+      internalID: 3664802871593747677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_59
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b32f6661b8c047390800000000000000
+      internalID: -7821612861319876037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_60
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddb01ce91f605030800000000000000
+      internalID: 3481404669082779095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_61
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384fecda08d41f880800000000000000
+      internalID: -8578990600096910205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_62
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d931c5abd2ad3e50800000000000000
+      internalID: 6790762877407017431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_63
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e1621d6f7066af0800000000000000
+      internalID: -403626359950795139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_64
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7853f7cd84f6863a0800000000000000
+      internalID: -6671960489221737081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_65
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed15aaa216ce6870800000000000000
+      internalID: 8678091315464183266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_66
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1212420de6be315a0800000000000000
+      internalID: -6551634171722981087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_67
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbd744b285dff060800000000000000
+      internalID: 6989539904049372089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_68
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bbd9a29ff9b5400800000000000000
+      internalID: 314020491543034765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_69
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 260
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1dd924d6109d620800000000000000
+      internalID: 2799270212168176112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660149c11ce4419c0800000000000000
+      internalID: -3957451581236703130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_71
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307426716e0cec7c0800000000000000
+      internalID: -4049086920492169469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_72
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d345ed61d8c70a90800000000000000
+      internalID: -7347683465214213160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_73
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6249e3cdcd28520800000000000000
+      internalID: 2702965564876531387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04709673bd1ec2010800000000000000
+      internalID: 1165554735225833280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_75
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af82e682ef76dc700800000000000000
+      internalID: 562219869788842234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_76
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070db11e302696400800000000000000
+      internalID: 317893017507450992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_77
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e473b190bfc38760800000000000000
+      internalID: 7459033765121324263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5404b6a8089c7e0800000000000000
+      internalID: -1744722048636140040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_79
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724c259001ec5b010800000000000000
+      internalID: 1204095043662693415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_80
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5a3790837e1d7f0800000000000000
+      internalID: -589435848346065441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_81
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824924c9d105e61c0800000000000000
+      internalID: -4508578088845405144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_82
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 224
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5d79bd1a4d90270800000000000000
+      internalID: 8217332786753164783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c67ca2b712d49c0800000000000000
+      internalID: -3941457285996909534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_84
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e88248e2aeec66d0800000000000000
+      internalID: -2995757268659435288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_85
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f7838a8913735560800000000000000
+      internalID: 7301305974432958456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_86
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447531f7510d26ac0800000000000000
+      internalID: -3863296739585599676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_87
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac978aab32e18d80800000000000000
+      internalID: -8250064296474075994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_88
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581d1ac08d3096600800000000000000
+      internalID: 461904663241937285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_89
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1e5ba3183066860800000000000000
+      internalID: 7522704081139655072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_90
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caafc65b5ac401f0800000000000000
+      internalID: -1079515517014791482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_91
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83a624f36a0fe550800000000000000
+      internalID: 6192179437071934349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_92
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09a99b0cd01a059c0800000000000000
+      internalID: -3940472593509148016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_93
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ca59e1a643ca4c0800000000000000
+      internalID: -4274984315897140123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_94
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e79985213e15890800000000000000
+      internalID: -7470940638895571360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_95
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 188
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c27c9699c4ce8820800000000000000
+      internalID: 2922489578304336581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f03e04f6eb8d6070800000000000000
+      internalID: 8101285128762700025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_97
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e565d4427f94aa020800000000000000
+      internalID: 2353775081069303390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_98
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e66c5d838a41be20800000000000000
+      internalID: 3364552325495285477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_99
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab096001103a93270800000000000000
+      internalID: 8230789018955452602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_100
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ad6df6ec2197010800000000000000
+      internalID: 1187000654637750924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_101
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d398dd4d786b6b430800000000000000
+      internalID: 3798424030241720637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_102
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebbe8163d47ca6a0800000000000000
+      internalID: -6436641316195615775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_103
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203287a9029ce1a80800000000000000
+      internalID: -8494130705306475774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_104
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfe9d9c8689cf4d0800000000000000
+      internalID: -3099434867707220003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_105
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a23c2f4f16b5510800000000000000
+      internalID: 1538931402349947394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_106
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fdb93aadddb85a0800000000000000
+      internalID: -6517872104571150459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_107
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d228dd22da5a32c0800000000000000
+      internalID: -4451145422943542575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_108
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcff10137243ced0800000000000000
+      internalID: -2394997514871767856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_109
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fff4f79b7200b00800000000000000
+      internalID: 792677212075589509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c572a89bb41c030800000000000000
+      internalID: 3513172444584565799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_111
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa3325a6bbf8fb00800000000000000
+      internalID: 862716090514619125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_112
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3406f89549599f330800000000000000
+      internalID: 3745189029525545027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_113
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655e8e524c0bdee00800000000000000
+      internalID: 1075710242507515222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_114
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0101552e5e050b3a0800000000000000
+      internalID: -6651727701351264240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_115
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab8a569521078f40800000000000000
+      internalID: 5730550311800179616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_116
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e816be288572860800000000000000
+      internalID: 7505064623354252802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_117
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a0a6fc03470d130800000000000000
+      internalID: 3589496656001370781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_118
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b213d9942d41c30800000000000000
+      internalID: 4329316355421580057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_119
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b2df4df5ecde870800000000000000
+      internalID: 8713847765022354307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_120
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9e6ab30af9157d0800000000000000
+      internalID: -2931386371897103917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_121
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cde2e82a2fcab150800000000000000
+      internalID: 5889247242721881541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_122
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9ce4913bd438bd0800000000000000
+      internalID: -2629172325835159077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_123
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 116
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabc91197d841fa40800000000000000
+      internalID: 5400177518883490734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_124
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7145100a026cde0c0800000000000000
+      internalID: -4544758605521267689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_125
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e6870575c33be70800000000000000
+      internalID: 9129707215320018492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_126
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9320d44e3b4cbd50800000000000000
+      internalID: 6754356271963448218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_127
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4aacb0713ce69720800000000000000
+      internalID: 2852727111074753100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_128
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2009b3136e8360bb0800000000000000
+      internalID: -4970222577437143038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_129
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d48bb56ab585ec7d0800000000000000
+      internalID: -2896280359696353203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_130
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a4ab95914d2acc0800000000000000
+      internalID: -3701162738400474549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_131
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13205cfd626fb3800800000000000000
+      internalID: 593338422752772657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_132
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238fde4251cbf6d60800000000000000
+      internalID: 7885728271548938290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_133
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33f085089d82a230800000000000000
+      internalID: 3648634332190405437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_134
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760cbd9d9349d98c0800000000000000
+      internalID: -3990870718591287193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_135
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe200863f9328d40800000000000000
+      internalID: 5585090205477515006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_136
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4713665a6e4940670800000000000000
+      internalID: 8504085714720665972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_137
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 80
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221d9c1a9f9c91170800000000000000
+      internalID: 8149767074702020898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4752da484ab6a0d30800000000000000
+      internalID: 4398446340425459060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_139
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8614c404dffba830800000000000000
+      internalID: 4083638773219595914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_140
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6496cfca8405e20800000000000000
+      internalID: 3337247231687870139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_141
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3af194c1cd93790800000000000000
+      internalID: -7549761286265920575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_142
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7448d42b2114420800000000000000
+      internalID: 2612389815865591795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_143
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 44
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10705b2dd9f09630800000000000000
+      internalID: 3931917203004223515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c05d4b285361570800000000000000
+      internalID: 8436989787421084776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_145
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12145198e93102400800000000000000
+      internalID: 297259147032084769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_146
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98b3259e18ddac70800000000000000
+      internalID: 8984074457536772252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_147
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d207ba8f41465e0800000000000000
+      internalID: -1917384483092288099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_148
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b713e51e323471b90800000000000000
+      internalID: -7271269251982413445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_149
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 8
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9f8644ecf527120800000000000000
+      internalID: 2410094090112268718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: night_platform_1
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 470
+        width: 70
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8aada20dd9952b0800000000000000
+      internalID: -5595267544633399056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
