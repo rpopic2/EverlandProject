@@ -452,6 +452,144 @@ TextureImporter:
   - first:
       213: -169902668656516794
     second: afternoon_platform_149
+  - first:
+      213: 5677097592883965097
+    second: afternoon_platform_150
+  - first:
+      213: -3078401218215607353
+    second: afternoon_platform_151
+  - first:
+      213: 6585447156328946687
+    second: afternoon_platform_152
+  - first:
+      213: -838042694669622952
+    second: afternoon_platform_153
+  - first:
+      213: -6466269539144738202
+    second: afternoon_platform_154
+  - first:
+      213: 7395401152448736666
+    second: afternoon_platform_155
+  - first:
+      213: -5254598184974659808
+    second: afternoon_platform_156
+  - first:
+      213: -2675501523449640752
+    second: afternoon_platform_157
+  - first:
+      213: -4710562257647166873
+    second: afternoon_platform_158
+  - first:
+      213: -832243798318314966
+    second: afternoon_platform_159
+  - first:
+      213: 7440219027157038481
+    second: afternoon_platform_160
+  - first:
+      213: -6627164714757266847
+    second: afternoon_platform_161
+  - first:
+      213: -4151460338574656974
+    second: afternoon_platform_162
+  - first:
+      213: -5044244074276381171
+    second: afternoon_platform_163
+  - first:
+      213: -3770133862243551478
+    second: afternoon_platform_164
+  - first:
+      213: -3835342873677972686
+    second: afternoon_platform_165
+  - first:
+      213: 705706881873289511
+    second: afternoon_platform_166
+  - first:
+      213: 1347901266004685131
+    second: afternoon_platform_167
+  - first:
+      213: 7110563263072236882
+    second: afternoon_platform_168
+  - first:
+      213: -7865517907140057894
+    second: afternoon_platform_169
+  - first:
+      213: -8085838357239096799
+    second: afternoon_platform_170
+  - first:
+      213: 465156479503806297
+    second: afternoon_platform_171
+  - first:
+      213: 3892376588673487292
+    second: afternoon_platform_172
+  - first:
+      213: -887131116745314463
+    second: afternoon_platform_173
+  - first:
+      213: -5550304570742721090
+    second: afternoon_platform_174
+  - first:
+      213: 2771892708517625291
+    second: afternoon_platform_175
+  - first:
+      213: -1412649480723846801
+    second: afternoon_platform_176
+  - first:
+      213: 3128948895333600932
+    second: afternoon_platform_177
+  - first:
+      213: -114094798061969319
+    second: afternoon_platform_178
+  - first:
+      213: 1013971183156127549
+    second: afternoon_platform_179
+  - first:
+      213: 8786856063773961745
+    second: afternoon_platform_180
+  - first:
+      213: 8999192286332003092
+    second: afternoon_platform_181
+  - first:
+      213: -6799171626967381871
+    second: afternoon_platform_182
+  - first:
+      213: -232924744233317024
+    second: afternoon_platform_183
+  - first:
+      213: -1586624296083444646
+    second: afternoon_platform_184
+  - first:
+      213: -4820081773651075396
+    second: afternoon_platform_185
+  - first:
+      213: 6942111247218118845
+    second: afternoon_platform_186
+  - first:
+      213: 4325045729521995373
+    second: afternoon_platform_187
+  - first:
+      213: 7337907130192249085
+    second: afternoon_platform_188
+  - first:
+      213: 2755934562545315543
+    second: afternoon_platform_189
+  - first:
+      213: -2999945658504377986
+    second: afternoon_platform_190
+  - first:
+      213: 5663187333090954277
+    second: afternoon_platform_191
+  - first:
+      213: -5417920669176234746
+    second: afternoon_platform_192
+  - first:
+      213: 1755942394801680644
+    second: afternoon_platform_193
+  - first:
+      213: -795950432872957188
+    second: afternoon_platform_194
+  - first:
+      213: -3818033904898960351
+    second: afternoon_platform_195
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -496,7 +634,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -541,267 +679,15 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: afternoon_platform_47
-      rect:
-        serializedVersion: 2
-        x: 108
-        y: 296
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7336c4587b5102840800000000000000
-      internalID: 5197177847945126711
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_49
-      rect:
-        serializedVersion: 2
-        x: 180
-        y: 296
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d3141291d6ec1fa40800000000000000
-      internalID: 5400324396162302269
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_50
-      rect:
-        serializedVersion: 2
-        x: 216
-        y: 296
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 828f1ddfa71495800800000000000000
-      internalID: 601584021730883624
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_51
-      rect:
-        serializedVersion: 2
-        x: 252
-        y: 296
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8aa00710711ed6d90800000000000000
-      internalID: -7102773548368786776
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_52
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 296
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c981a28f7d2b72100800000000000000
-      internalID: 83231758780864668
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_53
-      rect:
-        serializedVersion: 2
-        x: 324
-        y: 296
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8fac0a5f980829300800000000000000
-      internalID: 257409458733370104
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_54
-      rect:
-        serializedVersion: 2
-        x: 360
-        y: 296
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 92dd3e38862315e40800000000000000
-      internalID: 5643347232542678313
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_55
-      rect:
-        serializedVersion: 2
-        x: 396
-        y: 296
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: dbbc9d934d1686110800000000000000
-      internalID: 1254360060354218941
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_56
-      rect:
-        serializedVersion: 2
-        x: 432
-        y: 296
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 65bb29ab3d1c42d90800000000000000
-      internalID: -7123355595480843434
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_58
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 260
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9b4043c23f9d7c330800000000000000
-      internalID: 3731190454741632185
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_59
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 260
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5a191b535a7481550800000000000000
-      internalID: 6131729667560935845
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_60
-      rect:
-        serializedVersion: 2
-        x: 108
-        y: 260
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c979dbb172a445a90800000000000000
-      internalID: -7326149161995364452
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: afternoon_platform_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 476
+        y: 472
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -818,11 +704,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 180
-        y: 476
+        y: 472
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -835,1191 +721,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: afternoon_platform_8
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 476
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 003d0d8c03dc0a200800000000000000
-      internalID: 189376793760813824
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_36
-      rect:
-        serializedVersion: 2
-        x: 216
-        y: 332
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 544bc0b707e0789e0800000000000000
-      internalID: -1619309664752847803
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_37
-      rect:
-        serializedVersion: 2
-        x: 252
-        y: 332
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: b474b9e6907760790800000000000000
-      internalID: -7564227641728088245
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_38
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 332
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6e7d769d66ab0f640800000000000000
-      internalID: 5111790527962404838
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_39
-      rect:
-        serializedVersion: 2
-        x: 324
-        y: 332
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0858bc10edc09f130800000000000000
-      internalID: 3600923524711810432
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_40
-      rect:
-        serializedVersion: 2
-        x: 360
-        y: 332
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 760d35d40e68412e0800000000000000
-      internalID: -2155950023675490201
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_41
-      rect:
-        serializedVersion: 2
-        x: 396
-        y: 332
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 57f2f0ff0bc59c300800000000000000
-      internalID: 272851167695810421
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_42
-      rect:
-        serializedVersion: 2
-        x: 432
-        y: 332
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4f9f29544e857bfd0800000000000000
-      internalID: -2326292945070523916
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_44
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 296
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 658c508f538823530800000000000000
-      internalID: 3833275998221486166
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_45
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 296
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 986cc0778f415ce30800000000000000
-      internalID: 4523044458145302153
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_46
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 296
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 12cb662a7e37817d0800000000000000
-      internalID: -2947478517414708191
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_61
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 260
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d71bc2ae323e1cb50800000000000000
-      internalID: 6611815471348756861
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_62
-      rect:
-        serializedVersion: 2
-        x: 180
-        y: 260
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 58bbcaa111edb9cb0800000000000000
-      internalID: -4856043608145609851
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_63
-      rect:
-        serializedVersion: 2
-        x: 216
-        y: 260
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 64da1b7c1a3f18570800000000000000
-      internalID: 8467316650598837574
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_64
-      rect:
-        serializedVersion: 2
-        x: 252
-        y: 260
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e4fe31efd4709eac0800000000000000
-      internalID: -3825518376917930162
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_65
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 260
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 288844fb0ee9ce600800000000000000
-      internalID: 498948346850084994
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_66
-      rect:
-        serializedVersion: 2
-        x: 324
-        y: 260
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a09fe8d55d1d05c10800000000000000
-      internalID: 2040361345526724874
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_67
-      rect:
-        serializedVersion: 2
-        x: 360
-        y: 260
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 4e4e42a5483ea9b00800000000000000
-      internalID: 836230838418203876
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_68
-      rect:
-        serializedVersion: 2
-        x: 396
-        y: 260
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 19f860d372fbcca10800000000000000
-      internalID: 1931128515483570065
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_69
-      rect:
-        serializedVersion: 2
-        x: 432
-        y: 260
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 52be0d6ad8d1d5300800000000000000
-      internalID: 242382449174178597
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_70
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 224
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8dd6396634c9730f0800000000000000
-      internalID: -1137268567590081064
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_71
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 224
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 84f865c6cdffcacf0800000000000000
-      internalID: -239535357981978808
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_72
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 224
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 804897acf815b9a00800000000000000
-      internalID: 764294239788565512
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_73
-      rect:
-        serializedVersion: 2
-        x: 108
-        y: 224
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fa042cd0447636750800000000000000
-      internalID: 6296990245980356783
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_74
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 224
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f47f2c6d7791618c0800000000000000
-      internalID: -4029004814141425841
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_75
-      rect:
-        serializedVersion: 2
-        x: 180
-        y: 224
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 68ad6e96f630e9b50800000000000000
-      internalID: 6601717880824715910
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_76
-      rect:
-        serializedVersion: 2
-        x: 216
-        y: 224
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5abfbe64f03aad320800000000000000
-      internalID: 2583556622260108197
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_77
-      rect:
-        serializedVersion: 2
-        x: 252
-        y: 224
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e7b94022340847880800000000000000
-      internalID: -8614119161431024770
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_78
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 224
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1c6bdaa778e3fb880800000000000000
-      internalID: -8593080812399905087
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_79
-      rect:
-        serializedVersion: 2
-        x: 324
-        y: 224
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d44d2ff4683a975a0800000000000000
-      internalID: -6523002788007193523
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_80
-      rect:
-        serializedVersion: 2
-        x: 360
-        y: 224
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 76186766db5c661a0800000000000000
-      internalID: -6816543568720133785
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_81
-      rect:
-        serializedVersion: 2
-        x: 396
-        y: 224
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8cbe17785beec3080800000000000000
-      internalID: -9206221074823255096
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_82
-      rect:
-        serializedVersion: 2
-        x: 432
-        y: 224
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cf5233e6b49400720800000000000000
-      internalID: 2810326755799410172
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_83
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 188
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: d1d0f6fbc13d6e5c0800000000000000
-      internalID: -4186426683170026211
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_84
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 188
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: e1a5ebf713ef29160800000000000000
-      internalID: 7030961456828799518
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_85
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 188
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c09e5c005a4ddde30800000000000000
-      internalID: 4530010605352249612
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_86
-      rect:
-        serializedVersion: 2
-        x: 108
-        y: 188
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0e5d2e968fc6de400800000000000000
-      internalID: 355059759816300000
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_87
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 188
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1b233caeeb15b4960800000000000000
-      internalID: 7587247877660029617
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_88
-      rect:
-        serializedVersion: 2
-        x: 180
-        y: 188
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 94e5e2cc19d99cc80800000000000000
-      internalID: -8301931188559389111
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_89
-      rect:
-        serializedVersion: 2
-        x: 216
-        y: 188
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0f95ddab8263f5550800000000000000
-      internalID: 6151695164573047280
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_90
-      rect:
-        serializedVersion: 2
-        x: 252
-        y: 188
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2c68408a16d36a4a0800000000000000
-      internalID: -6582506315715410238
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_91
-      rect:
-        serializedVersion: 2
-        x: 288
-        y: 188
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f266a55e9fa49a8c0800000000000000
-      internalID: -3987573557904644561
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_20
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 404
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 503b4fbdfa48704b0800000000000000
-      internalID: -5474260931201158395
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_23
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 404
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 17fdfceea374ea3d0800000000000000
-      internalID: -3193536767318827151
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_30
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 332
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1916e2fa86f006670800000000000000
-      internalID: 8529834636529787281
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_31
-      rect:
-        serializedVersion: 2
-        x: 36
-        y: 332
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ced457aee13554530800000000000000
-      internalID: 3838565649650896364
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_32
-      rect:
-        serializedVersion: 2
-        x: 72
-        y: 332
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ee762c7c17ef32920800000000000000
-      internalID: 2964492744376084462
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_33
-      rect:
-        serializedVersion: 2
-        x: 108
-        y: 332
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 44748556ca8899e70800000000000000
-      internalID: 9122472794231686980
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_34
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 332
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6da1f63f570185860800000000000000
-      internalID: 7518777676676405974
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_35
-      rect:
-        serializedVersion: 2
-        x: 180
-        y: 332
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 77a67e930c4668530800000000000000
-      internalID: 3856880907657374327
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_48
-      rect:
-        serializedVersion: 2
-        x: 144
-        y: 296
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: a3c233d8a8882e960800000000000000
-      internalID: 7629810847374847034
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_57
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 260
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 00c305b826d7fdac0800000000000000
-      internalID: -3828203296044073984
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_92
-      rect:
-        serializedVersion: 2
-        x: 324
-        y: 188
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 429677e87c73a1680800000000000000
-      internalID: -8783646793004521180
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_93
-      rect:
-        serializedVersion: 2
-        x: 360
-        y: 188
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 8cced9f8a92317320800000000000000
-      internalID: 2553878103111625928
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_94
-      rect:
-        serializedVersion: 2
-        x: 396
-        y: 188
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 04b77139a1ef89df0800000000000000
-      internalID: -173109195563369664
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: afternoon_platform_95
-      rect:
-        serializedVersion: 2
-        x: 432
-        y: 188
-        width: 36
-        height: 36
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7fd0d16d6b6779350800000000000000
-      internalID: 6023413554279681527
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
       name: afternoon_platform_1
       rect:
         serializedVersion: 2
         x: 36
-        y: 476
+        y: 472
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2036,11 +746,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 72
-        y: 476
+        y: 472
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2057,11 +767,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 108
-        y: 476
+        y: 472
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2078,11 +788,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 144
-        y: 476
+        y: 472
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2099,11 +809,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 216
-        y: 476
+        y: 472
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2120,11 +830,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 252
-        y: 476
+        y: 472
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2137,15 +847,36 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
+      name: afternoon_platform_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 472
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003d0d8c03dc0a200800000000000000
+      internalID: 189376793760813824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
       name: afternoon_platform_9
       rect:
         serializedVersion: 2
         x: 324
-        y: 476
+        y: 472
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2161,12 +892,12 @@ TextureImporter:
       name: afternoon_platform_10
       rect:
         serializedVersion: 2
-        x: 0
-        y: 440
+        x: 360
+        y: 472
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2182,12 +913,12 @@ TextureImporter:
       name: afternoon_platform_11
       rect:
         serializedVersion: 2
-        x: 36
-        y: 440
+        x: 396
+        y: 472
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2203,12 +934,12 @@ TextureImporter:
       name: afternoon_platform_12
       rect:
         serializedVersion: 2
-        x: 72
-        y: 440
+        x: 432
+        y: 472
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2224,12 +955,12 @@ TextureImporter:
       name: afternoon_platform_13
       rect:
         serializedVersion: 2
-        x: 108
-        y: 440
+        x: 468
+        y: 472
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2245,12 +976,12 @@ TextureImporter:
       name: afternoon_platform_14
       rect:
         serializedVersion: 2
-        x: 144
-        y: 440
+        x: 0
+        y: 436
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2266,12 +997,12 @@ TextureImporter:
       name: afternoon_platform_15
       rect:
         serializedVersion: 2
-        x: 180
-        y: 440
+        x: 36
+        y: 436
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2287,12 +1018,12 @@ TextureImporter:
       name: afternoon_platform_16
       rect:
         serializedVersion: 2
-        x: 216
-        y: 440
+        x: 72
+        y: 436
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2308,12 +1039,12 @@ TextureImporter:
       name: afternoon_platform_17
       rect:
         serializedVersion: 2
-        x: 252
-        y: 440
+        x: 108
+        y: 436
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2329,12 +1060,12 @@ TextureImporter:
       name: afternoon_platform_18
       rect:
         serializedVersion: 2
-        x: 288
-        y: 440
+        x: 144
+        y: 436
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2350,12 +1081,12 @@ TextureImporter:
       name: afternoon_platform_19
       rect:
         serializedVersion: 2
-        x: 324
-        y: 440
+        x: 180
+        y: 436
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2368,15 +1099,36 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: afternoon_platform_21
+      name: afternoon_platform_20
       rect:
         serializedVersion: 2
-        x: 72
-        y: 404
+        x: 216
+        y: 436
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503b4fbdfa48704b0800000000000000
+      internalID: -5474260931201158395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_21
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2392,12 +1144,12 @@ TextureImporter:
       name: afternoon_platform_22
       rect:
         serializedVersion: 2
-        x: 108
-        y: 404
+        x: 288
+        y: 436
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2410,15 +1162,36 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: afternoon_platform_24
+      name: afternoon_platform_23
       rect:
         serializedVersion: 2
-        x: 180
-        y: 404
+        x: 324
+        y: 436
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17fdfceea374ea3d0800000000000000
+      internalID: -3193536767318827151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_24
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2434,12 +1207,12 @@ TextureImporter:
       name: afternoon_platform_25
       rect:
         serializedVersion: 2
-        x: 36
-        y: 368
+        x: 396
+        y: 436
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2455,12 +1228,12 @@ TextureImporter:
       name: afternoon_platform_26
       rect:
         serializedVersion: 2
-        x: 72
-        y: 368
+        x: 432
+        y: 436
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2476,12 +1249,12 @@ TextureImporter:
       name: afternoon_platform_27
       rect:
         serializedVersion: 2
-        x: 108
-        y: 368
+        x: 468
+        y: 436
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2497,12 +1270,12 @@ TextureImporter:
       name: afternoon_platform_28
       rect:
         serializedVersion: 2
-        x: 144
-        y: 368
+        x: 0
+        y: 400
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2518,12 +1291,12 @@ TextureImporter:
       name: afternoon_platform_29
       rect:
         serializedVersion: 2
-        x: 180
-        y: 368
+        x: 36
+        y: 400
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2536,15 +1309,288 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: afternoon_platform_43
+      name: afternoon_platform_30
       rect:
         serializedVersion: 2
-        x: 468
-        y: 332
+        x: 72
+        y: 400
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1916e2fa86f006670800000000000000
+      internalID: 8529834636529787281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_31
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced457aee13554530800000000000000
+      internalID: 3838565649650896364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee762c7c17ef32920800000000000000
+      internalID: 2964492744376084462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_33
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44748556ca8899e70800000000000000
+      internalID: 9122472794231686980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_34
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da1f63f570185860800000000000000
+      internalID: 7518777676676405974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_35
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77a67e930c4668530800000000000000
+      internalID: 3856880907657374327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_36
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544bc0b707e0789e0800000000000000
+      internalID: -1619309664752847803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_37
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b474b9e6907760790800000000000000
+      internalID: -7564227641728088245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_38
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7d769d66ab0f640800000000000000
+      internalID: 5111790527962404838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_39
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0858bc10edc09f130800000000000000
+      internalID: 3600923524711810432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_40
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760d35d40e68412e0800000000000000
+      internalID: -2155950023675490201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_41
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f2f0ff0bc59c300800000000000000
+      internalID: 272851167695810421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9f29544e857bfd0800000000000000
+      internalID: -2326292945070523916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_43
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2557,15 +1603,1107 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: afternoon_platform_96
+      name: afternoon_platform_44
       rect:
         serializedVersion: 2
-        x: 0
-        y: 152
+        x: 72
+        y: 364
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658c508f538823530800000000000000
+      internalID: 3833275998221486166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_45
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986cc0778f415ce30800000000000000
+      internalID: 4523044458145302153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_46
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cb662a7e37817d0800000000000000
+      internalID: -2947478517414708191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_47
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7336c4587b5102840800000000000000
+      internalID: 5197177847945126711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_48
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c233d8a8882e960800000000000000
+      internalID: 7629810847374847034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_49
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3141291d6ec1fa40800000000000000
+      internalID: 5400324396162302269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828f1ddfa71495800800000000000000
+      internalID: 601584021730883624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_51
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa00710711ed6d90800000000000000
+      internalID: -7102773548368786776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_52
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c981a28f7d2b72100800000000000000
+      internalID: 83231758780864668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_53
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fac0a5f980829300800000000000000
+      internalID: 257409458733370104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_54
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dd3e38862315e40800000000000000
+      internalID: 5643347232542678313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_55
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbbc9d934d1686110800000000000000
+      internalID: 1254360060354218941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65bb29ab3d1c42d90800000000000000
+      internalID: -7123355595480843434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_57
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c305b826d7fdac0800000000000000
+      internalID: -3828203296044073984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_58
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4043c23f9d7c330800000000000000
+      internalID: 3731190454741632185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_59
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a191b535a7481550800000000000000
+      internalID: 6131729667560935845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_60
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c979dbb172a445a90800000000000000
+      internalID: -7326149161995364452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_61
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71bc2ae323e1cb50800000000000000
+      internalID: 6611815471348756861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_62
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58bbcaa111edb9cb0800000000000000
+      internalID: -4856043608145609851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_63
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64da1b7c1a3f18570800000000000000
+      internalID: 8467316650598837574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_64
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4fe31efd4709eac0800000000000000
+      internalID: -3825518376917930162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_65
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288844fb0ee9ce600800000000000000
+      internalID: 498948346850084994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_66
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09fe8d55d1d05c10800000000000000
+      internalID: 2040361345526724874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_67
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4e42a5483ea9b00800000000000000
+      internalID: 836230838418203876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_68
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f860d372fbcca10800000000000000
+      internalID: 1931128515483570065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_69
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52be0d6ad8d1d5300800000000000000
+      internalID: 242382449174178597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd6396634c9730f0800000000000000
+      internalID: -1137268567590081064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_71
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f865c6cdffcacf0800000000000000
+      internalID: -239535357981978808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_72
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804897acf815b9a00800000000000000
+      internalID: 764294239788565512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_73
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa042cd0447636750800000000000000
+      internalID: 6296990245980356783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_74
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47f2c6d7791618c0800000000000000
+      internalID: -4029004814141425841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_75
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ad6e96f630e9b50800000000000000
+      internalID: 6601717880824715910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_76
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abfbe64f03aad320800000000000000
+      internalID: 2583556622260108197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_77
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b94022340847880800000000000000
+      internalID: -8614119161431024770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_78
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c6bdaa778e3fb880800000000000000
+      internalID: -8593080812399905087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_79
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44d2ff4683a975a0800000000000000
+      internalID: -6523002788007193523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_80
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76186766db5c661a0800000000000000
+      internalID: -6816543568720133785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_81
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbe17785beec3080800000000000000
+      internalID: -9206221074823255096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_82
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5233e6b49400720800000000000000
+      internalID: 2810326755799410172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_83
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d0f6fbc13d6e5c0800000000000000
+      internalID: -4186426683170026211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a5ebf713ef29160800000000000000
+      internalID: 7030961456828799518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_85
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09e5c005a4ddde30800000000000000
+      internalID: 4530010605352249612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_86
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e5d2e968fc6de400800000000000000
+      internalID: 355059759816300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_87
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b233caeeb15b4960800000000000000
+      internalID: 7587247877660029617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_88
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e5e2cc19d99cc80800000000000000
+      internalID: -8301931188559389111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_89
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f95ddab8263f5550800000000000000
+      internalID: 6151695164573047280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_90
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c68408a16d36a4a0800000000000000
+      internalID: -6582506315715410238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_91
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f266a55e9fa49a8c0800000000000000
+      internalID: -3987573557904644561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_92
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429677e87c73a1680800000000000000
+      internalID: -8783646793004521180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_93
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cced9f8a92317320800000000000000
+      internalID: 2553878103111625928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_94
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b77139a1ef89df0800000000000000
+      internalID: -173109195563369664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_95
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd0d16d6b6779350800000000000000
+      internalID: 6023413554279681527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_96
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2581,12 +2719,12 @@ TextureImporter:
       name: afternoon_platform_97
       rect:
         serializedVersion: 2
-        x: 36
-        y: 152
+        x: 468
+        y: 256
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2602,12 +2740,12 @@ TextureImporter:
       name: afternoon_platform_98
       rect:
         serializedVersion: 2
-        x: 72
-        y: 152
+        x: 0
+        y: 220
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2623,12 +2761,12 @@ TextureImporter:
       name: afternoon_platform_99
       rect:
         serializedVersion: 2
-        x: 108
-        y: 152
+        x: 36
+        y: 220
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2644,12 +2782,12 @@ TextureImporter:
       name: afternoon_platform_100
       rect:
         serializedVersion: 2
-        x: 144
-        y: 152
+        x: 72
+        y: 220
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2665,12 +2803,12 @@ TextureImporter:
       name: afternoon_platform_101
       rect:
         serializedVersion: 2
-        x: 180
-        y: 152
+        x: 108
+        y: 220
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2686,12 +2824,12 @@ TextureImporter:
       name: afternoon_platform_102
       rect:
         serializedVersion: 2
-        x: 216
-        y: 152
+        x: 144
+        y: 220
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2707,12 +2845,12 @@ TextureImporter:
       name: afternoon_platform_103
       rect:
         serializedVersion: 2
-        x: 252
-        y: 152
+        x: 180
+        y: 220
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2728,12 +2866,12 @@ TextureImporter:
       name: afternoon_platform_104
       rect:
         serializedVersion: 2
-        x: 288
-        y: 152
+        x: 216
+        y: 220
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2749,12 +2887,12 @@ TextureImporter:
       name: afternoon_platform_105
       rect:
         serializedVersion: 2
-        x: 324
-        y: 152
+        x: 252
+        y: 220
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2770,12 +2908,12 @@ TextureImporter:
       name: afternoon_platform_106
       rect:
         serializedVersion: 2
-        x: 360
-        y: 152
+        x: 288
+        y: 220
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2791,12 +2929,12 @@ TextureImporter:
       name: afternoon_platform_107
       rect:
         serializedVersion: 2
-        x: 396
-        y: 152
+        x: 324
+        y: 220
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2812,12 +2950,12 @@ TextureImporter:
       name: afternoon_platform_108
       rect:
         serializedVersion: 2
-        x: 432
-        y: 152
+        x: 360
+        y: 220
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2833,12 +2971,12 @@ TextureImporter:
       name: afternoon_platform_109
       rect:
         serializedVersion: 2
-        x: 468
-        y: 152
+        x: 396
+        y: 220
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2854,12 +2992,12 @@ TextureImporter:
       name: afternoon_platform_110
       rect:
         serializedVersion: 2
-        x: 0
-        y: 116
+        x: 432
+        y: 220
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2875,12 +3013,12 @@ TextureImporter:
       name: afternoon_platform_111
       rect:
         serializedVersion: 2
-        x: 36
-        y: 116
+        x: 468
+        y: 220
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2896,12 +3034,12 @@ TextureImporter:
       name: afternoon_platform_112
       rect:
         serializedVersion: 2
-        x: 72
-        y: 116
+        x: 0
+        y: 184
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2917,12 +3055,12 @@ TextureImporter:
       name: afternoon_platform_113
       rect:
         serializedVersion: 2
-        x: 108
-        y: 116
+        x: 36
+        y: 184
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2938,12 +3076,12 @@ TextureImporter:
       name: afternoon_platform_114
       rect:
         serializedVersion: 2
-        x: 144
-        y: 116
+        x: 72
+        y: 184
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2959,12 +3097,12 @@ TextureImporter:
       name: afternoon_platform_115
       rect:
         serializedVersion: 2
-        x: 180
-        y: 116
+        x: 108
+        y: 184
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -2980,12 +3118,12 @@ TextureImporter:
       name: afternoon_platform_116
       rect:
         serializedVersion: 2
-        x: 216
-        y: 116
+        x: 144
+        y: 184
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3001,12 +3139,12 @@ TextureImporter:
       name: afternoon_platform_117
       rect:
         serializedVersion: 2
-        x: 252
-        y: 116
+        x: 180
+        y: 184
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3022,12 +3160,12 @@ TextureImporter:
       name: afternoon_platform_118
       rect:
         serializedVersion: 2
-        x: 288
-        y: 116
+        x: 216
+        y: 184
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3043,12 +3181,12 @@ TextureImporter:
       name: afternoon_platform_119
       rect:
         serializedVersion: 2
-        x: 324
-        y: 116
+        x: 252
+        y: 184
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3064,12 +3202,12 @@ TextureImporter:
       name: afternoon_platform_120
       rect:
         serializedVersion: 2
-        x: 360
-        y: 116
+        x: 288
+        y: 184
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3085,12 +3223,12 @@ TextureImporter:
       name: afternoon_platform_121
       rect:
         serializedVersion: 2
-        x: 396
-        y: 116
+        x: 324
+        y: 184
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3106,12 +3244,12 @@ TextureImporter:
       name: afternoon_platform_122
       rect:
         serializedVersion: 2
-        x: 432
-        y: 116
+        x: 360
+        y: 184
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3127,12 +3265,12 @@ TextureImporter:
       name: afternoon_platform_123
       rect:
         serializedVersion: 2
-        x: 468
-        y: 116
+        x: 396
+        y: 184
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3148,12 +3286,12 @@ TextureImporter:
       name: afternoon_platform_124
       rect:
         serializedVersion: 2
-        x: 0
-        y: 80
+        x: 432
+        y: 184
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3169,12 +3307,12 @@ TextureImporter:
       name: afternoon_platform_125
       rect:
         serializedVersion: 2
-        x: 36
-        y: 80
+        x: 468
+        y: 184
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3190,12 +3328,12 @@ TextureImporter:
       name: afternoon_platform_126
       rect:
         serializedVersion: 2
-        x: 72
-        y: 80
+        x: 0
+        y: 148
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3211,12 +3349,12 @@ TextureImporter:
       name: afternoon_platform_127
       rect:
         serializedVersion: 2
-        x: 108
-        y: 80
+        x: 36
+        y: 148
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3232,12 +3370,12 @@ TextureImporter:
       name: afternoon_platform_128
       rect:
         serializedVersion: 2
-        x: 144
-        y: 80
+        x: 72
+        y: 148
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3253,12 +3391,12 @@ TextureImporter:
       name: afternoon_platform_129
       rect:
         serializedVersion: 2
-        x: 180
-        y: 80
+        x: 108
+        y: 148
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3274,12 +3412,12 @@ TextureImporter:
       name: afternoon_platform_130
       rect:
         serializedVersion: 2
-        x: 216
-        y: 80
+        x: 144
+        y: 148
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3295,12 +3433,12 @@ TextureImporter:
       name: afternoon_platform_131
       rect:
         serializedVersion: 2
-        x: 252
-        y: 80
+        x: 180
+        y: 148
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3316,12 +3454,12 @@ TextureImporter:
       name: afternoon_platform_132
       rect:
         serializedVersion: 2
-        x: 288
-        y: 80
+        x: 216
+        y: 148
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3337,12 +3475,12 @@ TextureImporter:
       name: afternoon_platform_133
       rect:
         serializedVersion: 2
-        x: 324
-        y: 80
+        x: 252
+        y: 148
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3358,12 +3496,12 @@ TextureImporter:
       name: afternoon_platform_134
       rect:
         serializedVersion: 2
-        x: 360
-        y: 80
+        x: 288
+        y: 148
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3379,12 +3517,12 @@ TextureImporter:
       name: afternoon_platform_135
       rect:
         serializedVersion: 2
-        x: 396
-        y: 80
+        x: 324
+        y: 148
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3400,12 +3538,12 @@ TextureImporter:
       name: afternoon_platform_136
       rect:
         serializedVersion: 2
-        x: 432
-        y: 80
+        x: 360
+        y: 148
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3421,12 +3559,12 @@ TextureImporter:
       name: afternoon_platform_137
       rect:
         serializedVersion: 2
-        x: 468
-        y: 80
+        x: 396
+        y: 148
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3442,12 +3580,12 @@ TextureImporter:
       name: afternoon_platform_138
       rect:
         serializedVersion: 2
-        x: 0
-        y: 44
+        x: 432
+        y: 148
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3463,12 +3601,12 @@ TextureImporter:
       name: afternoon_platform_139
       rect:
         serializedVersion: 2
-        x: 36
-        y: 44
+        x: 468
+        y: 148
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3484,12 +3622,12 @@ TextureImporter:
       name: afternoon_platform_140
       rect:
         serializedVersion: 2
-        x: 72
-        y: 44
+        x: 0
+        y: 112
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3505,12 +3643,12 @@ TextureImporter:
       name: afternoon_platform_141
       rect:
         serializedVersion: 2
-        x: 108
-        y: 44
+        x: 36
+        y: 112
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3526,12 +3664,12 @@ TextureImporter:
       name: afternoon_platform_142
       rect:
         serializedVersion: 2
-        x: 144
-        y: 44
+        x: 72
+        y: 112
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3547,12 +3685,12 @@ TextureImporter:
       name: afternoon_platform_143
       rect:
         serializedVersion: 2
-        x: 180
-        y: 44
+        x: 108
+        y: 112
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3568,12 +3706,12 @@ TextureImporter:
       name: afternoon_platform_144
       rect:
         serializedVersion: 2
-        x: 0
-        y: 8
+        x: 144
+        y: 112
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3589,12 +3727,12 @@ TextureImporter:
       name: afternoon_platform_145
       rect:
         serializedVersion: 2
-        x: 36
-        y: 8
+        x: 180
+        y: 112
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3610,12 +3748,12 @@ TextureImporter:
       name: afternoon_platform_146
       rect:
         serializedVersion: 2
-        x: 72
-        y: 8
+        x: 216
+        y: 112
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3631,12 +3769,12 @@ TextureImporter:
       name: afternoon_platform_147
       rect:
         serializedVersion: 2
-        x: 108
-        y: 8
+        x: 252
+        y: 112
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3652,12 +3790,12 @@ TextureImporter:
       name: afternoon_platform_148
       rect:
         serializedVersion: 2
-        x: 144
-        y: 8
+        x: 288
+        y: 112
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3673,12 +3811,12 @@ TextureImporter:
       name: afternoon_platform_149
       rect:
         serializedVersion: 2
-        x: 180
-        y: 8
+        x: 324
+        y: 112
         width: 36
         height: 36
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -3686,6 +3824,972 @@ TextureImporter:
       bones: []
       spriteID: 641665c4c6264adf0800000000000000
       internalID: -169902668656516794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_150
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ace213ae2a19ce40800000000000000
+      internalID: 5677097592883965097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_151
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c30120f6625745d0800000000000000
+      internalID: -3078401218215607353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_152
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbd7182c45346b50800000000000000
+      internalID: 6585447156328946687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_153
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8512b9dfb9cae54f0800000000000000
+      internalID: -838042694669622952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a59592d123346a0800000000000000
+      internalID: -6466269539144738202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_155
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9da8376a2eb1a660800000000000000
+      internalID: 7395401152448736666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_156
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f4c237acae317b0800000000000000
+      internalID: -5254598184974659808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_157
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d884c23a85bedad0800000000000000
+      internalID: -2675501523449640752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_158
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a14949598b0aeb0800000000000000
+      internalID: -4710562257647166873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_159
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a07b2cca64374f0800000000000000
+      internalID: -832243798318314966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_160
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1953cc409c7f04760800000000000000
+      internalID: 7440219027157038481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_161
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162e3ecddc49704a0800000000000000
+      internalID: -6627164714757266847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_162
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a722441dc0366c0800000000000000
+      internalID: -4151460338574656974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_163
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e13607dbe3ff9b0800000000000000
+      internalID: -5044244074276381171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_164
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a073d413a3bcdabc0800000000000000
+      internalID: -3770133862243551478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_165
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b39961aff16cac0800000000000000
+      internalID: -3835342873677972686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_166
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7212b998bac2bc900800000000000000
+      internalID: 705706881873289511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_167
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4132885f05b4b210800000000000000
+      internalID: 1347901266004685131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255fc584d9bcda260800000000000000
+      internalID: 7110563263072236882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_169
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad46172032118d290800000000000000
+      internalID: -7865517907140057894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_170
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a198dcad459cf80800000000000000
+      internalID: -8085838357239096799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_171
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95fabc58a51947600800000000000000
+      internalID: 465156479503806297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_172
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb11eeb72ef740630800000000000000
+      internalID: 3892376588673487292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_173
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f233513f640b3f0800000000000000
+      internalID: -887131116745314463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_174
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb537a1566b59f2b0800000000000000
+      internalID: -5550304570742721090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_175
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd30b67bbdb77620800000000000000
+      internalID: 2771892708517625291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_176
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69a05528c2456ce0800000000000000
+      internalID: -1412649480723846801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_177
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aec5b241724c6b20800000000000000
+      internalID: 3128948895333600932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_178
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 950ebcab267aa6ef0800000000000000
+      internalID: -114094798061969319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_179
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37e0883b69521e00800000000000000
+      internalID: 1013971183156127549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_180
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11eebb5090f21f970800000000000000
+      internalID: 8786856063773961745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_181
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413214464bd83ec70800000000000000
+      internalID: 8999192286332003092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198c1b7cd6d74a1a0800000000000000
+      internalID: -6799171626967381871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_183
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d0390ed2c74ccf0800000000000000
+      internalID: -232924744233317024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_184
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c21f7eb9d2bf9e0800000000000000
+      internalID: -1586624296083444646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_185
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe513d2a21ab1db0800000000000000
+      internalID: -4820081773651075396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_186
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db01ea10665575060800000000000000
+      internalID: 6942111247218118845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_187
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e8a790d26a50c30800000000000000
+      internalID: 4325045729521995373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_188
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df04ae138ab75d560800000000000000
+      internalID: 7337907130192249085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_189
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de2cb012eb0f3620800000000000000
+      internalID: 2755934562545315543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_190
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e790f57615d0e56d0800000000000000
+      internalID: -2999945658504377986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_191
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52cc065efdea79e40800000000000000
+      internalID: 5663187333090954277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_192
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60df0845bddafc4b0800000000000000
+      internalID: -5417920669176234746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_193
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401f3300e4c5e5810800000000000000
+      internalID: 1755942394801680644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_194
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfaf9c56c4734f4f0800000000000000
+      internalID: -795950432872957188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: afternoon_platform_195
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124991e646e930bc0800000000000000
+      internalID: -3818033904898960351
       vertices: []
       indices: 
       edges: []
