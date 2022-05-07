@@ -195,6 +195,9 @@ public class Player : MonoBehaviour
         else if (collision.CompareTag("FinishLine") && isFinish == false)
         {
             Debug.Log("³¡");
+
+            GameManager.instance.GameEnd();
+
             isMove = false;
             RightMove = false;
             LeftMove = false;

@@ -18,13 +18,17 @@ public class GameManager : MonoBehaviour
 
     [SerializeField] Cinemachine.CinemachineVirtualCamera VC_Start;
     [SerializeField] Cinemachine.CinemachineVirtualCamera VC_Playing;
+    [SerializeField] Cinemachine.CinemachineVirtualCamera VC_End;
+
+    [SerializeField] GameObject BG_Sun_Particles;
+    [SerializeField] GameObject MainCamera;
 
     //===================PlatformPrefab
     [SerializeField] GameObject DropPlatform;
     //===================PlatformPrefab
 
-    bool isGameStart;
-    bool isGameEnd;
+    public bool isGameStart;
+    public bool isGameEnd;
     public bool isReSpawning;
 
     // Start is called before the first frame update
@@ -38,7 +42,14 @@ public class GameManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if(!isGameEnd)
+        {
+            Vector3 SP_Pos = BG_Sun_Particles.transform.position;
 
+            SP_Pos.x = MainCamera.transform.position.x;
+
+            BG_Sun_Particles.transform.position = SP_Pos;
+        }
     }
 
     public void GameStart_Button()
@@ -52,6 +63,12 @@ public class GameManager : MonoBehaviour
             VC_Start.Priority = 9;
             VC_Playing.Priority = 10;
         }
+    }
+
+    public void GameEnd()
+    {
+        VC_End.Priority = 11;
+        isGameEnd = true;
     }
 
     public void setRespawnPoint(Vector3 Pos)
