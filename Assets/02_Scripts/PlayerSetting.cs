@@ -7,14 +7,14 @@ using UnityEngine.UI;
 public class PlayerSetting : MonoBehaviour
 {
     public enum backgroundImage { Morning, Afternoon, Evening, Night };
-    public enum BGM { Morning, Afternoon, Evening, Night };
+    //public enum BGM { Morning, Afternoon, Evening, Night };
 
     public Sprite treasureImg;//최종 보물 이미지
 
     public string playerName;//플레이어 이름 - 엔딩 크레딧에 들어감.
 
-    [SerializeField] backgroundImage _background;
-    [SerializeField] BGM _BGM;
+    [SerializeField] public backgroundImage _background;
+    //[SerializeField] BGM _BGM;
 
     public GameObject username1;
     public GameObject username2;

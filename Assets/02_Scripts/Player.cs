@@ -312,6 +312,7 @@ public class Player : MonoBehaviour
     {
         EndingEffect.gameObject.SetActive(false);
         EndingCredit.gameObject.SetActive(true);
+        GameObject.Find("GameManager").GetComponent<GameManager>().PlaySound("ending");
     }
 
     public void EndingShow()

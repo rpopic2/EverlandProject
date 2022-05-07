@@ -31,12 +31,21 @@ public class GameManager : MonoBehaviour
     public bool isGameEnd;
     public bool isReSpawning;
 
+    public AudioClip intro;
+    public AudioClip Ending;
+
+    public AudioClip Morning;
+    public AudioClip Afternoon;
+    public AudioClip Evening;
+    public AudioClip Night;
+
     // Start is called before the first frame update
     void Start()
     {
         isGameStart = false;
         isGameEnd = false;
         isReSpawning = false;
+        Invoke("PlayIntro", 2.5f);
     }
 
     // Update is called once per frame
@@ -52,6 +61,42 @@ public class GameManager : MonoBehaviour
         }
     }
 
+    public void PlaySound(string action)
+    {
+        switch (action)
+        {
+            case"intro":
+                this.GetComponent<AudioSource>().clip = intro;
+                break;
+
+            case "morning":
+                this.GetComponent<AudioSource>().clip = Morning;
+                break;
+
+            case "afternoon":
+                this.GetComponent<AudioSource>().clip = Afternoon;
+                break;
+            
+            case "evening":
+                this.GetComponent<AudioSource>().clip = Evening;
+                break;
+
+            
+            case "night":
+                this.GetComponent<AudioSource>().clip = Night;
+                break;
+            
+            case "ending":
+                this.GetComponent<AudioSource>().clip = Ending;
+                break;
+        }
+        this.GetComponent<AudioSource>().Play();
+    }
+
+    public void PlayIntro()
+    {
+        PlaySound("intro");
+    }
     public void GameStart_Button()
     {
         if (!isGameStart)
@@ -59,6 +104,26 @@ public class GameManager : MonoBehaviour
             isGameStart = true;
             Start_Panel.SetActive(false);
             Player_UI_Panel.SetActive(true);
+
+            if (GameObject.Find("PlayerSetting").GetComponent<PlayerSetting>()._background == PlayerSetting.backgroundImage.Morning)
+            {
+                PlaySound("morning");
+            }
+
+            else if (GameObject.Find("PlayerSetting").GetComponent<PlayerSetting>()._background == PlayerSetting.backgroundImage.Afternoon)
+            {
+                PlaySound("afternoon");
+            }
+
+            else if (GameObject.Find("PlayerSetting").GetComponent<PlayerSetting>()._background == PlayerSetting.backgroundImage.Evening)
+            {
+                PlaySound("evening");
+            }
+
+            else if (GameObject.Find("PlayerSetting").GetComponent<PlayerSetting>()._background == PlayerSetting.backgroundImage.Night)
+            {
+                PlaySound("night");
+            }
 
             VC_Start.Priority = 9;
             VC_Playing.Priority = 10;
