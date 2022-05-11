@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/01_Scenes/GAMBTI_0430.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/01_Scenes/GAMBTI.unity
+    guid: a7de4be8c688d894d870aaa7ac7d36bd
   m_configObjects: {}
