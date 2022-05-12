@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 7034655839386104612}
   - component: {fileID: 7034655839386104613}
   - component: {fileID: 7384847930695946629}
+  - component: {fileID: 1862459155912602805}
   m_Layer: 7
   m_Name: NormalPlatform
   m_TagString: Ground
@@ -120,5 +121,17 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 0ec1f00b1f114834e9be9026a64a864d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1862459155912602805
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7034655839386104634}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e79bbe73995e0c24c94101fad073e8ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 

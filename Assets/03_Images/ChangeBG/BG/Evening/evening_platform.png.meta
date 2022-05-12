@@ -1,0 +1,4689 @@
+fileFormatVersion: 2
+guid: 854b38af5e1e15a45829ed985c44d7e9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1155129685789995283
+    second: evening_platform_0
+  - first:
+      213: 3110795608416311530
+    second: evening_platform_6
+  - first:
+      213: -8307340394905820610
+    second: evening_platform_9
+  - first:
+      213: 5383897027006693401
+    second: evening_platform_21
+  - first:
+      213: 1072767056057185292
+    second: evening_platform_23
+  - first:
+      213: -7003088836488294346
+    second: evening_platform_30
+  - first:
+      213: -5680179893852951899
+    second: evening_platform_31
+  - first:
+      213: -5333717247443153942
+    second: evening_platform_32
+  - first:
+      213: 3847344503156280754
+    second: evening_platform_33
+  - first:
+      213: -495028871654606485
+    second: evening_platform_34
+  - first:
+      213: -5624817186281219212
+    second: evening_platform_35
+  - first:
+      213: -2708091873436495122
+    second: evening_platform_36
+  - first:
+      213: -2179199569386351888
+    second: evening_platform_37
+  - first:
+      213: 6181236184517158016
+    second: evening_platform_38
+  - first:
+      213: -1443169908637091261
+    second: evening_platform_39
+  - first:
+      213: -9147636477864063767
+    second: evening_platform_40
+  - first:
+      213: 253664234202964173
+    second: evening_platform_41
+  - first:
+      213: 8728170939917120091
+    second: evening_platform_42
+  - first:
+      213: -4761357803510734880
+    second: evening_platform_44
+  - first:
+      213: -5558653847258904562
+    second: evening_platform_45
+  - first:
+      213: 7596796554232144955
+    second: evening_platform_46
+  - first:
+      213: -3648057215680858182
+    second: evening_platform_47
+  - first:
+      213: 2275087390596201051
+    second: evening_platform_48
+  - first:
+      213: 4081626378071844974
+    second: evening_platform_49
+  - first:
+      213: 5488567304671818260
+    second: evening_platform_50
+  - first:
+      213: 1821770409841069451
+    second: evening_platform_51
+  - first:
+      213: -8492650342904581798
+    second: evening_platform_52
+  - first:
+      213: -2218777587192591747
+    second: evening_platform_53
+  - first:
+      213: 2091905873538149043
+    second: evening_platform_54
+  - first:
+      213: 2960778615973233344
+    second: evening_platform_55
+  - first:
+      213: 735448113133275786
+    second: evening_platform_56
+  - first:
+      213: 3616663108617183868
+    second: evening_platform_57
+  - first:
+      213: -1004009607402180144
+    second: evening_platform_58
+  - first:
+      213: -3715094780239851652
+    second: evening_platform_59
+  - first:
+      213: -2229751216367192010
+    second: evening_platform_60
+  - first:
+      213: -4022403360032963175
+    second: evening_platform_61
+  - first:
+      213: 6277043323502407302
+    second: evening_platform_62
+  - first:
+      213: -8366101505997098385
+    second: evening_platform_63
+  - first:
+      213: 9158252294456635738
+    second: evening_platform_64
+  - first:
+      213: 830251027546656130
+    second: evening_platform_65
+  - first:
+      213: -4173902164895882481
+    second: evening_platform_66
+  - first:
+      213: 8213711962466599069
+    second: evening_platform_67
+  - first:
+      213: -8346546928226573164
+    second: evening_platform_68
+  - first:
+      213: 5732141171862388951
+    second: evening_platform_69
+  - first:
+      213: 4756814155578844335
+    second: evening_platform_70
+  - first:
+      213: 3009425378203749807
+    second: evening_platform_71
+  - first:
+      213: -918513022052627665
+    second: evening_platform_72
+  - first:
+      213: 906331595068001389
+    second: evening_platform_73
+  - first:
+      213: 4511455506013753517
+    second: evening_platform_74
+  - first:
+      213: 5420340645390840238
+    second: evening_platform_75
+  - first:
+      213: -5608878540032020682
+    second: evening_platform_76
+  - first:
+      213: 3642691558450107252
+    second: evening_platform_77
+  - first:
+      213: -634214246410944662
+    second: evening_platform_78
+  - first:
+      213: -3744494500986698681
+    second: evening_platform_79
+  - first:
+      213: 1255570383001839779
+    second: evening_platform_80
+  - first:
+      213: -383618846979166802
+    second: evening_platform_81
+  - first:
+      213: -6382044428509949200
+    second: evening_platform_82
+  - first:
+      213: -8005940469445625607
+    second: evening_platform_83
+  - first:
+      213: 5061676580792368844
+    second: evening_platform_84
+  - first:
+      213: -977818366637556166
+    second: evening_platform_85
+  - first:
+      213: 8211923630473679118
+    second: evening_platform_86
+  - first:
+      213: -5551354058987412698
+    second: evening_platform_87
+  - first:
+      213: -5946800000346497781
+    second: evening_platform_88
+  - first:
+      213: -896908912266929889
+    second: evening_platform_89
+  - first:
+      213: -29163203655627019
+    second: evening_platform_90
+  - first:
+      213: -6309203973260589637
+    second: evening_platform_91
+  - first:
+      213: 1068428518200220558
+    second: evening_platform_92
+  - first:
+      213: 3044124260958285360
+    second: evening_platform_93
+  - first:
+      213: 6806041250922245204
+    second: evening_platform_94
+  - first:
+      213: 7667666843992757038
+    second: evening_platform_95
+  - first:
+      213: -2414583501440487201
+    second: evening_platform_96
+  - first:
+      213: -6129239237908381502
+    second: evening_platform_97
+  - first:
+      213: 4699479357700060059
+    second: evening_platform_98
+  - first:
+      213: 8618063492109122243
+    second: evening_platform_99
+  - first:
+      213: -293052796032711175
+    second: evening_platform_100
+  - first:
+      213: 3647240897978510282
+    second: evening_platform_101
+  - first:
+      213: -7317726770643643466
+    second: evening_platform_102
+  - first:
+      213: 381951356137398019
+    second: evening_platform_103
+  - first:
+      213: -3447702974287452477
+    second: evening_platform_104
+  - first:
+      213: -4730436581719685460
+    second: evening_platform_105
+  - first:
+      213: -940066845767621922
+    second: evening_platform_106
+  - first:
+      213: 9091946651074405886
+    second: evening_platform_107
+  - first:
+      213: 3168898067033237968
+    second: evening_platform_108
+  - first:
+      213: 7269503065454416195
+    second: evening_platform_109
+  - first:
+      213: -2530029232798351493
+    second: evening_platform_110
+  - first:
+      213: 3563559163904802765
+    second: evening_platform_111
+  - first:
+      213: -3327997038426802824
+    second: evening_platform_112
+  - first:
+      213: 8355416100240489981
+    second: evening_platform_113
+  - first:
+      213: -3916570210240885013
+    second: evening_platform_114
+  - first:
+      213: 3247961808191901614
+    second: evening_platform_115
+  - first:
+      213: 2179959853660822139
+    second: evening_platform_116
+  - first:
+      213: -2643794377580148037
+    second: evening_platform_117
+  - first:
+      213: 3357753627748493116
+    second: evening_platform_118
+  - first:
+      213: -1254856299438959106
+    second: evening_platform_119
+  - first:
+      213: -1616918602019627830
+    second: evening_platform_120
+  - first:
+      213: -8543796407556067260
+    second: evening_platform_121
+  - first:
+      213: 2677108922101449939
+    second: evening_platform_122
+  - first:
+      213: -772709620357336988
+    second: evening_platform_123
+  - first:
+      213: 3119394209506386891
+    second: evening_platform_124
+  - first:
+      213: 8353347862602770369
+    second: evening_platform_125
+  - first:
+      213: 324212425256050641
+    second: evening_platform_126
+  - first:
+      213: 6301986190457273910
+    second: evening_platform_127
+  - first:
+      213: 3626874616031556501
+    second: evening_platform_128
+  - first:
+      213: 1377201812791409763
+    second: evening_platform_129
+  - first:
+      213: 6538256958764808256
+    second: evening_platform_130
+  - first:
+      213: 1769129026856949740
+    second: evening_platform_131
+  - first:
+      213: -1874970543343431484
+    second: evening_platform_132
+  - first:
+      213: 1192586654894044956
+    second: evening_platform_133
+  - first:
+      213: -1344232727503259311
+    second: evening_platform_134
+  - first:
+      213: -1507569873104014498
+    second: evening_platform_135
+  - first:
+      213: 1456614141373309968
+    second: evening_platform_136
+  - first:
+      213: 6170674582604666666
+    second: evening_platform_137
+  - first:
+      213: -3756602373312748446
+    second: evening_platform_138
+  - first:
+      213: 8649848832631479547
+    second: evening_platform_139
+  - first:
+      213: 379080741865516018
+    second: evening_platform_140
+  - first:
+      213: 706971048583362067
+    second: evening_platform_141
+  - first:
+      213: -6155933680223435514
+    second: evening_platform_142
+  - first:
+      213: -5390268929507895677
+    second: evening_platform_143
+  - first:
+      213: -6005265239655360091
+    second: evening_platform_144
+  - first:
+      213: -8805647503708274530
+    second: evening_platform_145
+  - first:
+      213: -1481991503037526239
+    second: evening_platform_146
+  - first:
+      213: 1996119911982541644
+    second: evening_platform_147
+  - first:
+      213: -3896242438274670530
+    second: evening_platform_148
+  - first:
+      213: -2100128014236836265
+    second: evening_platform_149
+  - first:
+      213: 6715014852173372856
+    second: evening_platform_1
+  - first:
+      213: -6243618968375901164
+    second: evening_platform_2
+  - first:
+      213: 7624350921275469424
+    second: evening_platform_3
+  - first:
+      213: 8061982883293431681
+    second: evening_platform_4
+  - first:
+      213: 6329946263136341385
+    second: evening_platform_5
+  - first:
+      213: -5336026270218129775
+    second: evening_platform_7
+  - first:
+      213: -7303703289086616078
+    second: evening_platform_8
+  - first:
+      213: 529633085161764847
+    second: evening_platform_10
+  - first:
+      213: -347258407097110734
+    second: evening_platform_11
+  - first:
+      213: -9066210811707982900
+    second: evening_platform_12
+  - first:
+      213: 4094085277940562388
+    second: evening_platform_13
+  - first:
+      213: -274181946370148690
+    second: evening_platform_14
+  - first:
+      213: 7057394509917266574
+    second: evening_platform_15
+  - first:
+      213: -7667004023889918488
+    second: evening_platform_16
+  - first:
+      213: 1143125667905202264
+    second: evening_platform_17
+  - first:
+      213: 709053403707422499
+    second: evening_platform_18
+  - first:
+      213: 5149359233301269963
+    second: evening_platform_19
+  - first:
+      213: 3255869772629912248
+    second: evening_platform_20
+  - first:
+      213: -6817710473581760681
+    second: evening_platform_22
+  - first:
+      213: -6549256122274160728
+    second: evening_platform_24
+  - first:
+      213: -5622574295247386709
+    second: evening_platform_25
+  - first:
+      213: 4923898730663467248
+    second: evening_platform_26
+  - first:
+      213: -2233785156608254104
+    second: evening_platform_27
+  - first:
+      213: -330527617402950590
+    second: evening_platform_28
+  - first:
+      213: 9183767817630452521
+    second: evening_platform_29
+  - first:
+      213: 8745924477478451584
+    second: evening_platform_43
+  - first:
+      213: 4635722608547966234
+    second: evening_platform_150
+  - first:
+      213: -269233202335644375
+    second: evening_platform_151
+  - first:
+      213: 3963473107501214369
+    second: evening_platform_152
+  - first:
+      213: 3961160594578639755
+    second: evening_platform_153
+  - first:
+      213: -1117118841487655079
+    second: evening_platform_154
+  - first:
+      213: 4291489144908698973
+    second: evening_platform_155
+  - first:
+      213: 4691793698026497179
+    second: evening_platform_156
+  - first:
+      213: -8948563082597251401
+    second: evening_platform_157
+  - first:
+      213: -3762026592192023482
+    second: evening_platform_158
+  - first:
+      213: 7024803004553531867
+    second: evening_platform_159
+  - first:
+      213: -3734683830576217117
+    second: evening_platform_160
+  - first:
+      213: -3683164725433220336
+    second: evening_platform_161
+  - first:
+      213: -2116656929115809762
+    second: evening_platform_162
+  - first:
+      213: -6875629833352250476
+    second: evening_platform_163
+  - first:
+      213: 5795827597424279446
+    second: evening_platform_164
+  - first:
+      213: -6666588576509775696
+    second: evening_platform_165
+  - first:
+      213: 5053832689932574436
+    second: evening_platform_166
+  - first:
+      213: -3803682021325633825
+    second: evening_platform_167
+  - first:
+      213: -3925496295867300718
+    second: evening_platform_168
+  - first:
+      213: -5109210639116798244
+    second: evening_platform_169
+  - first:
+      213: -642632601981218085
+    second: evening_platform_170
+  - first:
+      213: -4180267805095457920
+    second: evening_platform_171
+  - first:
+      213: 854028544345150492
+    second: evening_platform_172
+  - first:
+      213: -7167884594890597212
+    second: evening_platform_173
+  - first:
+      213: 7699778288021409706
+    second: evening_platform_174
+  - first:
+      213: -629864891571299521
+    second: evening_platform_175
+  - first:
+      213: 187565647356111411
+    second: evening_platform_176
+  - first:
+      213: -958971780988356242
+    second: evening_platform_177
+  - first:
+      213: 5996302978048749349
+    second: evening_platform_178
+  - first:
+      213: -5700170510818261032
+    second: evening_platform_179
+  - first:
+      213: -2425733237584568835
+    second: evening_platform_180
+  - first:
+      213: 7303231847701230711
+    second: evening_platform_181
+  - first:
+      213: -5695012307450255183
+    second: evening_platform_182
+  - first:
+      213: -2959243022536454866
+    second: evening_platform_183
+  - first:
+      213: -7114697687842563047
+    second: evening_platform_184
+  - first:
+      213: -2601684846952966845
+    second: evening_platform_185
+  - first:
+      213: 8444984533902060068
+    second: evening_platform_186
+  - first:
+      213: 3221250512560985959
+    second: evening_platform_187
+  - first:
+      213: 3722853726465576002
+    second: evening_platform_188
+  - first:
+      213: -5161720654353500399
+    second: evening_platform_189
+  - first:
+      213: -6734885258527089406
+    second: evening_platform_190
+  - first:
+      213: 3529263635040852369
+    second: evening_platform_191
+  - first:
+      213: 1197566120003397568
+    second: evening_platform_192
+  - first:
+      213: -5698135544454384702
+    second: evening_platform_193
+  - first:
+      213: 6230936611115245841
+    second: evening_platform_194
+  - first:
+      213: -7672916756667704026
+    second: evening_platform_195
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: evening_platform_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 471
+        width: 161
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 311750f3458d70010800000000000000
+      internalID: 1155129685789995283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910040a22d177ba40800000000000000
+      internalID: 5383897027006693401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_23
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04b70724fb33ee00800000000000000
+      internalID: 1072767056057185292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_30
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6309c92aec700de90800000000000000
+      internalID: -7003088836488294346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa249e3b72fb21b0800000000000000
+      internalID: -5680179893852951899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_32
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aebc6c53c64daf5b0800000000000000
+      internalID: -5333717247443153942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_33
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd8e270173846530800000000000000
+      internalID: 3847344503156280754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69f67f2ddd4129f0800000000000000
+      internalID: -495028871654606485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b12351292a0f1b0800000000000000
+      internalID: -5624817186281219212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_36
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee212b80accea6ad0800000000000000
+      internalID: -2708091873436495122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_37
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2da0c998de1c1e0800000000000000
+      internalID: -2179199569386351888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_38
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 084afea6f8928c550800000000000000
+      internalID: 6181236184517158016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_39
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a37254d94d8fbe0800000000000000
+      internalID: -1443169908637091261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_40
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecc182f6111d0180800000000000000
+      internalID: -9147636477864063767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_41
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0a3ebe642358300800000000000000
+      internalID: 253664234202964173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52b5acd931b02970800000000000000
+      internalID: 8728170939917120091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_44
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef5531fd424cedb0800000000000000
+      internalID: -4761357803510734880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0846c4e6c1bbd2b0800000000000000
+      internalID: -5558653847258904562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_46
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b342bed673e3d6960800000000000000
+      internalID: 7596796554232144955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_47
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7ba036a4f7f5dc0800000000000000
+      internalID: -3648057215680858182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_48
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5af4758debb29f10800000000000000
+      internalID: 2275087390596201051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6826d2c099d4a830800000000000000
+      internalID: 4081626378071844974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_50
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41279c842ee4b2c40800000000000000
+      internalID: 5488567304671818260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_51
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d05ec198a384910800000000000000
+      internalID: 1821770409841069451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_52
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51b295528b042a80800000000000000
+      internalID: -8492650342904581798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_53
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a89cf3a815531e0800000000000000
+      internalID: -2218777587192591747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_54
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba6bcffe41f70d10800000000000000
+      internalID: 2091905873538149043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_55
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c248afd67cc61920800000000000000
+      internalID: 2960778615973233344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a4a0e8926d43a00800000000000000
+      internalID: 735448113133275786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_57
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7223657fe7f03230800000000000000
+      internalID: 3616663108617183868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_58
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1b6bfd49a0112f0800000000000000
+      internalID: -1004009607402180144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_59
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f45e41bf4517cc0800000000000000
+      internalID: -3715094780239851652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_60
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63830fa15155e01e0800000000000000
+      internalID: -2229751216367192010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_61
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995c5e5a47d8d28c0800000000000000
+      internalID: -4022403360032963175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_62
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e291145a98c1750800000000000000
+      internalID: 6277043323502407302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62be2c7103a5eb80800000000000000
+      internalID: -8366101505997098385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_64
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a517e7670f5a81f70800000000000000
+      internalID: 9158252294456635738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_65
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d425329e4a58b00800000000000000
+      internalID: 830251027546656130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_66
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03a52668125316c0800000000000000
+      internalID: -4173902164895882481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_67
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90c2320387fcf170800000000000000
+      internalID: 8213711962466599069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_68
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4946de96acb1b2c80800000000000000
+      internalID: -8346546928226573164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_69
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0cf3f8608ac8f40800000000000000
+      internalID: 5732141171862388951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4a3d59549930240800000000000000
+      internalID: 4756814155578844335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_71
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fad41e5df60a3c920800000000000000
+      internalID: 3009425378203749807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_72
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2b8bfed549c043f0800000000000000
+      internalID: -918513022052627665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_73
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ccdb4a8cfe39c00800000000000000
+      internalID: 906331595068001389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_74
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da01ee741e8eb9e30800000000000000
+      internalID: 4511455506013753517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_75
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1f12a491be83b40800000000000000
+      internalID: 5420340645390840238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_76
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63f64195fa24922b0800000000000000
+      internalID: -5608878540032020682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_77
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4739bbf2ca07d8230800000000000000
+      internalID: 3642691558450107252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_78
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ffe2bc081d237f0800000000000000
+      internalID: -634214246410944662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_79
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744c84d2712e80cc0800000000000000
+      internalID: -3744494500986698681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_80
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8635d6c9eac6110800000000000000
+      internalID: 1255570383001839779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_81
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead69a0f0bc1daaf0800000000000000
+      internalID: -383618846979166802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_82
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f257e1e76c6e67a0800000000000000
+      internalID: -6382044428509949200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_83
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8f4c17f8f25e090800000000000000
+      internalID: -8005940469445625607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_84
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccefa064800be3640800000000000000
+      internalID: 5061676580792368844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_85
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e37b150671e62f0800000000000000
+      internalID: -977818366637556166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_86
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e011505880d96f170800000000000000
+      internalID: 8211923630473679118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623e1ab45e0a5f2b0800000000000000
+      internalID: -5551354058987412698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_88
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ddd0d38e8b87da0800000000000000
+      internalID: -5946800000346497781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_89
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f199278a81a8d83f0800000000000000
+      internalID: -896908912266929889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_90
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe08958834689ff0800000000000000
+      internalID: -29163203655627019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5c156f9643178a0800000000000000
+      internalID: -6309203973260589637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_92
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b98379312d3de00800000000000000
+      internalID: 1068428518200220558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_93
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e219a03e6ee3a20800000000000000
+      internalID: 3044124260958285360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_94
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c20ef257ae37e50800000000000000
+      internalID: 6806041250922245204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_95
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e239a3c9e56096a60800000000000000
+      internalID: 7667666843992757038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_96
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd0fe14391dad7ed0800000000000000
+      internalID: -2414583501440487201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_97
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0c511236190faa0800000000000000
+      internalID: -6129239237908381502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_98
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b933ef0b397e73140800000000000000
+      internalID: 4699479357700060059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_99
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca3deae513899770800000000000000
+      internalID: 8618063492109122243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_100
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f50900e80edeebf0800000000000000
+      internalID: -293052796032711175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_101
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb2946d54a9d9230800000000000000
+      internalID: 3647240897978510282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_102
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b35b68e546327a90800000000000000
+      internalID: -7317726770643643466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_103
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f5c081cb6fc4500800000000000000
+      internalID: 381951356137398019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_104
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6e98e596c4720d0800000000000000
+      internalID: -3447702974287452477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_105
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca6c51aedfc1a5eb0800000000000000
+      internalID: -4730436581719685460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_106
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed226e83f2634f2f0800000000000000
+      internalID: -940066845767621922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_107
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5a716de451d2e70800000000000000
+      internalID: 9091946651074405886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_108
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d920fe90003afb20800000000000000
+      internalID: 3168898067033237968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_109
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3411606c58672e460800000000000000
+      internalID: 7269503065454416195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_110
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f33b341d783ecd0800000000000000
+      internalID: -2530029232798351493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_111
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf32a4dd2e447130800000000000000
+      internalID: 3563559163904802765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_112
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875b407735490d1d0800000000000000
+      internalID: -3327997038426802824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_113
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdf96d9ca664f370800000000000000
+      internalID: 8355416100240489981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_114
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee07b8052c85a9c0800000000000000
+      internalID: -3916570210240885013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_115
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf405d5e04131d20800000000000000
+      internalID: 3247961808191901614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ad01edfe5c04e10800000000000000
+      internalID: 2179959853660822139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_117
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba0921650b5f4bd0800000000000000
+      internalID: -2643794377580148037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_118
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c376a316223299e20800000000000000
+      internalID: 3357753627748493116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_119
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef597cb18dad59ee0800000000000000
+      internalID: -1254856299438959106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_120
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc16e7291d8f89e0800000000000000
+      internalID: -1616918602019627830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_121
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440bc5e2f665e6980800000000000000
+      internalID: -8543796407556067260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_122
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d4c2e67160072520800000000000000
+      internalID: 2677108922101449939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_123
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460f21cb1b8c645f0800000000000000
+      internalID: -772709620357336988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_124
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3e90c91805a4b20800000000000000
+      internalID: 3119394209506386891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_125
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7e4b38f9d0de370800000000000000
+      internalID: 8353347862602770369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_126
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df9727ab75df7400800000000000000
+      internalID: 324212425256050641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_127
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e7f950d07257750800000000000000
+      internalID: 6301986190457273910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_128
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593317d4f3f355230800000000000000
+      internalID: 3626874616031556501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_129
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cb47380cdcc1310800000000000000
+      internalID: 1377201812791409763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_130
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048f665101e8cba50800000000000000
+      internalID: 6538256958764808256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_131
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce714a70a753d8810800000000000000
+      internalID: 1769129026856949740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_132
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c091bf8934caf5e0800000000000000
+      internalID: -1874970543343431484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_133
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17b4d87e3bec8010800000000000000
+      internalID: 1192586654894044956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_134
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159b6b5d473585de0800000000000000
+      internalID: -1344232727503259311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_135
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53fd871039041be0800000000000000
+      internalID: -1507569873104014498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_136
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014ed5718dee63410800000000000000
+      internalID: 1456614141373309968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_137
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27dea8d6d3a2a550800000000000000
+      internalID: 6170674582604666666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_138
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264ed487b0edddbc0800000000000000
+      internalID: -3756602373312748446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_139
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc93d53faf6a0870800000000000000
+      internalID: 8649848832631479547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_140
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbe5102de3c24500800000000000000
+      internalID: 379080741865516018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_141
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316fb494c6aafc900800000000000000
+      internalID: 706971048583362067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_142
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6054b61feeab19aa0800000000000000
+      internalID: -6155933680223435514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_143
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3865bdca7fae135b0800000000000000
+      internalID: -5390268929507895677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_144
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a95750f41309aca0800000000000000
+      internalID: -6005265239655360091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_145
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e90c92cef3e0cc580800000000000000
+      internalID: -8805647503708274530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_146
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f0d457498ee6be0800000000000000
+      internalID: -1481991503037526239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_147
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4badcaeb74a3bb10800000000000000
+      internalID: 1996119911982541644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_148
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3026d34524cde9c0800000000000000
+      internalID: -3896242438274670530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_149
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e1190b2b8dad2e0800000000000000
+      internalID: -2100128014236836265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 471
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d8d8db69c78d750800000000000000
+      internalID: 6329946263136341385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 472
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdd3252e8804aa90800000000000000
+      internalID: -7303703289086616078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 472
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe77c5e1c72a95700800000000000000
+      internalID: 529633085161764847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 472
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f65bf815a4e2bf0800000000000000
+      internalID: -347258407097110734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_12
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 472
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbf6553d495e2280800000000000000
+      internalID: -9066210811707982900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_13
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 472
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9bdcf6edc11d830800000000000000
+      internalID: 4094085277940562388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea638c2f8f8e13cf0800000000000000
+      internalID: -274181946370148690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8229634ae6e0f160800000000000000
+      internalID: 7057394509917266574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e50d883674599590800000000000000
+      internalID: -7667004023889918488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858ee190db23ddf00800000000000000
+      internalID: 1143125667905202264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32733ce505017d900800000000000000
+      internalID: 709053403707422499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_19
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdccc1b0f2367740800000000000000
+      internalID: 5149359233301269963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baa980de4c2f2d20800000000000000
+      internalID: 3255869772629912248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75fe2b03270a261a0800000000000000
+      internalID: -6817710473581760681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_24
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8afdbc8914e5c15a0800000000000000
+      internalID: -6549256122274160728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba78988d77a98f1b0800000000000000
+      internalID: -5622574295247386709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_26
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8513fbec3355440800000000000000
+      internalID: 4923898730663467248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_27
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f13d33c300001e0800000000000000
+      internalID: -2233785156608254104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24cad3812eab96bf0800000000000000
+      internalID: -330527617402950590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b07852c2c437f70800000000000000
+      internalID: 9183767817630452521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_43
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0893f7079f3cf5970800000000000000
+      internalID: 8745924477478451584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_150
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dafbfb625655040800000000000000
+      internalID: 4635722608547966234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_151
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9250b0534dd734cf0800000000000000
+      internalID: -269233202335644375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_152
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa6c69bac5110730800000000000000
+      internalID: 3963473107501214369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_153
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b822ad29ed8f630800000000000000
+      internalID: 3961160594578639755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_154
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f7b3915523f70f0800000000000000
+      internalID: -1117118841487655079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_155
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d555ab7d3ae6e8b30800000000000000
+      internalID: 4291489144908698973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_156
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94294a92899c1140800000000000000
+      internalID: 4691793698026497179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_157
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6cd93b94150d380800000000000000
+      internalID: -8948563082597251401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_158
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64432d81fb89acbc0800000000000000
+      internalID: -3762026592192023482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_159
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd192871d1d1d7160800000000000000
+      internalID: 7024803004553531867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_160
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e30c12e7dcbb2cc0800000000000000
+      internalID: -3734683830576217117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_161
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013cd4b4235c2ecc0800000000000000
+      internalID: -3683164725433220336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_162
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18deacccbf10a2e0800000000000000
+      internalID: -2116656929115809762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_163
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49bf5ff581bd490a0800000000000000
+      internalID: -6875629833352250476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_164
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f31e30e7aee6050800000000000000
+      internalID: 5795827597424279446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_165
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b03571c2058b73a0800000000000000
+      internalID: -6666588576509775696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_166
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee10bd1e02d22640800000000000000
+      internalID: 5053832689932574436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_167
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd68858ba5b963bc0800000000000000
+      internalID: -3803682021325633825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_168
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294c7b5cae5d589c0800000000000000
+      internalID: -3925496295867300718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_169
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6fbc45eff6819b0800000000000000
+      internalID: -5109210639116798244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_170
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd213d5ad09e417f0800000000000000
+      internalID: -642632601981218085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_171
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b884b4494bcf5c0800000000000000
+      internalID: -4180267805095457920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_172
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c149cbdaf6e1adb00800000000000000
+      internalID: 854028544345150492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_173
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac1d8220fe868c90800000000000000
+      internalID: -7167884594890597212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_174
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf08cace8b1bda60800000000000000
+      internalID: 7699778288021409706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_175
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b1761e7354247f0800000000000000
+      internalID: -629864891571299521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_176
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a2ab666fd5a9200800000000000000
+      internalID: 187565647356111411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_177
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69b09cfe3c01b2f0800000000000000
+      internalID: -958971780988356242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_178
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f663ce9c5273350800000000000000
+      internalID: 5996302978048749349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_179
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d745870f1de4e0b0800000000000000
+      internalID: -5700170510818261032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_180
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdd9e5f870165ed0800000000000000
+      internalID: -2425733237584568835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_181
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7743d8adbaa4a5560800000000000000
+      internalID: 7303231847701230711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_182
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b823f6da7047f0b0800000000000000
+      internalID: -5695012307450255183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_183
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d49a55628aee6d0800000000000000
+      internalID: -2959243022536454866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_184
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cd9dfe524834d90800000000000000
+      internalID: -7114697687842563047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_185
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3451adf7a65f4ebd0800000000000000
+      internalID: -2601684846952966845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_186
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a66eca0bc923570800000000000000
+      internalID: 8444984533902060068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_187
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7671eb5364e24bc20800000000000000
+      internalID: 3221250512560985959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_188
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c48bc5dbb3aa330800000000000000
+      internalID: 3722853726465576002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_189
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117767fa962ed58b0800000000000000
+      internalID: -5161720654353500399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_190
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d5a725a81e882a0800000000000000
+      internalID: -6734885258527089406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_191
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1995055c3967af030800000000000000
+      internalID: 3529263635040852369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_192
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c768d98a0c9e9010800000000000000
+      internalID: 1197566120003397568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_193
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3f4ce89e72ce0b0800000000000000
+      internalID: -5698135544454384702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_194
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111208bb5dbb87650800000000000000
+      internalID: 6230936611115245841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: evening_platform_195
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ddda7dcd2548590800000000000000
+      internalID: -7672916756667704026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

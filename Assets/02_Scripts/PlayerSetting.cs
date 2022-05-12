@@ -30,8 +30,47 @@ public class PlayerSetting : MonoBehaviour
     public Sprite[] sunSprite;
     public Sprite[] tentSprite;
 
+    public GameObject[] TileMaps;
+
+    public GameObject[] NormalPlatforms;
+    public GameObject[] VanishPlatforms;
+    public GameObject[] DropPlatforms;
+    public GameObject[] MovingPlatforms;
+    public GameObject[] Small_NormalPlatforms;
+
+    public Sprite[] Large_Platform_sprites;
+    public Sprite[] Middle_Platform_sprites;
+    public Sprite[] Small_Platform_sprites;
+
     void Start()
     {
+        TileMaps[(int)_background].SetActive(true);
+
+        foreach(GameObject go in NormalPlatforms)
+        {
+            go.GetComponent<SpriteRenderer>().sprite = Large_Platform_sprites[(int)_background];
+        }
+
+        foreach(GameObject go in VanishPlatforms)
+        {
+            go.GetComponent<SpriteRenderer>().sprite = Middle_Platform_sprites[(int)_background];
+        }
+
+        foreach(GameObject go in DropPlatforms)
+        {
+            go.GetComponent<SpriteRenderer>().sprite = Middle_Platform_sprites[(int)_background];
+        }
+
+        foreach(GameObject go in MovingPlatforms)
+        {
+            go.GetComponent<SpriteRenderer>().sprite = Middle_Platform_sprites[(int)_background];
+        }
+
+        foreach(GameObject go in Small_NormalPlatforms)
+        {
+            go.GetComponent<SpriteRenderer>().sprite = Small_Platform_sprites[(int)_background];
+        }
+
         if ( _background == backgroundImage.Morning)
         {
             GameObject.Find("Background_Sky").transform.GetChild(0).GetComponent<SpriteRenderer>().sprite = frontSprite[0];

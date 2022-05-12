@@ -1,0 +1,4689 @@
+fileFormatVersion: 2
+guid: 3ea89023100a5c34e8655c090bc6999a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7428971978630272736
+    second: morning_platform_0
+  - first:
+      213: 9097792463019109860
+    second: morning_platform_1
+  - first:
+      213: 8597156670535948410
+    second: morning_platform_2
+  - first:
+      213: 3791039517475644161
+    second: morning_platform_3
+  - first:
+      213: -6862094508946708115
+    second: morning_platform_4
+  - first:
+      213: -1571653514733115318
+    second: morning_platform_5
+  - first:
+      213: -5872379686852420621
+    second: morning_platform_6
+  - first:
+      213: -6899937050923380602
+    second: morning_platform_7
+  - first:
+      213: 1414121185568076935
+    second: morning_platform_8
+  - first:
+      213: -8589703627741598223
+    second: morning_platform_9
+  - first:
+      213: 711201717374223916
+    second: morning_platform_10
+  - first:
+      213: -8678645347515985620
+    second: morning_platform_11
+  - first:
+      213: 9046167322861612974
+    second: morning_platform_12
+  - first:
+      213: -1141687042679345544
+    second: morning_platform_13
+  - first:
+      213: -7178440383084074051
+    second: morning_platform_14
+  - first:
+      213: 1330504956994628565
+    second: morning_platform_15
+  - first:
+      213: -3961845883668840153
+    second: morning_platform_16
+  - first:
+      213: -7808348382221061951
+    second: morning_platform_17
+  - first:
+      213: 7623232869992509706
+    second: morning_platform_18
+  - first:
+      213: -6532446759353362943
+    second: morning_platform_19
+  - first:
+      213: -3467969786388078341
+    second: morning_platform_20
+  - first:
+      213: 8665579704967939431
+    second: morning_platform_21
+  - first:
+      213: 1450439301535006169
+    second: morning_platform_22
+  - first:
+      213: -7458730133181365418
+    second: morning_platform_23
+  - first:
+      213: 5166451724146991162
+    second: morning_platform_24
+  - first:
+      213: 562120568881365748
+    second: morning_platform_25
+  - first:
+      213: 3067988036650197425
+    second: morning_platform_26
+  - first:
+      213: -6898593373738037127
+    second: morning_platform_27
+  - first:
+      213: 3543921928413272631
+    second: morning_platform_28
+  - first:
+      213: -1354574951146780406
+    second: morning_platform_29
+  - first:
+      213: -1999518841443826421
+    second: morning_platform_30
+  - first:
+      213: -9108542783043250333
+    second: morning_platform_31
+  - first:
+      213: -125473259421182208
+    second: morning_platform_32
+  - first:
+      213: -5449699662564181220
+    second: morning_platform_33
+  - first:
+      213: 5089220321199182703
+    second: morning_platform_34
+  - first:
+      213: -7922147578804533957
+    second: morning_platform_35
+  - first:
+      213: 2760750451789703148
+    second: morning_platform_36
+  - first:
+      213: -7809416336706075552
+    second: morning_platform_37
+  - first:
+      213: 3781763178370809350
+    second: morning_platform_38
+  - first:
+      213: -7800855603641475043
+    second: morning_platform_39
+  - first:
+      213: -6429953880805634174
+    second: morning_platform_40
+  - first:
+      213: -6129028247639452199
+    second: morning_platform_41
+  - first:
+      213: -4161393811892201525
+    second: morning_platform_42
+  - first:
+      213: -8576845703847751606
+    second: morning_platform_43
+  - first:
+      213: 6922523597988579808
+    second: morning_platform_44
+  - first:
+      213: -7266481822620124390
+    second: morning_platform_45
+  - first:
+      213: 2509340463211878988
+    second: morning_platform_46
+  - first:
+      213: -9160776898926734449
+    second: morning_platform_47
+  - first:
+      213: 6162228313986550628
+    second: morning_platform_48
+  - first:
+      213: 738238226548371786
+    second: morning_platform_49
+  - first:
+      213: -4619097550945082641
+    second: morning_platform_50
+  - first:
+      213: 1306713420699711446
+    second: morning_platform_51
+  - first:
+      213: 8474489216978949733
+    second: morning_platform_52
+  - first:
+      213: -8541173526651186089
+    second: morning_platform_53
+  - first:
+      213: -2727607986253049541
+    second: morning_platform_54
+  - first:
+      213: -1754448349769993962
+    second: morning_platform_55
+  - first:
+      213: 5764198615403970642
+    second: morning_platform_56
+  - first:
+      213: -3031310302675831662
+    second: morning_platform_57
+  - first:
+      213: -5004328462006736598
+    second: morning_platform_58
+  - first:
+      213: 5346273130487824940
+    second: morning_platform_59
+  - first:
+      213: -2264960812454963636
+    second: morning_platform_60
+  - first:
+      213: 4720897076010550326
+    second: morning_platform_61
+  - first:
+      213: -3414759051061800347
+    second: morning_platform_62
+  - first:
+      213: 5994779262295665096
+    second: morning_platform_63
+  - first:
+      213: 7573392606803617339
+    second: morning_platform_64
+  - first:
+      213: -1222696815587441650
+    second: morning_platform_65
+  - first:
+      213: -3470270495249080634
+    second: morning_platform_66
+  - first:
+      213: 1676359684523678327
+    second: morning_platform_67
+  - first:
+      213: -8034677851331723646
+    second: morning_platform_68
+  - first:
+      213: -6540462987325260804
+    second: morning_platform_69
+  - first:
+      213: -8375193649285995631
+    second: morning_platform_70
+  - first:
+      213: -8346206130586706856
+    second: morning_platform_71
+  - first:
+      213: 4455118127938386245
+    second: morning_platform_72
+  - first:
+      213: -4698673838909264006
+    second: morning_platform_73
+  - first:
+      213: -9204638429781944544
+    second: morning_platform_74
+  - first:
+      213: 4400200564765278177
+    second: morning_platform_75
+  - first:
+      213: -1525412971589567602
+    second: morning_platform_76
+  - first:
+      213: -597835843783820425
+    second: morning_platform_77
+  - first:
+      213: 3214899835969420775
+    second: morning_platform_78
+  - first:
+      213: -7410644598820573313
+    second: morning_platform_79
+  - first:
+      213: 8596722772610587970
+    second: morning_platform_80
+  - first:
+      213: 1386304109663961742
+    second: morning_platform_81
+  - first:
+      213: 970147444540891450
+    second: morning_platform_82
+  - first:
+      213: 6774959415266205712
+    second: morning_platform_83
+  - first:
+      213: 3612687033283037494
+    second: morning_platform_84
+  - first:
+      213: -4319100887603157410
+    second: morning_platform_85
+  - first:
+      213: -770328874192330500
+    second: morning_platform_86
+  - first:
+      213: 4756304974264174658
+    second: morning_platform_87
+  - first:
+      213: -9007865567090567503
+    second: morning_platform_88
+  - first:
+      213: -2935822278644923784
+    second: morning_platform_89
+  - first:
+      213: 2410247298098776733
+    second: morning_platform_90
+  - first:
+      213: -8171350066449738751
+    second: morning_platform_91
+  - first:
+      213: 859037943985111185
+    second: morning_platform_92
+  - first:
+      213: 4381254796502273363
+    second: morning_platform_93
+  - first:
+      213: -7406934137618258214
+    second: morning_platform_94
+  - first:
+      213: -6196565243942913193
+    second: morning_platform_95
+  - first:
+      213: 7486984157638224351
+    second: morning_platform_96
+  - first:
+      213: -2765768477095278786
+    second: morning_platform_97
+  - first:
+      213: 566897933377713626
+    second: morning_platform_98
+  - first:
+      213: -4677122898981339581
+    second: morning_platform_99
+  - first:
+      213: -3135828265967940153
+    second: morning_platform_100
+  - first:
+      213: -1053067925447361751
+    second: morning_platform_101
+  - first:
+      213: 3472559775404448010
+    second: morning_platform_102
+  - first:
+      213: 1528633612551178570
+    second: morning_platform_103
+  - first:
+      213: 1428389016981866570
+    second: morning_platform_104
+  - first:
+      213: 8776145949243861459
+    second: morning_platform_105
+  - first:
+      213: 6988352762134553874
+    second: morning_platform_106
+  - first:
+      213: 614708121926657749
+    second: morning_platform_107
+  - first:
+      213: -4054451248691092586
+    second: morning_platform_108
+  - first:
+      213: 2380465953312540286
+    second: morning_platform_109
+  - first:
+      213: -4282865370779134900
+    second: morning_platform_110
+  - first:
+      213: -8280531374652511017
+    second: morning_platform_111
+  - first:
+      213: 5034723431737135954
+    second: morning_platform_112
+  - first:
+      213: -8408390536694459969
+    second: morning_platform_113
+  - first:
+      213: -3465907953701751276
+    second: morning_platform_114
+  - first:
+      213: 1870186626334834053
+    second: morning_platform_115
+  - first:
+      213: -4943732938380664421
+    second: morning_platform_116
+  - first:
+      213: -8592915350667143553
+    second: morning_platform_117
+  - first:
+      213: 6021042335704198903
+    second: morning_platform_118
+  - first:
+      213: -2121831676851379740
+    second: morning_platform_119
+  - first:
+      213: 6104037457182568896
+    second: morning_platform_120
+  - first:
+      213: 6392710923662873934
+    second: morning_platform_121
+  - first:
+      213: -6009728633736287621
+    second: morning_platform_122
+  - first:
+      213: 1237782523930539552
+    second: morning_platform_123
+  - first:
+      213: -8875497351278758258
+    second: morning_platform_124
+  - first:
+      213: 745946500231250568
+    second: morning_platform_125
+  - first:
+      213: -7970271433049370799
+    second: morning_platform_126
+  - first:
+      213: 1078841294955510402
+    second: morning_platform_127
+  - first:
+      213: -2774344455500450645
+    second: morning_platform_128
+  - first:
+      213: 6731777585106459080
+    second: morning_platform_129
+  - first:
+      213: 6910619425115448525
+    second: morning_platform_130
+  - first:
+      213: -308690746728765932
+    second: morning_platform_131
+  - first:
+      213: 4949279737176138293
+    second: morning_platform_132
+  - first:
+      213: 5924388879333608463
+    second: morning_platform_133
+  - first:
+      213: 8250612827307235641
+    second: morning_platform_134
+  - first:
+      213: 3728965132060300187
+    second: morning_platform_135
+  - first:
+      213: -6945713254964461318
+    second: morning_platform_136
+  - first:
+      213: 4523797811976063662
+    second: morning_platform_137
+  - first:
+      213: -4022376264097685970
+    second: morning_platform_138
+  - first:
+      213: -1994746138745877828
+    second: morning_platform_139
+  - first:
+      213: -3479849117662612805
+    second: morning_platform_140
+  - first:
+      213: -6617662888322265576
+    second: morning_platform_141
+  - first:
+      213: -4347355792041003443
+    second: morning_platform_142
+  - first:
+      213: 6103962456048558957
+    second: morning_platform_143
+  - first:
+      213: 3341284343307959813
+    second: morning_platform_144
+  - first:
+      213: 1185655864812474679
+    second: morning_platform_145
+  - first:
+      213: -7926482801106391540
+    second: morning_platform_146
+  - first:
+      213: 8438341986089120371
+    second: morning_platform_147
+  - first:
+      213: -3830224151283346274
+    second: morning_platform_148
+  - first:
+      213: -6890734482175914386
+    second: morning_platform_149
+  - first:
+      213: 7422682024148939907
+    second: morning_platform_150
+  - first:
+      213: -8472211402052443813
+    second: morning_platform_151
+  - first:
+      213: -4631123038122882628
+    second: morning_platform_152
+  - first:
+      213: -8241439879060365483
+    second: morning_platform_153
+  - first:
+      213: -5298660916074239333
+    second: morning_platform_154
+  - first:
+      213: -2041598558953863514
+    second: morning_platform_155
+  - first:
+      213: 42945481531565526
+    second: morning_platform_156
+  - first:
+      213: 3104632860022668657
+    second: morning_platform_157
+  - first:
+      213: 2121009848328377053
+    second: morning_platform_158
+  - first:
+      213: -6681168372643278786
+    second: morning_platform_159
+  - first:
+      213: -6561528146086919478
+    second: morning_platform_160
+  - first:
+      213: 7432696227948660291
+    second: morning_platform_161
+  - first:
+      213: -8467642831732591523
+    second: morning_platform_162
+  - first:
+      213: 4387811235705113170
+    second: morning_platform_163
+  - first:
+      213: 1983230499826533835
+    second: morning_platform_164
+  - first:
+      213: -5586997393260020535
+    second: morning_platform_165
+  - first:
+      213: 8638617201428563717
+    second: morning_platform_166
+  - first:
+      213: 5415196258620957191
+    second: morning_platform_167
+  - first:
+      213: 4702766285298734206
+    second: morning_platform_168
+  - first:
+      213: 4089169118010879010
+    second: morning_platform_169
+  - first:
+      213: 4217340977874873589
+    second: morning_platform_170
+  - first:
+      213: -6066000111696470140
+    second: morning_platform_171
+  - first:
+      213: -4480929932962900627
+    second: morning_platform_172
+  - first:
+      213: -2307629649189809411
+    second: morning_platform_173
+  - first:
+      213: -6126944638978908145
+    second: morning_platform_174
+  - first:
+      213: 4125502975800086779
+    second: morning_platform_175
+  - first:
+      213: 8588344219812506195
+    second: morning_platform_176
+  - first:
+      213: -2845704484503257566
+    second: morning_platform_177
+  - first:
+      213: -7063796633187329019
+    second: morning_platform_178
+  - first:
+      213: 8952543927863525960
+    second: morning_platform_179
+  - first:
+      213: 5766000030877317390
+    second: morning_platform_180
+  - first:
+      213: 6699007641101109324
+    second: morning_platform_181
+  - first:
+      213: -3665071317174710828
+    second: morning_platform_182
+  - first:
+      213: 8389022538330946654
+    second: morning_platform_183
+  - first:
+      213: -6000791467196340180
+    second: morning_platform_184
+  - first:
+      213: 6416827994428805292
+    second: morning_platform_185
+  - first:
+      213: 4442750023490647868
+    second: morning_platform_186
+  - first:
+      213: -8204559478996010329
+    second: morning_platform_187
+  - first:
+      213: -1993576091334075165
+    second: morning_platform_188
+  - first:
+      213: -1730706110019635733
+    second: morning_platform_189
+  - first:
+      213: 2088473161217301940
+    second: morning_platform_190
+  - first:
+      213: 3513052983951022125
+    second: morning_platform_191
+  - first:
+      213: -6802062091421297977
+    second: morning_platform_192
+  - first:
+      213: -7817786865265077820
+    second: morning_platform_193
+  - first:
+      213: -5398908155481711546
+    second: morning_platform_194
+  - first:
+      213: -7391724341239866191
+    second: morning_platform_195
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 36
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: morning_platform_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 471
+        width: 161
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6969877a2091760800000000000000
+      internalID: 7428971978630272736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_5
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 471
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48a650947d503ae0800000000000000
+      internalID: -1571653514733115318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_8
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 472
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784b327d9b7ff9310800000000000000
+      internalID: 1414121185568076935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_10
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 472
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c260dbf9132bed900800000000000000
+      internalID: 711201717374223916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_11
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 472
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2196b1b9024f8780800000000000000
+      internalID: -8678645347515985620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_12
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 472
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafa9e160417a8d70800000000000000
+      internalID: 9046167322861612974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_13
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 472
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e6e600fa9e720f0800000000000000
+      internalID: -1141687042679345544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb64fc218e016c90800000000000000
+      internalID: -7178440383084074051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_15
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbaf858537e67210800000000000000
+      internalID: 1330504956994628565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_16
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7214319d822b409c0800000000000000
+      internalID: -3961845883668840153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_17
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0b73b448c23a390800000000000000
+      internalID: -7808348382221061951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_18
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a013cf7d7e92bc960800000000000000
+      internalID: 7623232869992509706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_19
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106579268461855a0800000000000000
+      internalID: -6532446759353362943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf02d867adb4fdfc0800000000000000
+      internalID: -3467969786388078341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_21
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765c27754d2524870800000000000000
+      internalID: 8665579704967939431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd72482cdef02410800000000000000
+      internalID: 1450439301535006169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_23
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653093046744d7890800000000000000
+      internalID: -7458730133181365418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_24
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a306cf6587ce2b740800000000000000
+      internalID: 5166451724146991162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_25
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f24d1dddad0dc700800000000000000
+      internalID: 562120568881365748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_26
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1eeab4ddea39a20800000000000000
+      internalID: 3067988036650197425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_27
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 436
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9701b7c70e54340a0800000000000000
+      internalID: -6898593373738037127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_28
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a5ac6a73a8e2130800000000000000
+      internalID: 3543921928413272631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09014f3245933de0800000000000000
+      internalID: -1354574951146780406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_30
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b054a0625384044e0800000000000000
+      internalID: -1999518841443826421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_31
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36752431994f79180800000000000000
+      internalID: -9108542783043250333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_32
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 007d36f3cba324ef0800000000000000
+      internalID: -125473259421182208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_33
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1bbb48d707ce54b0800000000000000
+      internalID: -5449699662564181220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_34
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63d6c41bea80a640800000000000000
+      internalID: 5089220321199182703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_35
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35822b10c0ee0290800000000000000
+      internalID: -7922147578804533957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_36
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7ac68a8e7205620800000000000000
+      internalID: 2760750451789703148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_37
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0648083c7316f9390800000000000000
+      internalID: -7809416336706075552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_38
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60eb177f2958b7430800000000000000
+      internalID: 3781763178370809350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_39
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10a5d0c82bcdb390800000000000000
+      internalID: -7800855603641475043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_40
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f8f64430734c6a0800000000000000
+      internalID: -6429953880805634174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_41
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 400
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d59d11284151faa0800000000000000
+      internalID: -6129028247639452199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_42
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc718a74062cf36c0800000000000000
+      internalID: -4161393811892201525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_43
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40d1d0464ce8f880800000000000000
+      internalID: -8576845703847751606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_44
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e94e57098eb11060800000000000000
+      internalID: 6922523597988579808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_45
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bf4e32845482b90800000000000000
+      internalID: -7266481822620124390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_46
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a12423bd7f2d220800000000000000
+      internalID: 2509340463211878988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_47
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f831ed042f16ed080800000000000000
+      internalID: -9160776898926734449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_48
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bc500b002a48550800000000000000
+      internalID: 6162228313986550628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41b70571cfbe3a00800000000000000
+      internalID: 738238226548371786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_50
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2aa0d104ba5efb0800000000000000
+      internalID: -4619097550945082641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_51
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7ba00dee0622210800000000000000
+      internalID: 1306713420699711446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_52
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56698e60b0f6b9570800000000000000
+      internalID: 8474489216978949733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_53
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7545cfa3ee7a77980800000000000000
+      internalID: -8541173526651186089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_54
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b315edcecf6952ad0800000000000000
+      internalID: -2727607986253049541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_55
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 364
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61170377582f6a7e0800000000000000
+      internalID: -1754448349769993962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250c3f5c91c8eff40800000000000000
+      internalID: 5764198615403970642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_57
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294760d175f9ee5d0800000000000000
+      internalID: -3031310302675831662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_58
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2926b227cd0d8ab0800000000000000
+      internalID: -5004328462006736598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_59
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2241fe1617c13a40800000000000000
+      internalID: 5346273130487824940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_60
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46117f242e3190e0800000000000000
+      internalID: -2264960812454963636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_61
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6340ac4d0eef38140800000000000000
+      internalID: 4720897076010550326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_62
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56259e73cb65c90d0800000000000000
+      internalID: -3414759051061800347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_63
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c9e2043afbb13350800000000000000
+      internalID: 5994779262295665096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_64
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36691943781a1960800000000000000
+      internalID: 7573392606803617339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_65
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e04c8ee69bb180fe0800000000000000
+      internalID: -1222696815587441650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_66
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ced820fe5f17dfc0800000000000000
+      internalID: -3470270495249080634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_67
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ad1d75040a34710800000000000000
+      internalID: 1676359684523678327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_68
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e7ca250171f7090800000000000000
+      internalID: -8034677851331723646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_69
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 328
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb33edd09b9b35a0800000000000000
+      internalID: -6540462987325260804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1936339efb555cb80800000000000000
+      internalID: -8375193649285995631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_71
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c113c8eb15c2c80800000000000000
+      internalID: -8346206130586706856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_72
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549bb284552c3dd30800000000000000
+      internalID: 4455118127938386245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_73
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f6464c905faceb0800000000000000
+      internalID: -4698673838909264006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_74
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02710facd1e824080800000000000000
+      internalID: -9204638429781944544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_75
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1efbe43b917a01d30800000000000000
+      internalID: 4400200564765278177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_76
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b71acfbf4a4dae0800000000000000
+      internalID: -1525412971589567602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_77
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bf441b77f04b7f0800000000000000
+      internalID: -597835843783820425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_78
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed3b671e5e9d9c20800000000000000
+      internalID: 3214899835969420775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_79
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fe1aa200a182990800000000000000
+      internalID: -7410644598820573313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_80
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24d17f570d1bd4770800000000000000
+      internalID: 8596722772610587970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_81
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e824f272e342d3310800000000000000
+      internalID: 1386304109663961742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_82
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31ec93f5f7a67d00800000000000000
+      internalID: 970147444540891450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_83
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 292
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01061a261bd750e50800000000000000
+      internalID: 6774959415266205712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_84
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639ce7747b7d22230800000000000000
+      internalID: 3612687033283037494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_85
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56e65550a87f04c0800000000000000
+      internalID: -4319100887603157410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_86
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf02a8568fd3f45f0800000000000000
+      internalID: -770328874192330500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_87
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24880729c2ac10240800000000000000
+      internalID: 4756304974264174658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_88
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b618111ef1adf280800000000000000
+      internalID: -9007865567090567503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_89
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87201b5313dd147d0800000000000000
+      internalID: -2935822278644923784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_90
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ac508c52be27120800000000000000
+      internalID: 2410247298098776733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10416e18868899e80800000000000000
+      internalID: -8171350066449738751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_92
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19080db657aebeb00800000000000000
+      internalID: 859037943985111185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_93
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d8ef746085dcc30800000000000000
+      internalID: 4381254796502273363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_94
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6ac8c35a8453990800000000000000
+      internalID: -7406934137618258214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_95
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b304fcdb0610aa0800000000000000
+      internalID: -6196565243942913193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_96
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9e0037c6c17e760800000000000000
+      internalID: 7486984157638224351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_97
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 256
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3743c749340e99d0800000000000000
+      internalID: -2765768477095278786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_98
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5b1e6baa60ed700800000000000000
+      internalID: 566897933377713626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_99
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e3f5bf085871fb0800000000000000
+      internalID: -4677122898981339581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_100
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd0a527ecc4b74d0800000000000000
+      internalID: -3135828265967940153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_101
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b3a5b1d40c261f0800000000000000
+      internalID: -1053067925447361751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_102
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09da42a7b2013030800000000000000
+      internalID: 3472559775404448010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_103
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a49c5dbeb2cc63510800000000000000
+      internalID: 1528633612551178570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_104
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4806463e38a2d310800000000000000
+      internalID: 1428389016981866570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_105
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9e9a92e322bc970800000000000000
+      internalID: 8776145949243861459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_106
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2156620bfcd9bf060800000000000000
+      internalID: 6988352762134553874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_107
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d66cffa7c1e78800800000000000000
+      internalID: 614708121926657749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_108
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693e0aa1212bbb7c0800000000000000
+      internalID: -4054451248691092586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_109
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e760b1b1c2d190120800000000000000
+      internalID: 2380465953312540286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_110
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4453e903a43094c0800000000000000
+      internalID: -4282865370779134900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_111
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 220
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc2c5e3694a51d80800000000000000
+      internalID: -8280531374652511017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_112
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253170b394eeed540800000000000000
+      internalID: 5034723431737135954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_113
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1129f3b556f4b80800000000000000
+      internalID: -8408390536694459969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_114
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416f76b441f96efc0800000000000000
+      internalID: -3465907953701751276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_115
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58dbf56f3dc34f910800000000000000
+      internalID: 1870186626334834053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b912c67e515546bb0800000000000000
+      internalID: -4943732938380664421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_117
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76db7a0405dfb880800000000000000
+      internalID: -8592915350667143553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_118
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7feac3d7a1a0f8350800000000000000
+      internalID: 6021042335704198903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_119
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e12a14f45dbd82e0800000000000000
+      internalID: -2121831676851379740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_120
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1bb0b0ab5e5b450800000000000000
+      internalID: 6104037457182568896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_121
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e455fac07b877b850800000000000000
+      internalID: 6392710923662873934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_122
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7aa7a506a7299ca0800000000000000
+      internalID: -6009728633736287621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_123
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026f010c5ac7d2110800000000000000
+      internalID: 1237782523930539552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_124
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86fb14fe26e3d480800000000000000
+      internalID: -8875497351278758258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_125
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 184
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882cab7c3622a5a00800000000000000
+      internalID: 745946500231250568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_126
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f06a52c58e36190800000000000000
+      internalID: -7970271433049370799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_127
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a78da1170d8fe00800000000000000
+      internalID: 1078841294955510402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_128
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba43255ba6c8f79d0800000000000000
+      internalID: -2774344455500450645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_129
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c915331c041c6d50800000000000000
+      internalID: 6731777585106459080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_130
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4abebc0c377ef50800000000000000
+      internalID: 6910619425115448525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_131
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41628cfb66f47bbf0800000000000000
+      internalID: -308690746728765932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_132
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5322c64d2bf5fa440800000000000000
+      internalID: 4949279737176138293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_133
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c44f70c48a73250800000000000000
+      internalID: 5924388879333608463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_134
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939ddee17a0108270800000000000000
+      internalID: 8250612827307235641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_135
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93954cd702ffb330800000000000000
+      internalID: 3728965132060300187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_136
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af00f16389edb9f90800000000000000
+      internalID: -6945713254964461318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_137
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaac5825422c7ce30800000000000000
+      internalID: 4523797811976063662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_138
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e9e796916ad28c0800000000000000
+      internalID: -4022376264097685970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_139
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 148
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba48f694fc3154e0800000000000000
+      internalID: -1994746138745877828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_140
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb273cd1aa715bfc0800000000000000
+      internalID: -3479849117662612805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_141
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e044a3aa65924a0800000000000000
+      internalID: -6617662888322265576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_142
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46b82fb0f61ba3c0800000000000000
+      internalID: -4347355792041003443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_143
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63681b7381a5b450800000000000000
+      internalID: 6103962456048558957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_144
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ef1784860ae5e20800000000000000
+      internalID: 3341284343307959813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_145
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73191082abb447010800000000000000
+      internalID: 1185655864812474679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_146
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e6fc183e97ff190800000000000000
+      internalID: -7926482801106391540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_147
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3723b1ef3530b1570800000000000000
+      internalID: 8438341986089120371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_148
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9452a48d6f48dac0800000000000000
+      internalID: -3830224151283346274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_149
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e8e544f713f50a0800000000000000
+      internalID: -6890734482175914386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_150
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384331259f9a20760800000000000000
+      internalID: 7422682024148939907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_151
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5166a61e98ac6a80800000000000000
+      internalID: -8472211402052443813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_152
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb9ce813222fabfb0800000000000000
+      internalID: -4631123038122882628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_153
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 112
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f5ed2581680ad80800000000000000
+      internalID: -8241439879060365483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_154
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a262868ff5776b0800000000000000
+      internalID: -5298660916074239333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_155
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a60b9f6de8caa3e0800000000000000
+      internalID: -2041598558953863514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_156
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5a56b10b2989000800000000000000
+      internalID: 42945481531565526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_157
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17df7ab132fd51b20800000000000000
+      internalID: 3104632860022668657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_158
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2d7be28375f6d10800000000000000
+      internalID: 2121009848328377053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_159
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30d50073c8b743a0800000000000000
+      internalID: -6681168372643278786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_160
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac203c46ae4c0f4a0800000000000000
+      internalID: -6561528146086919478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_161
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3460446d6dd362760800000000000000
+      internalID: 7432696227948660291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_162
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5432b145b3ec7a80800000000000000
+      internalID: -8467642831732591523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_163
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25acbad3213a4ec30800000000000000
+      internalID: 4387811235705113170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_164
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc581e9c1a9d58b10800000000000000
+      internalID: 1983230499826533835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_165
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ccf3b5d87ff672b0800000000000000
+      internalID: -5586997393260020535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_166
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5078ab9439882e770800000000000000
+      internalID: 8638617201428563717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_167
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 76
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70260286e44a62b40800000000000000
+      internalID: 5415196258620957191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_168
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e741ae82505934140800000000000000
+      internalID: 4702766285298734206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_169
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c2981c5a5afb830800000000000000
+      internalID: 4089169118010879010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_170
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc2ee26641078a30800000000000000
+      internalID: 4217340977874873589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_171
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f1ad6990d31dba0800000000000000
+      internalID: -6066000111696470140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_172
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65d45a87f980d1c0800000000000000
+      internalID: -4480929932962900627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_173
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2d1e67f07a9ffd0800000000000000
+      internalID: -2307629649189809411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_174
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00ad231058b8faa0800000000000000
+      internalID: -6126944638978908145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_175
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf09160491bb04930800000000000000
+      internalID: 4125502975800086779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_176
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a24be909def2770800000000000000
+      internalID: 8588344219812506195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_177
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e727939d60288d0800000000000000
+      internalID: -2845704484503257566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_178
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cd441436a58fd90800000000000000
+      internalID: -7063796633187329019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_179
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842c2601543dd3c70800000000000000
+      internalID: 8952543927863525960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_180
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09755f7a72f40050800000000000000
+      internalID: 5766000030877317390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_181
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 40
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c48857be4f7a7fc50800000000000000
+      internalID: 6699007641101109324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_182
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd045f2e0d032dc0800000000000000
+      internalID: -3665071317174710828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_183
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c36f93d8bcb6470800000000000000
+      internalID: 8389022538330946654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_184
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28219244f7e8bca0800000000000000
+      internalID: -6000791467196340180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_185
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca016b820172d0950800000000000000
+      internalID: 6416827994428805292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_186
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37b4009b91d7ad30800000000000000
+      internalID: 4442750023490647868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_187
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaf0eb9f9c832e80800000000000000
+      internalID: -8204559478996010329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_188
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec125b7b156554e0800000000000000
+      internalID: -1993576091334075165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_189
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be57ead66fb4bf7e0800000000000000
+      internalID: -1730706110019635733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_190
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bd5b41664fbbfc10800000000000000
+      internalID: 2088473161217301940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_191
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28d681731fd0c030800000000000000
+      internalID: 3513052983951022125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_192
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2dea411983a91a0800000000000000
+      internalID: -6802062091421297977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_193
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c119263444a18390800000000000000
+      internalID: -7817786865265077820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_194
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c9d8123a93315b0800000000000000
+      internalID: -5398908155481711546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: morning_platform_195
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 4
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc1acaefd15b6990800000000000000
+      internalID: -7391724341239866191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
