@@ -193,18 +193,21 @@ public class PlayerSetting : MonoBehaviour
 
     public void ShowCloseBtn()
     {
+        GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("click");
         ClosePanel.gameObject.SetActive(false);
         ShowPanel.gameObject.SetActive(true);
     }
 
     public void BackBtn()
     {
+        GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("click");
         ShowPanel.gameObject.SetActive(false);
         ClosePanel.gameObject.SetActive(true);
     }
 
     public void CloseBtn()
     {
+        GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("click");
         Application.Quit();
     }
 }

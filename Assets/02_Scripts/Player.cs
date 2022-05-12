@@ -77,7 +77,6 @@ public class Player : MonoBehaviour
         if (xInput == 1 || xInput == -1)
         {
             animator.SetBool("isRunning", true);
-            //animator.SetBool("isJumpping", false);
         }
 
         else
@@ -156,7 +155,6 @@ public class Player : MonoBehaviour
 
                 animator.SetTrigger("doJumping");
                 animator.SetBool("isJumpping", true);
-                //animator.SetBool("isRunning", false);
             }
 
             if (!LeftMove && !RightMove)
@@ -184,6 +182,7 @@ public class Player : MonoBehaviour
         else if (collision.CompareTag("EquipPoint"))
         {
             transform.GetChild(1).gameObject.SetActive(true);
+            //GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("jump");
         }
         else if (collision.CompareTag("Goal"))
         {
@@ -229,6 +228,7 @@ public class Player : MonoBehaviour
 
     public void ParticleShow()
     {
+        GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("success");
         particle.gameObject.SetActive(true);
         Invoke("TreasureShow", 1f);
     }
@@ -244,6 +244,7 @@ public class Player : MonoBehaviour
 
             Vector2 jumpVelocity = new Vector2(0, jumpPower);
             RB.AddForce(jumpVelocity, ForceMode2D.Impulse);
+            GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("jump");
             animator.SetBool("isJumpping", true);
         }
     }

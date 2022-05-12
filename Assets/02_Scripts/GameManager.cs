@@ -39,6 +39,8 @@ public class GameManager : MonoBehaviour
     public AudioClip Evening;
     public AudioClip Night;
 
+    AudioSource BG_AudioSource;
+
     // Start is called before the first frame update
     void Start()
     {
@@ -46,6 +48,8 @@ public class GameManager : MonoBehaviour
         isGameEnd = false;
         isReSpawning = false;
         Invoke("PlayIntro", 2.5f);
+
+        BG_AudioSource = GameObject.Find("SoundManager").transform.GetChild(0).GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -66,37 +70,37 @@ public class GameManager : MonoBehaviour
         switch (action)
         {
             case"intro":
-                this.GetComponent<AudioSource>().clip = intro;
+                BG_AudioSource.clip = intro;
                 break;
 
             case "morning":
-                this.GetComponent<AudioSource>().clip = Morning;
+                BG_AudioSource.clip = Morning;
                 break;
 
             case "afternoon":
-                this.GetComponent<AudioSource>().clip = Afternoon;
+                BG_AudioSource.clip = Afternoon;
                 break;
             
             case "evening":
-                this.GetComponent<AudioSource>().clip = Evening;
+                BG_AudioSource.clip = Evening;
                 break;
 
             
             case "night":
-                this.GetComponent<AudioSource>().clip = Night;
+                BG_AudioSource.clip = Night;
                 break;
             
             case "ending":
-                this.GetComponent<AudioSource>().clip = Ending;
+                BG_AudioSource.clip = Ending;
                 break;
         }
-        this.GetComponent<AudioSource>().Play();
+        BG_AudioSource.Play();
     }
 
-    public void PlayIntro()
+    /*public void PlayIntro()
     {
         PlaySound("intro");
-    }
+    }*/
     public void GameStart_Button()
     {
         if (!isGameStart)
@@ -104,6 +108,8 @@ public class GameManager : MonoBehaviour
             isGameStart = true;
             Start_Panel.SetActive(false);
             Player_UI_Panel.SetActive(true);
+
+            GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("click");
 
             if (GameObject.Find("PlayerSetting").GetComponent<PlayerSetting>()._background == PlayerSetting.backgroundImage.Morning)
             {
