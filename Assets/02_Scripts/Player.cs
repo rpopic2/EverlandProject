@@ -19,6 +19,9 @@ public class Player : MonoBehaviour
     public bool isMove = false;
     public bool isFinish = false;
 
+    public int touchCnt = 0;
+    public int petCnt = 0;
+
     Animator animator;
 
     public GameObject treasure;
@@ -33,6 +36,8 @@ public class Player : MonoBehaviour
     [SerializeField] Cinemachine.CinemachineVirtualCamera VC_Playing;
 
     int playerLayer, platformLayer;
+
+    public AudioClip success2;
 
     void Start()
     {
@@ -175,21 +180,31 @@ public class Player : MonoBehaviour
         }
         else if (collision.CompareTag("DeadZone"))
         {
+            GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("damage");
             GameManager.instance.ReSpawn();
             Invoke("DamageEffect", 0.2f);
             Invoke("HealEffect", 0.8f);
         }
         else if (collision.CompareTag("EquipPoint"))
         {
-            transform.GetChild(1).gameObject.SetActive(true);
-            //GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("jump");
+            if (petCnt == 0)
+            {
+                transform.GetChild(1).gameObject.SetActive(true);
+                GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("pet");
+                petCnt += 1;//이거 해야지 여기 다시 통과해도 소리 안남.
+            }
         }
         else if (collision.CompareTag("Goal"))
         {
             // goal effect
-            BtnUI.gameObject.SetActive(false);
-            collision.GetComponent<Animator>().SetBool("Open", true);
-            Invoke("ParticleShow", 0.5f);
+            if (touchCnt == 0)
+            {
+                BtnUI.gameObject.SetActive(false);
+                collision.GetComponent<Animator>().SetBool("Open", true);
+                GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("cabinet");
+                Invoke("ParticleShow", 0.5f);
+                touchCnt += 1;//이거 안하면 점프하면서 또 밟아서 소리 계속 남
+            }
         }
         else if (collision.CompareTag("FinishLine") && isFinish == false)
         {
@@ -217,6 +232,8 @@ public class Player : MonoBehaviour
     {
         if (isMove == false)
         {
+            GameObject.Find(" Chest Goldenops - Chest Golden").GetComponent<AudioSource>().clip = success2;
+            GameObject.Find(" Chest Goldenops - Chest Golden").GetComponent<AudioSource>().Play();
             VC_Start.Priority = 10;
             VC_Playing.Priority = 9;
             treasure.GetComponent<SpriteRenderer>().sprite = PlayerSetting.FindObjectOfType<PlayerSetting>().treasureImg;
@@ -250,6 +267,7 @@ public class Player : MonoBehaviour
     }
     public void DamageEffect()
     {
+
         Color color1 = transform.GetChild(0).GetChild(0).GetComponent<SpriteRenderer>().color;
         color1.a = 0.5f;
         transform.GetChild(0).GetChild(0).GetComponent<SpriteRenderer>().color = color1;
@@ -318,7 +336,9 @@ public class Player : MonoBehaviour
 
     public void EndingShow()
     {
+        GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("zoomin");
         EndingEffect.gameObject.SetActive(true);
+
     }
 
     public void ClickToFinish()

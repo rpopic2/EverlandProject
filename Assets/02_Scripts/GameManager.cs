@@ -97,10 +97,6 @@ public class GameManager : MonoBehaviour
         BG_AudioSource.Play();
     }
 
-    /*public void PlayIntro()
-    {
-        PlaySound("intro");
-    }*/
     public void GameStart_Button()
     {
         if (!isGameStart)
@@ -133,6 +129,8 @@ public class GameManager : MonoBehaviour
 
             VC_Start.Priority = 9;
             VC_Playing.Priority = 10;
+
+            GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("zoomout");
         }
     }
 
