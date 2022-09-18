@@ -67,7 +67,6 @@ public class Player : MonoBehaviour
             Physics2D.IgnoreLayerCollision(playerLayer, platformLayer, true);
         else
             Physics2D.IgnoreLayerCollision(playerLayer, platformLayer, false);
-        
     }
 
     public void input()

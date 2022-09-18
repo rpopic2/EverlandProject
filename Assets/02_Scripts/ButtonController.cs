@@ -111,7 +111,10 @@ public class ButtonController : MonoBehaviour
 
     public void JumpBtnDown()
     {
-        player.Jump = true;
-        PlaySound("jump");
+        if (!GameManager.instance.isReSpawning)
+        {
+            player.Jump = true;
+            PlaySound("jump");
+        }
     }
 }
