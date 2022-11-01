@@ -13,6 +13,10 @@ public class Cheater : EditorWindow
     private string _customerName = "김릿지";
     private bool _isButtonPressed;
     [MenuItem("Everland/Cheater")]
+    private static void Awake()
+    {
+        Debug.Log("hi");
+    }
     public static void ShowWindow()
     {
         EditorWindow.GetWindow(typeof(Cheater));
@@ -26,6 +30,11 @@ public class Cheater : EditorWindow
         {
             ApplySprites();
             ApplyName();
+        }
+        if (GUILayout.Button("Import"))
+        {
+            PSBImporter.Import(_customerID);
+            AssetDatabase.Refresh();
         }
         EditorGUILayout.LabelField("Cheatsheet :\n1.Drag the file in and select\n2.Hit E and Create bones.\n- Head : Chin->Top of forehead\n- Body : Bottom->Top(Neck)\n- Others : Inner->Mid->Outer\n3.Hit A and press Generate For All Visible\n4.Hit V and check bone influences.\n5.Hit GO button above\n6.Hit ^1 and check if char looks okay.\n7.Test and build. Voila!", GUILayout.ExpandHeight(true));
     }
@@ -77,7 +86,7 @@ public class Cheater : EditorWindow
                 Debug.Log($"Found Texture : {o.name}");
             }
         }
-        Selection.activeObject = AssetDatabase.LoadAssetAtPath<Object>($"Assets/Univ_Char/{_customerID}_chracter.psb");
+        SelectPSB();
         Debug.Log($"Found {textures.Count} textures");
         return textures;
     }
@@ -102,5 +111,9 @@ public class Cheater : EditorWindow
         var r = name.ToLower().Split(_delims, 2)[1];
         Debug.Log(r);
         return r;
+    }
+    private void SelectPSB()
+    {
+        Selection.activeObject = AssetDatabase.LoadAssetAtPath<Object>($"Assets/Univ_Char/{_customerID}_chracter.psb");
     }
 }
