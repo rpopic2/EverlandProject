@@ -31,32 +31,34 @@ public class Cheater : EditorWindow
     {
         var sprites = GetSprites().ToList();
         var slas = GetSpriteLibraryAssets().ToList();
-
         var len = sprites.Count;
-        if (len != slas.Count) throw new Exception($"Length of texture : {len}, and legnth of SLAs{slas.Count} does not match.");
+        if (len != slas.Count) throw new Exception($"Count of texture : {len}, and SLAs : {slas.Count} does not match.");
         while (sprites.Count > 0)
         {
             var sp = sprites.First();
-            var spname = GetPartName(sp.name);
+            var sla = GetMatchingSLA(sp);
+            sprites.Remove(sp);
+            slas.Remove(sla);
+            sla.AddCategoryLabel(sp, "Default", "1");
+            Debug.Log($"Applied texture {sp.name} to {sla.name}");
+        }
+        foreach (var sr in FindObjectsOfType<SpriteResolver>())
+        {
+            sr.ResolveSpriteToSpriteRenderer();
+        }
+        SpriteLibraryAsset GetMatchingSLA(Sprite sp)
+        {
+            var spname = sp.name;
             var slaQuery = from s in slas
-                           where GetPartName(s.name) == GetPartName(sp.name)
+                           where GetPartName(s.name) == GetPartName(spname)
                            select s;
             if (slaQuery.Count() == 0) throw new Exception($"No matching SLA found with sprite : {spname}");
             var slaname = GetPartName(slaQuery.ElementAt(0).name);
             if (slaQuery.Count() >= 2) throw new Exception($"Sprite name mathing with more than one SLAs' name. Sprite : {spname}, SLA : {slaname}");
-            var sla = slaQuery.ElementAt(0);
-            sprites.Remove(sp);
-            slas.Remove(sla);
-
-            sla.AddCategoryLabel(sp, "Default", "1");
-            Debug.Log($"Applied texture {sp.name} to {sla.name}");
-        }
-        foreach(var sr in FindObjectsOfType<SpriteResolver>())
-        {
-            sr.ResolveSpriteToSpriteRenderer();
+            return slaQuery.ElementAt(0);
         }
     }
-    private Sprite[] GetSprites()
+    private List<Sprite> GetSprites()
     {
         var textures = new List<Sprite>();
         var psb = AssetDatabase.LoadAllAssetsAtPath($"Assets/Univ_Char/{_customerID}_chracter.psb");
@@ -69,21 +71,21 @@ public class Cheater : EditorWindow
             }
         }
         Debug.Log($"Found {textures.Count} textures");
-        return textures.ToArray();
+        return textures;
     }
-    private SpriteLibraryAsset[] GetSpriteLibraryAssets()
+    private List<SpriteLibraryAsset> GetSpriteLibraryAssets()
     {
         var slasGUID = AssetDatabase.FindAssets("t:SpriteLibraryAsset");
-        var slas = new SpriteLibraryAsset[slasGUID.Length];
+        var slas = new List<SpriteLibraryAsset>(slasGUID.Length);
         for (int i = 0; i < slasGUID.Length; i++)
         {
             string guid = slasGUID[i];
             var p = AssetDatabase.GUIDToAssetPath(guid);
             var sla = AssetDatabase.LoadAssetAtPath<SpriteLibraryAsset>(p);
-            slas[i] = sla;
+            slas.Add(sla);
             Debug.Log($"Found SLA : {sla.name}");
         }
-        Debug.Log($"Found {slas.Length} SLAs");
+        Debug.Log($"Found {slas.Count} SLAs");
         return slas;
     }
     private string GetPartName(string name)
