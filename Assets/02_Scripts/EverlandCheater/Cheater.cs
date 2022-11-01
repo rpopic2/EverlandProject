@@ -24,10 +24,16 @@ public class Cheater : EditorWindow
         _isButtonPressed = GUILayout.Button("Go");
         if (_isButtonPressed)
         {
-            Go();
+            ApplySprites();
+            ApplyName();
         }
     }
-    private void Go()
+    private void ApplyName()
+    {
+        FindObjectOfType<PlayerSetting>().playerName = _customerName;
+        Debug.Log($"PlayerSetting.playerName set to {_customerName}");
+    }
+    private void ApplySprites()
     {
         var sprites = GetSprites().ToList();
         var slas = GetSpriteLibraryAssets().ToList();
