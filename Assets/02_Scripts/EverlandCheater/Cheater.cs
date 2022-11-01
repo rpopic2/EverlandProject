@@ -10,13 +10,13 @@ public class Cheater : EditorWindow
 {
     private readonly char[] _delims = new char[] { '_' };
     private string _customerID = "0000";
+    private string _fileSuffix = "_charcter.psb";
     private string _customerName = "김릿지";
     private bool _isButtonPressed;
+    public string FileSuffix { get => _fileSuffix; }
+    private string SpriteFilePath => $"Assets/Univ_Char/{_customerID}{_fileSuffix}";
+
     [MenuItem("Everland/Cheater")]
-    private static void Awake()
-    {
-        Debug.Log("hi");
-    }
     public static void ShowWindow()
     {
         EditorWindow.GetWindow(typeof(Cheater));
@@ -25,6 +25,7 @@ public class Cheater : EditorWindow
     {
         _customerID = EditorGUILayout.TextField("Customer ID", _customerID);
         _customerName = EditorGUILayout.TextField("Customer Name", _customerName);
+        _fileSuffix = EditorGUILayout.TextField("File Suffix", _fileSuffix);
         _isButtonPressed = GUILayout.Button("Go");
         if (_isButtonPressed || Event.current.keyCode == KeyCode.Return)
         {
@@ -45,8 +46,8 @@ public class Cheater : EditorWindow
     }
     private void ApplySprites()
     {
-        var sprites = GetSprites().ToList();
-        var slas = GetSpriteLibraryAssets().ToList();
+        var sprites = GetSprites();
+        var slas = GetSpriteLibraryAssets();
         var len = sprites.Count;
         if (len != slas.Count) throw new Exception($"Count of texture : {len}, and SLAs : {slas.Count} does not match.");
         while (sprites.Count > 0)
@@ -77,7 +78,7 @@ public class Cheater : EditorWindow
     private List<Sprite> GetSprites()
     {
         var textures = new List<Sprite>();
-        var psb = AssetDatabase.LoadAllAssetsAtPath($"Assets/Univ_Char/{_customerID}_chracter.psb");
+        var psb = AssetDatabase.LoadAllAssetsAtPath(SpriteFilePath);
         foreach (Object o in psb)
         {
             if (o is Sprite s)
@@ -87,6 +88,7 @@ public class Cheater : EditorWindow
             }
         }
         SelectPSB();
+        if (textures.Count == 0) throw new Exception($"No textures found of : {SpriteFilePath}");
         Debug.Log($"Found {textures.Count} textures");
         return textures;
     }
@@ -114,6 +116,6 @@ public class Cheater : EditorWindow
     }
     private void SelectPSB()
     {
-        Selection.activeObject = AssetDatabase.LoadAssetAtPath<Object>($"Assets/Univ_Char/{_customerID}_chracter.psb");
+        Selection.activeObject = AssetDatabase.LoadAssetAtPath<Object>(SpriteFilePath);
     }
 }
