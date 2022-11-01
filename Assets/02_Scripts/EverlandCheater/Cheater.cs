@@ -27,6 +27,7 @@ public class Cheater : EditorWindow
             ApplySprites();
             ApplyName();
         }
+        EditorGUILayout.LabelField("Cheatsheet :\n1.Drag the file in and select\n2.Hit E and Create bones.\n- Head : Chin->Top of forehead\n- Body : Bottom->Top(Neck)\n- Others : Inner->Mid->Outer\n3.Hit A and press Generate For All Visible\n4.Hit V and check bone influences.\n5.Hit GO button above\n6.Hit ^1 and check if char looks okay.\n7.Test and build. Voila!", GUILayout.ExpandHeight(true));
     }
     private void ApplyName()
     {
@@ -76,6 +77,7 @@ public class Cheater : EditorWindow
                 Debug.Log($"Found Texture : {o.name}");
             }
         }
+        Selection.activeObject = AssetDatabase.LoadAssetAtPath<Object>($"Assets/Univ_Char/{_customerID}_chracter.psb");
         Debug.Log($"Found {textures.Count} textures");
         return textures;
     }
