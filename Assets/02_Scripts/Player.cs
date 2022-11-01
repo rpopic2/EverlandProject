@@ -20,17 +20,18 @@ public class Player : MonoBehaviour
     public bool isFinish = false;
 
     public int touchCnt = 0;
-    public int petCnt = 0;
+    public int paperCnt = 0;
 
     Animator animator;
 
-    public GameObject treasure;
-    public GameObject particle;
+    //public GameObject treasure;
+    //public GameObject particle;
     public GameObject BtnUI;
-    public GameObject chest;
+    //public GameObject chest;
     public GameObject FinishPoint;
     public GameObject EndingCredit;
     public GameObject EndingEffect;
+    public GameObject EndingCutScene;
 
     [SerializeField] Cinemachine.CinemachineVirtualCamera VC_Start;
     [SerializeField] Cinemachine.CinemachineVirtualCamera VC_Playing;
@@ -38,6 +39,9 @@ public class Player : MonoBehaviour
     int playerLayer, platformLayer;
 
     public AudioClip success2;
+
+    public GameObject WantedPaper;
+    public GameObject PlayerUIPanel;
 
     void Start()
     {
@@ -177,6 +181,18 @@ public class Player : MonoBehaviour
         {
             GameManager.instance.setRespawnPoint(collision.transform.position);
         }
+
+        else if (collision.CompareTag("PaperCollider"))
+        {
+            if (paperCnt == 0)
+            {
+                GameObject.Find("Canvas").GetComponent<ButtonController>().LeftBtnUp();
+                GameObject.Find("Canvas").GetComponent<ButtonController>().RightBtnUp();
+                WantedPaper.gameObject.SetActive(true);
+                PlayerUIPanel.gameObject.SetActive(false);
+            }
+            paperCnt++;
+        }
         else if (collision.CompareTag("DeadZone"))
         {
             GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("damage");
@@ -184,7 +200,7 @@ public class Player : MonoBehaviour
             Invoke("DamageEffect", 0.2f);
             Invoke("HealEffect", 0.8f);
         }
-        else if (collision.CompareTag("EquipPoint"))
+        /*else if (collision.CompareTag("EquipPoint"))
         {
             if (petCnt == 0)
             {
@@ -192,16 +208,26 @@ public class Player : MonoBehaviour
                 GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("pet");
                 petCnt += 1;//이거 해야지 여기 다시 통과해도 소리 안남.
             }
-        }
+        }*/
         else if (collision.CompareTag("Goal"))
         {
             // goal effect
             if (touchCnt == 0)
             {
                 BtnUI.gameObject.SetActive(false);
-                collision.GetComponent<Animator>().SetBool("Open", true);
-                GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("cabinet");
-                Invoke("ParticleShow", 0.5f);
+
+                GameManager.instance.GameEnd();
+
+                GameObject.Find("Canvas").GetComponent<ButtonController>().LeftBtnUp();
+                GameObject.Find("Canvas").GetComponent<ButtonController>().RightBtnUp();
+                
+                Invoke("EndingScene", 2f);
+                Invoke("EndingShow", 4f);
+                Invoke("Ending", 5.2f);
+
+                //collision.GetComponent<Animator>().SetBool("Open", true);
+                //GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("cabinet");
+                //Invoke("ParticleShow", 0.5f);
                 touchCnt += 1;//이거 안하면 점프하면서 또 밟아서 소리 계속 남
             }
         }
@@ -209,7 +235,7 @@ public class Player : MonoBehaviour
         {
             Debug.Log("끝");
 
-            GameManager.instance.GameEnd();
+            /*GameManager.instance.GameEnd();
 
             isMove = false;
             RightMove = false;
@@ -223,11 +249,11 @@ public class Player : MonoBehaviour
 
             Invoke("EndingShow", 7.5f);
             Invoke("Ending", 8.7f);
-        
+            */
         }
     }
 
-    public void TreasureShow()
+    /*public void TreasureShow()
     {
         if (isMove == false)
         {
@@ -264,6 +290,7 @@ public class Player : MonoBehaviour
             animator.SetBool("isJumpping", true);
         }
     }
+    */
     public void DamageEffect()
     {
 
@@ -326,6 +353,11 @@ public class Player : MonoBehaviour
 
         BtnUI.gameObject.SetActive(true);
     }
+
+    public void EndingScene()
+    {
+        EndingCutScene.gameObject.SetActive(true);
+    }
     public void Ending()
     {
         EndingEffect.gameObject.SetActive(false);
@@ -335,6 +367,7 @@ public class Player : MonoBehaviour
 
     public void EndingShow()
     {
+        //EndingCutScene.gameObject.SetActive(false);
         GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("zoomin");
         EndingEffect.gameObject.SetActive(true);
 
@@ -343,5 +376,10 @@ public class Player : MonoBehaviour
     public void ClickToFinish()
     { 
     
-    }    
+    }
+    public void ClosePaper()
+    {
+        WantedPaper.gameObject.SetActive(false);
+        PlayerUIPanel.gameObject.SetActive(true);
+    }
 }
