@@ -26,7 +26,7 @@ public class Cheater : EditorWindow
         _customerID = EditorGUILayout.TextField("Customer ID", _customerID);
         _customerName = EditorGUILayout.TextField("Customer Name", _customerName);
         _isButtonPressed = GUILayout.Button("Go");
-        if (_isButtonPressed)
+        if (_isButtonPressed || Event.current.keyCode == KeyCode.Return)
         {
             ApplySprites();
             ApplyName();
