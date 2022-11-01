@@ -18,7 +18,7 @@ MonoBehaviour:
     m_CategoryList:
     - m_Name: 1
       m_Hash: -2082672713
-      m_Sprite: {fileID: 4760295358409913110, guid: 21d7a1856c224b64584f8c50bdecbcac, type: 3}
+      m_Sprite: {fileID: 1270601111211310942, guid: dfc027866fa1cce49a3150e600f6e1d4, type: 3}
     - m_Name: 2
       m_Hash: 450215437
       m_Sprite: {fileID: 4866195858314254111, guid: 9b8b140d47f127f4a80e6722b6709d78, type: 3}
