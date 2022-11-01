@@ -13,12 +13,12 @@ MonoBehaviour:
   m_Name: Player_Head
   m_EditorClassIdentifier: 
   m_Labels:
-  - m_Name: Head
-    m_Hash: 130111906
+  - m_Name: Default
+    m_Hash: 753088835
     m_CategoryList:
     - m_Name: 1
       m_Hash: -2082672713
-      m_Sprite: {fileID: 2338859822476528701, guid: f8cc941d67e859d4a9b9a1423a4e96a1, type: 3}
+      m_Sprite: {fileID: 4760295358409913110, guid: 21d7a1856c224b64584f8c50bdecbcac, type: 3}
     - m_Name: 2
       m_Hash: 450215437
       m_Sprite: {fileID: 4866195858314254111, guid: 9b8b140d47f127f4a80e6722b6709d78, type: 3}
