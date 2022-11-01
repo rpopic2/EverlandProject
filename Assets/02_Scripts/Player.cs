@@ -52,7 +52,7 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        input();
+        KeyboardCtl();
         Move();//무브가 꺼져야지 인풋의 애니메이션이 작동함.
 
         if (isMove == true)
@@ -69,61 +69,13 @@ public class Player : MonoBehaviour
             Physics2D.IgnoreLayerCollision(playerLayer, platformLayer, false);
     }
 
-    public void input()
+    public void KeyboardCtl()
     {
-        float xInput = Input.GetAxisRaw("Horizontal");
-
-        moveVelocity = new Vector3(xInput, 0, 0);
-
-        transform.position += moveVelocity * moveSpeed * Time.deltaTime;
-
-
-        if (xInput == 1 || xInput == -1)
-        {
-            animator.SetBool("isRunning", true);
-        }
-
-        else
-        {
-            animator.SetBool("isRunning", false);
-            animator.SetBool("isJumpping", false);
-        }
-
-        if ((xInput == 1 && Input.GetKeyDown(KeyCode.Space)) || (xInput == -1 && Input.GetKeyDown(KeyCode.Space)))
-        {
-            if (isGround)
-            {
-                isGround = false;
-
-                RB.velocity = Vector2.zero;
-
-                Vector2 jumpVelocity = new Vector2(0, jumpPower);
-                RB.AddForce(jumpVelocity, ForceMode2D.Impulse);
-                animator.SetBool("isRunning", true);
-                animator.SetBool("isJumpping", true);
-            }
-        }
-
-        if (xInput == 1)//오른쪽 바라보게
-            transform.GetChild(0).rotation = Quaternion.Euler(0, 180, 0);
-        else if (xInput == -1)//왼쪽 바라보게
-            transform.GetChild(0).rotation = Quaternion.Euler(0, 0, 0);
-
-
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            if (isGround)
-            {
-                isGround = false;
-
-                RB.velocity = Vector2.zero;
-
-                Vector2 jumpVelocity = new Vector2(0, jumpPower);
-                RB.AddForce(jumpVelocity, ForceMode2D.Impulse);
-                animator.SetBool("isRunning", false);
-                animator.SetBool("isJumpping", true);
-            }
-        }
+        if (Input.GetKeyDown(KeyCode.RightArrow)) ButtonController.Instance.RightBtnDown();
+        else if(Input.GetKeyUp(KeyCode.RightArrow)) ButtonController.Instance.RightBtnUp();
+        else if (Input.GetKeyDown(KeyCode.LeftArrow)) ButtonController.Instance.LeftBtnDown();
+        else if(Input.GetKeyUp(KeyCode.LeftArrow)) ButtonController.Instance.LeftBtnUp();
+        else if(Input.GetKeyUp(KeyCode.Space)) ButtonController.Instance.JumpBtnDown();
     }
 
     public void Move()
@@ -151,7 +103,7 @@ public class Player : MonoBehaviour
                 Jump = false;
 
                 Debug.Log("Jump");
-            
+
                 RB.velocity = Vector2.zero;
 
                 Vector2 jumpVelocity = new Vector2(0, jumpPower);
@@ -223,7 +175,7 @@ public class Player : MonoBehaviour
 
             Invoke("EndingShow", 7.5f);
             Invoke("Ending", 8.7f);
-        
+
         }
     }
 
@@ -250,8 +202,8 @@ public class Player : MonoBehaviour
     }
 
     public void FinishJump()
-    { 
-        if(isGround)
+    {
+        if (isGround)
         {
             isGround = false;
             Jump = false;
@@ -341,7 +293,7 @@ public class Player : MonoBehaviour
     }
 
     public void ClickToFinish()
-    { 
-    
-    }    
+    {
+
+    }
 }
