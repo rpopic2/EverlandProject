@@ -88,7 +88,7 @@ public class GameManager : MonoBehaviour
         if (!isGameStart)
         {
             Anim.SetBool("isStartClick", true);
-            Invoke("GameStart", 2f);
+            Invoke("GameStart", 1.7f);
         }
     }
 
