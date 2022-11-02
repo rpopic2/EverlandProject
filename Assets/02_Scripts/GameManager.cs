@@ -34,10 +34,7 @@ public class GameManager : MonoBehaviour
     public AudioClip intro;
     public AudioClip Ending;
 
-    public AudioClip Morning;
-    public AudioClip Afternoon;
-    public AudioClip Evening;
-    public AudioClip Night;
+    public AudioClip everland;
 
     AudioSource BG_AudioSource;
 
@@ -48,7 +45,6 @@ public class GameManager : MonoBehaviour
         isGameEnd = false;
         isReSpawning = false;
         Invoke("PlayIntro", 2.5f);
-
         BG_AudioSource = GameObject.Find("SoundManager").transform.GetChild(0).GetComponent<AudioSource>();
     }
 
@@ -73,21 +69,8 @@ public class GameManager : MonoBehaviour
                 BG_AudioSource.clip = intro;
                 break;
 
-            case "morning":
-                BG_AudioSource.clip = Morning;
-                break;
-
-            case "afternoon":
-                BG_AudioSource.clip = Afternoon;
-                break;
-            
-            case "evening":
-                BG_AudioSource.clip = Evening;
-                break;
-
-            
-            case "night":
-                BG_AudioSource.clip = Night;
+            case "everland":
+                BG_AudioSource.clip = everland;
                 break;
             
             case "ending":
@@ -107,12 +90,12 @@ public class GameManager : MonoBehaviour
 
             GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("click");
 
-            if (GameObject.Find("PlayerSetting").GetComponent<PlayerSetting>()._background == PlayerSetting.backgroundImage.Morning)
+            if (GameObject.Find("PlayerSetting").GetComponent<PlayerSetting>()._background == PlayerSetting.backgroundImage.everland)
             {
-                PlaySound("morning");
+                PlaySound("everland");
             }
 
-            else if (GameObject.Find("PlayerSetting").GetComponent<PlayerSetting>()._background == PlayerSetting.backgroundImage.Afternoon)
+            /*else if (GameObject.Find("PlayerSetting").GetComponent<PlayerSetting>()._background == PlayerSetting.backgroundImage.Afternoon)
             {
                 PlaySound("afternoon");
             }
@@ -125,7 +108,7 @@ public class GameManager : MonoBehaviour
             else if (GameObject.Find("PlayerSetting").GetComponent<PlayerSetting>()._background == PlayerSetting.backgroundImage.Night)
             {
                 PlaySound("night");
-            }
+            }*/
 
             VC_Start.Priority = 9;
             VC_Playing.Priority = 10;

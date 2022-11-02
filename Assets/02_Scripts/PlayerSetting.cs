@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class PlayerSetting : MonoBehaviour
 {
-    public enum backgroundImage { Morning, Afternoon, Evening, Night };
+    public enum backgroundImage { everland };
     //public enum BGM { Morning, Afternoon, Evening, Night };
 
     public Sprite treasureImg;//최종 보물 이미지
@@ -71,7 +71,7 @@ public class PlayerSetting : MonoBehaviour
             go.GetComponent<SpriteRenderer>().sprite = Small_Platform_sprites[(int)_background];
         }
 
-        if ( _background == backgroundImage.Morning)
+        if ( _background == backgroundImage.everland)
         {
             GameObject.Find("Background_Sky").transform.GetChild(0).GetComponent<SpriteRenderer>().sprite = frontSprite[0];
             GameObject.Find("Background_Sky").transform.GetChild(0).GetChild(0).GetComponent<SpriteRenderer>().sprite = frontSprite[0];
@@ -96,7 +96,7 @@ public class PlayerSetting : MonoBehaviour
             GameObject.Find("House_Front").GetComponent<SpriteRenderer>().sprite = tentSprite[1];
         }
 
-        else if (_background == backgroundImage.Afternoon)
+        /*else if (_background == backgroundImage.Afternoon)
         {
             GameObject.Find("Background_Sky").transform.GetChild(0).GetComponent<SpriteRenderer>().sprite = frontSprite[1];
             GameObject.Find("Background_Sky").transform.GetChild(0).GetChild(0).GetComponent<SpriteRenderer>().sprite = frontSprite[1];
@@ -170,7 +170,7 @@ public class PlayerSetting : MonoBehaviour
 
             GameObject.Find("House_back").GetComponent<SpriteRenderer>().sprite = tentSprite[6];
             GameObject.Find("House_Front").GetComponent<SpriteRenderer>().sprite = tentSprite[7];
-        }
+        }*/
         username1.GetComponent<Text>().text = playerName;
         username2.GetComponent<Text>().text = playerName;
     }
