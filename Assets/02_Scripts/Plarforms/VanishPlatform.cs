@@ -6,13 +6,11 @@ public class VanishPlatform : MonoBehaviour
 {
     [SerializeField] float VanishTime;
 
-    bool isVanished;
     SpriteRenderer SR;
-    BoxCollider2D collider;
+    new BoxCollider2D collider;
 
     void Start()
     {
-        isVanished = false;
         SR = GetComponent<SpriteRenderer>();
         collider = GetComponent<BoxCollider2D>();
 

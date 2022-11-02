@@ -6,7 +6,7 @@ public class DropPlatform : MonoBehaviour
 {
     [SerializeField] float respawnTime;
 
-    BoxCollider2D collider;
+    new BoxCollider2D collider;
     Rigidbody2D RB;
     SpriteRenderer SR;
     Vector3 currPos;
