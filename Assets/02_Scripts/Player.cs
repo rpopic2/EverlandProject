@@ -188,6 +188,7 @@ public class Player : MonoBehaviour
             {
                 GameObject.Find("Canvas").GetComponent<ButtonController>().LeftBtnUp();
                 GameObject.Find("Canvas").GetComponent<ButtonController>().RightBtnUp();
+                GameObject.Find("SFX").GetComponent<AudioSource>().Stop();
                 WantedPaper.gameObject.SetActive(true);
                 PlayerUIPanel.gameObject.SetActive(false);
             }
@@ -379,6 +380,7 @@ public class Player : MonoBehaviour
     }
     public void ClosePaper()
     {
+        GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("Negativeclick");
         WantedPaper.gameObject.SetActive(false);
         PlayerUIPanel.gameObject.SetActive(true);
     }

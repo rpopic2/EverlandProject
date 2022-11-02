@@ -12,6 +12,7 @@ public class ButtonController : MonoBehaviour
     public AudioClip jump;
     public AudioClip success;
     public AudioClip click;
+    public AudioClip Negativeclick;
     public AudioClip damage;
     public AudioClip zoomin;
     public AudioClip zoomout;
@@ -47,6 +48,12 @@ public class ButtonController : MonoBehaviour
 
             case "click":
                 SFX_AudioSource.clip = click;
+                SFX_AudioSource.loop = false;
+                SFX_AudioSource.volume = 0.9f;
+                break;
+
+            case "Negativeclick":
+                SFX_AudioSource.clip = Negativeclick;
                 SFX_AudioSource.loop = false;
                 SFX_AudioSource.volume = 0.9f;
                 break;

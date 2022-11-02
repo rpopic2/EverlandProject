@@ -9,7 +9,7 @@ public class PlayerSetting : MonoBehaviour
     public enum backgroundImage { everland };
     //public enum BGM { Morning, Afternoon, Evening, Night };
 
-    public Sprite treasureImg;//최종 보물 이미지
+    //public Sprite treasureImg;//최종 보물 이미지
 
     public string playerName;//플레이어 이름 - 엔딩 크레딧에 들어감.
 
@@ -19,6 +19,13 @@ public class PlayerSetting : MonoBehaviour
     public GameObject username1;
     public GameObject username2;
 
+    public GameObject name1;
+    public GameObject name2;
+    public GameObject name3;
+    public GameObject name4;
+    public GameObject name5;
+
+
     public GameObject ShowPanel;
     public GameObject ClosePanel;
 
@@ -26,10 +33,8 @@ public class PlayerSetting : MonoBehaviour
     public Sprite[] backSprite;
     public Sprite[] cloudSprite;
     public Sprite[] skySprite;
-    public Sprite[] particleSprite;
-    public Sprite[] sunSprite;
-    public Sprite[] tentSprite;
 
+    
     public GameObject[] TileMaps;
 
     public GameObject[] NormalPlatforms;
@@ -70,7 +75,7 @@ public class PlayerSetting : MonoBehaviour
         {
             go.GetComponent<SpriteRenderer>().sprite = Small_Platform_sprites[(int)_background];
         }
-
+        
         if ( _background == backgroundImage.everland)
         {
             GameObject.Find("Background_Sky").transform.GetChild(0).GetComponent<SpriteRenderer>().sprite = frontSprite[0];
@@ -88,12 +93,6 @@ public class PlayerSetting : MonoBehaviour
             GameObject.Find("Background_Sky").transform.GetChild(3).GetComponent<SpriteRenderer>().sprite = skySprite[0];
             GameObject.Find("Background_Sky").transform.GetChild(3).GetChild(0).GetComponent<SpriteRenderer>().sprite = skySprite[0];
             GameObject.Find("Background_Sky").transform.GetChild(3).GetChild(1).GetComponent<SpriteRenderer>().sprite = skySprite[0];
-
-            GameObject.Find("BG_Sun&Particle").transform.GetChild(0).GetComponent<SpriteRenderer>().sprite = particleSprite[0];
-            GameObject.Find("BG_Sun&Particle").transform.GetChild(1).GetComponent<SpriteRenderer>().sprite = sunSprite[0];
-
-            GameObject.Find("House_back").GetComponent<SpriteRenderer>().sprite = tentSprite[0];
-            GameObject.Find("House_Front").GetComponent<SpriteRenderer>().sprite = tentSprite[1];
         }
 
         /*else if (_background == backgroundImage.Afternoon)
@@ -173,6 +172,12 @@ public class PlayerSetting : MonoBehaviour
         }*/
         username1.GetComponent<Text>().text = playerName;
         username2.GetComponent<Text>().text = playerName;
+        name1.GetComponent<Text>().text = playerName;
+        name2.GetComponent<Text>().text = playerName;
+        name3.GetComponent<Text>().text = playerName;
+        name4.GetComponent<Text>().text = playerName;
+        name5.GetComponent<Text>().text = playerName;
+
     }
 
     public void HeadPhonePlz()
@@ -193,7 +198,7 @@ public class PlayerSetting : MonoBehaviour
 
     public void ShowCloseBtn()
     {
-        GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("click");
+        GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("Negativeclick");
         ClosePanel.gameObject.SetActive(false);
         ShowPanel.gameObject.SetActive(true);
     }

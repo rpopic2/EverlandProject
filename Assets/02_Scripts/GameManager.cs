@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
@@ -37,6 +38,8 @@ public class GameManager : MonoBehaviour
     public AudioClip everland;
 
     AudioSource BG_AudioSource;
+
+    public Animator Anim;
 
     // Start is called before the first frame update
     void Start()
@@ -84,37 +87,28 @@ public class GameManager : MonoBehaviour
     {
         if (!isGameStart)
         {
-            isGameStart = true;
-            Start_Panel.SetActive(false);
-            Player_UI_Panel.SetActive(true);
-
-            GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("click");
-
-            if (GameObject.Find("PlayerSetting").GetComponent<PlayerSetting>()._background == PlayerSetting.backgroundImage.everland)
-            {
-                PlaySound("everland");
-            }
-
-            /*else if (GameObject.Find("PlayerSetting").GetComponent<PlayerSetting>()._background == PlayerSetting.backgroundImage.Afternoon)
-            {
-                PlaySound("afternoon");
-            }
-
-            else if (GameObject.Find("PlayerSetting").GetComponent<PlayerSetting>()._background == PlayerSetting.backgroundImage.Evening)
-            {
-                PlaySound("evening");
-            }
-
-            else if (GameObject.Find("PlayerSetting").GetComponent<PlayerSetting>()._background == PlayerSetting.backgroundImage.Night)
-            {
-                PlaySound("night");
-            }*/
-
-            VC_Start.Priority = 9;
-            VC_Playing.Priority = 10;
-
-            GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("zoomout");
+            Anim.SetBool("isStartClick", true);
+            Invoke("GameStart", 2f);
         }
+    }
+
+    public void GameStart()
+    {
+        isGameStart = true;
+        Start_Panel.SetActive(false);
+        Player_UI_Panel.SetActive(true);
+
+        GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("click");
+
+        if (GameObject.Find("PlayerSetting").GetComponent<PlayerSetting>()._background == PlayerSetting.backgroundImage.everland)
+        {
+            PlaySound("everland");
+        }
+
+        VC_Start.Priority = 9;
+        VC_Playing.Priority = 10;
+
+        GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("zoomout");
     }
 
     public void GameEnd()
