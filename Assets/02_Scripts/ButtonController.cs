@@ -18,6 +18,7 @@ public class ButtonController : MonoBehaviour
     public AudioClip zoomout;
     public AudioClip pet;
     public AudioClip cabinet;
+    public AudioClip gameStart;
 
     public void Start()
     {
@@ -86,6 +87,12 @@ public class ButtonController : MonoBehaviour
                 SFX_AudioSource.clip = cabinet;
                 SFX_AudioSource.loop = false;
                 SFX_AudioSource.volume = 0.6f;
+                break;
+
+            case "gameStart":
+                SFX_AudioSource.clip = gameStart;
+                SFX_AudioSource.loop = false;
+                SFX_AudioSource.volume = 1f;
                 break;
         }
         SFX_AudioSource.Play();

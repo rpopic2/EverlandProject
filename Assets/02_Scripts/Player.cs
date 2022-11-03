@@ -357,6 +357,7 @@ public class Player : MonoBehaviour
 
     public void EndingScene()
     {
+        GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("success");
         EndingCutScene.gameObject.SetActive(true);
     }
     public void Ending()

@@ -87,6 +87,7 @@ public class GameManager : MonoBehaviour
     {
         if (!isGameStart)
         {
+            GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("gameStart");
             Anim.SetBool("isStartClick", true);
             Invoke("GameStart", 1.7f);
         }
