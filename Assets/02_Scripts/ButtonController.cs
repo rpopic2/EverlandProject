@@ -100,27 +100,39 @@ public class ButtonController : MonoBehaviour
 
     public void LeftBtnDown()
     {
-        player.LeftMove = true;
-        if (player.isGround == true)
+        if (!GameManager.instance.isReSpawning)
         {
-            PlaySound("footstep");
+            player.LeftMove = true;
+            if (player.isGround == true)
+            {
+                PlaySound("footstep");
+            }
         }
     }
     public void LeftBtnUp()
     {
-        player.LeftMove = false;
-        SFX_AudioSource.Stop();
+        if (!GameManager.instance.isReSpawning)
+        {
+            player.LeftMove = false;
+            SFX_AudioSource.Stop();
+        }
     }
     public void RightBtnDown()
     {
-        player.RightMove = true;
-        if (player.isGround == true)
-            PlaySound("footstep");
+        if (!GameManager.instance.isReSpawning)
+        {
+            player.RightMove = true;
+            if (player.isGround == true)
+                PlaySound("footstep");
+        }
     }
     public void RightBtnUp()
     {
-        player.RightMove = false;
-        SFX_AudioSource.Stop();
+        if (!GameManager.instance.isReSpawning)
+        {
+            player.RightMove = false;
+            SFX_AudioSource.Stop();
+        }
     }
 
     public void JumpBtnDown()

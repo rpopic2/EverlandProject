@@ -49,7 +49,7 @@ public class PlayerSetting : MonoBehaviour
 
     void Start()
     {
-        TileMaps[(int)_background].SetActive(true);
+        //TileMaps[(int)_background].SetActive(true);
 
         foreach(GameObject go in NormalPlatforms)
         {

@@ -24,6 +24,8 @@ public class GameManager : MonoBehaviour
     [SerializeField] GameObject BG_Sun_Particles;
     [SerializeField] GameObject MainCamera;
 
+    [SerializeField] Button[] MoveButtons;
+
     //===================PlatformPrefab
     [SerializeField] GameObject DropPlatform;
     //===================PlatformPrefab
@@ -116,6 +118,12 @@ public class GameManager : MonoBehaviour
     {
         VC_End.Priority = 11;
         isGameEnd = true;
+        Invoke("BG_SoundOff", 2f);
+    }
+
+    public void BG_SoundOff()
+    {
+        BG_AudioSource.Stop();
     }
 
     public void setRespawnPoint(Vector3 Pos)
@@ -135,6 +143,11 @@ public class GameManager : MonoBehaviour
         Color c = SR.color;
         isReSpawning = true;
 
+        foreach(Button b in MoveButtons)
+        {
+            b.interactable = false;
+        }
+
         for(int i = 0; i < 10; i++)
         {
             if (i % 2 == 0)
@@ -145,6 +158,11 @@ public class GameManager : MonoBehaviour
             SR.color = c;
 
             yield return new WaitForSeconds(0.1f);
+        }
+
+        foreach(Button b in MoveButtons)
+        {
+            b.interactable = true;
         }
 
         isReSpawning = false;
