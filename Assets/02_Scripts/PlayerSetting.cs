@@ -49,9 +49,17 @@ public class PlayerSetting : MonoBehaviour
 
     void Start()
     {
+
+        username1.GetComponent<Text>().text = playerName;
+        username2.GetComponent<Text>().text = playerName;
+        name1.GetComponent<Text>().text = playerName;
+        name2.GetComponent<Text>().text = playerName;
+        name3.GetComponent<Text>().text = playerName;
+        name4.GetComponent<Text>().text = playerName;
+        name5.GetComponent<Text>().text = playerName;
         //TileMaps[(int)_background].SetActive(true);
 
-        foreach(GameObject go in NormalPlatforms)
+        foreach (GameObject go in NormalPlatforms)
         {
             go.GetComponent<SpriteRenderer>().sprite = Large_Platform_sprites[(int)_background];
         }
@@ -170,13 +178,7 @@ public class PlayerSetting : MonoBehaviour
             GameObject.Find("House_back").GetComponent<SpriteRenderer>().sprite = tentSprite[6];
             GameObject.Find("House_Front").GetComponent<SpriteRenderer>().sprite = tentSprite[7];
         }*/
-        username1.GetComponent<Text>().text = playerName;
-        username2.GetComponent<Text>().text = playerName;
-        name1.GetComponent<Text>().text = playerName;
-        name2.GetComponent<Text>().text = playerName;
-        name3.GetComponent<Text>().text = playerName;
-        name4.GetComponent<Text>().text = playerName;
-        name5.GetComponent<Text>().text = playerName;
+        
 
     }
 

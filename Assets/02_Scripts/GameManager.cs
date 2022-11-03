@@ -72,14 +72,18 @@ public class GameManager : MonoBehaviour
         {
             case"intro":
                 BG_AudioSource.clip = intro;
+                BG_AudioSource.loop = true;
                 break;
 
             case "everland":
                 BG_AudioSource.clip = everland;
+                BG_AudioSource.loop = true;
                 break;
             
             case "ending":
+                BG_AudioSource.volume = 0.4f;
                 BG_AudioSource.clip = Ending;
+                BG_AudioSource.loop = false;
                 break;
         }
         BG_AudioSource.Play();

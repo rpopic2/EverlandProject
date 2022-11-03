@@ -2384,6 +2384,7 @@ GameObject:
   - component: {fileID: 381145607}
   - component: {fileID: 381145606}
   - component: {fileID: 381145610}
+  - component: {fileID: 381145611}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -2502,6 +2503,18 @@ MonoBehaviour:
   pet: {fileID: 8300000, guid: eb1a008584bb2de42aa0634a412b3e22, type: 3}
   cabinet: {fileID: 8300000, guid: 934a46c418a2d204583418478dba0b03, type: 3}
   gameStart: {fileID: 8300000, guid: 94e87adb2fe8e0e42b270a222cbfa237, type: 3}
+--- !u!114 &381145611
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 381145605}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a625ae2a611114499d08b6c16856878, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &398619361
 GameObject:
   m_ObjectHideFlags: 0
@@ -3995,7 +4008,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
   m_AnchoredPosition: {x: 0, y: 100}
-  m_SizeDelta: {x: 704, y: 961}
+  m_SizeDelta: {x: 704, y: 1300}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &545800854
 MonoBehaviour:
@@ -4027,8 +4040,8 @@ MonoBehaviour:
     m_FadeDuration: 0.1
   m_SpriteState:
     m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 21300000, guid: e0f0fade92593934f999d34909bfc76b, type: 3}
-    m_SelectedSprite: {fileID: 21300000, guid: e0f0fade92593934f999d34909bfc76b, type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: e48f9e68e8719a5409be4fee37fb0bed, type: 3}
+    m_SelectedSprite: {fileID: 21300000, guid: e48f9e68e8719a5409be4fee37fb0bed, type: 3}
     m_DisabledSprite: {fileID: 0}
   m_AnimationTriggers:
     m_NormalTrigger: Normal
@@ -4073,7 +4086,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 7d482e941e43cb447bebbaf3aa3f3628, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9227af1b86410d447899ce553459db26, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -5680,7 +5693,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: UserName
+  m_Text: 
 --- !u!222 &868507465
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -13585,7 +13598,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: UserName
+  m_Text: 
 --- !u!222 &1004956756
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -21444,7 +21457,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: UserName
+  m_Text: 
 --- !u!222 &1239297007
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -28599,7 +28612,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\uAE40\uC218\uC544"
+  m_Text: 
 --- !u!222 &1284628898
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -28783,7 +28796,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: UserName
+  m_Text: 
 --- !u!222 &1307689088
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -33733,7 +33746,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: User name
+  m_Text: 
 --- !u!222 &1324135788
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -34630,7 +34643,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: UserName
+  m_Text: 
 --- !u!222 &1482899065
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -57215,11 +57228,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8023085821396017038, guid: ce7a943b9c6603d43ac73615f0080c77, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.2937927
+      value: 1.7440983
       objectReference: {fileID: 0}
     - target: {fileID: -8023085821396017038, guid: ce7a943b9c6603d43ac73615f0080c77, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.07316225
+      value: 0.0451297
       objectReference: {fileID: 0}
     - target: {fileID: -8023085821396017038, guid: ce7a943b9c6603d43ac73615f0080c77, type: 3}
       propertyPath: m_LocalRotation.w
@@ -57823,11 +57836,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8157066579181702706, guid: ce7a943b9c6603d43ac73615f0080c77, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.4385237
+      value: 1.8197093
       objectReference: {fileID: 0}
     - target: {fileID: 8157066579181702706, guid: ce7a943b9c6603d43ac73615f0080c77, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.06680942
+      value: 0.02383374
       objectReference: {fileID: 0}
     - target: {fileID: 8157066579181702706, guid: ce7a943b9c6603d43ac73615f0080c77, type: 3}
       propertyPath: m_LocalRotation.w
