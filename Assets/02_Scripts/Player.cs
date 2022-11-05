@@ -20,17 +20,18 @@ public class Player : MonoBehaviour
     public bool isFinish = false;
 
     public int touchCnt = 0;
-    public int petCnt = 0;
+    public int paperCnt = 0;
 
     Animator animator;
 
-    public GameObject treasure;
-    public GameObject particle;
+    //public GameObject treasure;
+    //public GameObject particle;
     public GameObject BtnUI;
-    public GameObject chest;
+    //public GameObject chest;
     public GameObject FinishPoint;
     public GameObject EndingCredit;
     public GameObject EndingEffect;
+    public GameObject EndingCutScene;
 
     [SerializeField] Cinemachine.CinemachineVirtualCamera VC_Start;
     [SerializeField] Cinemachine.CinemachineVirtualCamera VC_Playing;
@@ -38,6 +39,9 @@ public class Player : MonoBehaviour
     int playerLayer, platformLayer;
 
     public AudioClip success2;
+
+    public GameObject WantedPaper;
+    public GameObject PlayerUIPanel;
 
     void Start()
     {
@@ -53,7 +57,7 @@ public class Player : MonoBehaviour
     void Update()
     {
         KeyboardCtl();
-        Move();//¹«ºê°¡ ²¨Á®¾ßÁö ÀÎÇ²ÀÇ ¾Ö´Ï¸ÞÀÌ¼ÇÀÌ ÀÛµ¿ÇÔ.
+        Move();//ï¿½ï¿½ï¿½ê°¡ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Ç²ï¿½ï¿½ ï¿½Ö´Ï¸ï¿½ï¿½Ì¼ï¿½ï¿½ï¿½ ï¿½Ûµï¿½ï¿½ï¿½.
 
         if (isMove == true)
         {
@@ -129,6 +133,19 @@ public class Player : MonoBehaviour
         {
             GameManager.instance.setRespawnPoint(collision.transform.position);
         }
+
+        else if (collision.CompareTag("PaperCollider"))
+        {
+            if (paperCnt == 0)
+            {
+                GameObject.Find("Canvas").GetComponent<ButtonController>().LeftBtnUp();
+                GameObject.Find("Canvas").GetComponent<ButtonController>().RightBtnUp();
+                GameObject.Find("SFX").GetComponent<AudioSource>().Stop();
+                WantedPaper.gameObject.SetActive(true);
+                PlayerUIPanel.gameObject.SetActive(false);
+            }
+            paperCnt++;
+        }
         else if (collision.CompareTag("DeadZone"))
         {
             GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("damage");
@@ -136,32 +153,42 @@ public class Player : MonoBehaviour
             Invoke("DamageEffect", 0.2f);
             Invoke("HealEffect", 0.8f);
         }
-        else if (collision.CompareTag("EquipPoint"))
+        /*else if (collision.CompareTag("EquipPoint"))
         {
             if (petCnt == 0)
             {
                 transform.GetChild(1).gameObject.SetActive(true);
                 GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("pet");
-                petCnt += 1;//ÀÌ°Å ÇØ¾ßÁö ¿©±â ´Ù½Ã Åë°úÇØµµ ¼Ò¸® ¾È³².
+                petCnt += 1;//ï¿½Ì°ï¿½ ï¿½Ø¾ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ù½ï¿½ ï¿½ï¿½ï¿½ï¿½Øµï¿½ ï¿½Ò¸ï¿½ ï¿½È³ï¿½.
             }
-        }
+        }*/
         else if (collision.CompareTag("Goal"))
         {
             // goal effect
             if (touchCnt == 0)
             {
                 BtnUI.gameObject.SetActive(false);
-                collision.GetComponent<Animator>().SetBool("Open", true);
-                GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("cabinet");
-                Invoke("ParticleShow", 0.5f);
-                touchCnt += 1;//ÀÌ°Å ¾ÈÇÏ¸é Á¡ÇÁÇÏ¸é¼­ ¶Ç ¹â¾Æ¼­ ¼Ò¸® °è¼Ó ³²
+
+                GameManager.instance.GameEnd();
+
+                GameObject.Find("Canvas").GetComponent<ButtonController>().LeftBtnUp();
+                GameObject.Find("Canvas").GetComponent<ButtonController>().RightBtnUp();
+                
+                Invoke("EndingScene", 2f);
+                Invoke("EndingShow", 4f);
+                Invoke("Ending", 5.2f);
+
+                //collision.GetComponent<Animator>().SetBool("Open", true);
+                //GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("cabinet");
+                //Invoke("ParticleShow", 0.5f);
+                touchCnt += 1;//ï¿½Ì°ï¿½ ï¿½ï¿½ï¿½Ï¸ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï¸é¼­ ï¿½ï¿½ ï¿½ï¿½Æ¼ï¿½ ï¿½Ò¸ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½
             }
         }
         else if (collision.CompareTag("FinishLine") && isFinish == false)
         {
-            Debug.Log("³¡");
+            Debug.Log("ï¿½ï¿½");
 
-            GameManager.instance.GameEnd();
+            /*GameManager.instance.GameEnd();
 
             isMove = false;
             RightMove = false;
@@ -175,11 +202,11 @@ public class Player : MonoBehaviour
 
             Invoke("EndingShow", 7.5f);
             Invoke("Ending", 8.7f);
-
+            */
         }
     }
 
-    public void TreasureShow()
+    /*public void TreasureShow()
     {
         if (isMove == false)
         {
@@ -190,7 +217,7 @@ public class Player : MonoBehaviour
             treasure.GetComponent<SpriteRenderer>().sprite = PlayerSetting.FindObjectOfType<PlayerSetting>().treasureImg;
             treasure.gameObject.SetActive(true);
             chest.gameObject.SetActive(false);
-            //isMove = true;//¹öÆ° Çü½ÄÀÌ¸é ÀÌ°Å ÁÖ¼®Ã³¸® ÇØ¾ß ¸ØÃã -> ¹öÆ°ÀÌ °è¼Ó ÀÔ·ÂÀ¸·Î Ã³¸® µÇ¾î¼­ ±×·±µí
+            //isMove = true;//ï¿½ï¿½Æ° ï¿½ï¿½ï¿½ï¿½ï¿½Ì¸ï¿½ ï¿½Ì°ï¿½ ï¿½Ö¼ï¿½Ã³ï¿½ï¿½ ï¿½Ø¾ï¿½ ï¿½ï¿½ï¿½ï¿½ -> ï¿½ï¿½Æ°ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½Ô·ï¿½ï¿½ï¿½ï¿½ï¿½ Ã³ï¿½ï¿½ ï¿½Ç¾î¼­ ï¿½×·ï¿½ï¿½ï¿½
         }
     }
 
@@ -216,6 +243,7 @@ public class Player : MonoBehaviour
             animator.SetBool("isJumpping", true);
         }
     }
+    */
     public void DamageEffect()
     {
 
@@ -278,6 +306,12 @@ public class Player : MonoBehaviour
 
         BtnUI.gameObject.SetActive(true);
     }
+
+    public void EndingScene()
+    {
+        GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("success");
+        EndingCutScene.gameObject.SetActive(true);
+    }
     public void Ending()
     {
         EndingEffect.gameObject.SetActive(false);
@@ -287,13 +321,20 @@ public class Player : MonoBehaviour
 
     public void EndingShow()
     {
+        //EndingCutScene.gameObject.SetActive(false);
         GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("zoomin");
         EndingEffect.gameObject.SetActive(true);
 
     }
 
     public void ClickToFinish()
+    { 
+    
+    }
+    public void ClosePaper()
     {
-
+        GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("Negativeclick");
+        WantedPaper.gameObject.SetActive(false);
+        PlayerUIPanel.gameObject.SetActive(true);
     }
 }

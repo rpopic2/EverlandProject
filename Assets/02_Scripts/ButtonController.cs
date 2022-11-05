@@ -13,11 +13,13 @@ public class ButtonController : MonoBehaviour
     public AudioClip jump;
     public AudioClip success;
     public AudioClip click;
+    public AudioClip Negativeclick;
     public AudioClip damage;
     public AudioClip zoomin;
     public AudioClip zoomout;
     public AudioClip pet;
     public AudioClip cabinet;
+    public AudioClip gameStart;
 
     private void Awake()
     {
@@ -56,6 +58,12 @@ public class ButtonController : MonoBehaviour
                 SFX_AudioSource.volume = 0.9f;
                 break;
 
+            case "Negativeclick":
+                SFX_AudioSource.clip = Negativeclick;
+                SFX_AudioSource.loop = false;
+                SFX_AudioSource.volume = 0.9f;
+                break;
+
             case "damage":
                 SFX_AudioSource.clip = damage;
                 SFX_AudioSource.loop = false;
@@ -85,33 +93,51 @@ public class ButtonController : MonoBehaviour
                 SFX_AudioSource.loop = false;
                 SFX_AudioSource.volume = 0.6f;
                 break;
+
+            case "gameStart":
+                SFX_AudioSource.clip = gameStart;
+                SFX_AudioSource.loop = false;
+                SFX_AudioSource.volume = 1f;
+                break;
         }
         SFX_AudioSource.Play();
     }
 
     public void LeftBtnDown()
     {
-        player.LeftMove = true;
-        if (player.isGround == true)
+        if (!GameManager.instance.isReSpawning)
         {
-            PlaySound("footstep");
+            player.LeftMove = true;
+            if (player.isGround == true)
+            {
+                PlaySound("footstep");
+            }
         }
     }
     public void LeftBtnUp()
     {
-        player.LeftMove = false;
-        SFX_AudioSource.Stop();
+        if (!GameManager.instance.isReSpawning)
+        {
+            player.LeftMove = false;
+            SFX_AudioSource.Stop();
+        }
     }
     public void RightBtnDown()
     {
-        player.RightMove = true;
-        if (player.isGround == true)
-            PlaySound("footstep");
+        if (!GameManager.instance.isReSpawning)
+        {
+            player.RightMove = true;
+            if (player.isGround == true)
+                PlaySound("footstep");
+        }
     }
     public void RightBtnUp()
     {
-        player.RightMove = false;
-        SFX_AudioSource.Stop();
+        if (!GameManager.instance.isReSpawning)
+        {
+            player.RightMove = false;
+            SFX_AudioSource.Stop();
+        }
     }
 
     public void JumpBtnDown()

@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
@@ -23,6 +24,8 @@ public class GameManager : MonoBehaviour
     [SerializeField] GameObject BG_Sun_Particles;
     [SerializeField] GameObject MainCamera;
 
+    [SerializeField] Button[] MoveButtons;
+
     //===================PlatformPrefab
     [SerializeField] GameObject DropPlatform;
     //===================PlatformPrefab
@@ -34,12 +37,11 @@ public class GameManager : MonoBehaviour
     public AudioClip intro;
     public AudioClip Ending;
 
-    public AudioClip Morning;
-    public AudioClip Afternoon;
-    public AudioClip Evening;
-    public AudioClip Night;
+    public AudioClip everland;
 
     AudioSource BG_AudioSource;
+
+    public Animator Anim;
 
     // Start is called before the first frame update
     void Start()
@@ -48,7 +50,6 @@ public class GameManager : MonoBehaviour
         isGameEnd = false;
         isReSpawning = false;
         Invoke("PlayIntro", 2.5f);
-
         BG_AudioSource = GameObject.Find("SoundManager").transform.GetChild(0).GetComponent<AudioSource>();
     }
 
@@ -71,27 +72,18 @@ public class GameManager : MonoBehaviour
         {
             case"intro":
                 BG_AudioSource.clip = intro;
+                BG_AudioSource.loop = true;
                 break;
 
-            case "morning":
-                BG_AudioSource.clip = Morning;
-                break;
-
-            case "afternoon":
-                BG_AudioSource.clip = Afternoon;
-                break;
-            
-            case "evening":
-                BG_AudioSource.clip = Evening;
-                break;
-
-            
-            case "night":
-                BG_AudioSource.clip = Night;
+            case "everland":
+                BG_AudioSource.clip = everland;
+                BG_AudioSource.loop = true;
                 break;
             
             case "ending":
+                BG_AudioSource.volume = 0.4f;
                 BG_AudioSource.clip = Ending;
+                BG_AudioSource.loop = false;
                 break;
         }
         BG_AudioSource.Play();
@@ -101,43 +93,41 @@ public class GameManager : MonoBehaviour
     {
         if (!isGameStart)
         {
-            isGameStart = true;
-            Start_Panel.SetActive(false);
-            Player_UI_Panel.SetActive(true);
-
-            GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("click");
-
-            if (GameObject.Find("PlayerSetting").GetComponent<PlayerSetting>()._background == PlayerSetting.backgroundImage.Morning)
-            {
-                PlaySound("morning");
-            }
-
-            else if (GameObject.Find("PlayerSetting").GetComponent<PlayerSetting>()._background == PlayerSetting.backgroundImage.Afternoon)
-            {
-                PlaySound("afternoon");
-            }
-
-            else if (GameObject.Find("PlayerSetting").GetComponent<PlayerSetting>()._background == PlayerSetting.backgroundImage.Evening)
-            {
-                PlaySound("evening");
-            }
-
-            else if (GameObject.Find("PlayerSetting").GetComponent<PlayerSetting>()._background == PlayerSetting.backgroundImage.Night)
-            {
-                PlaySound("night");
-            }
-
-            VC_Start.Priority = 9;
-            VC_Playing.Priority = 10;
-
-            GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("zoomout");
+            GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("gameStart");
+            Anim.SetBool("isStartClick", true);
+            Invoke("GameStart", 1.7f);
         }
+    }
+
+    public void GameStart()
+    {
+        isGameStart = true;
+        Start_Panel.SetActive(false);
+        Player_UI_Panel.SetActive(true);
+
+        GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("click");
+
+        if (GameObject.Find("PlayerSetting").GetComponent<PlayerSetting>()._background == PlayerSetting.backgroundImage.everland)
+        {
+            PlaySound("everland");
+        }
+
+        VC_Start.Priority = 9;
+        VC_Playing.Priority = 10;
+
+        GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("zoomout");
     }
 
     public void GameEnd()
     {
         VC_End.Priority = 11;
         isGameEnd = true;
+        Invoke("BG_SoundOff", 2f);
+    }
+
+    public void BG_SoundOff()
+    {
+        BG_AudioSource.Stop();
     }
 
     public void setRespawnPoint(Vector3 Pos)
@@ -157,6 +147,11 @@ public class GameManager : MonoBehaviour
         Color c = SR.color;
         isReSpawning = true;
 
+        foreach(Button b in MoveButtons)
+        {
+            b.interactable = false;
+        }
+
         for(int i = 0; i < 10; i++)
         {
             if (i % 2 == 0)
@@ -167,6 +162,11 @@ public class GameManager : MonoBehaviour
             SR.color = c;
 
             yield return new WaitForSeconds(0.1f);
+        }
+
+        foreach(Button b in MoveButtons)
+        {
+            b.interactable = true;
         }
 
         isReSpawning = false;

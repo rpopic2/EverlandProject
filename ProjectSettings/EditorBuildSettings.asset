@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/01_Scenes/TestScene.unity
-    guid: 484eaac2c4cd9d040938303759282af5
+    path: Assets/01_Scenes/Everland.unity
+    guid: a7de4be8c688d894d870aaa7ac7d36bd
   m_configObjects: {}
