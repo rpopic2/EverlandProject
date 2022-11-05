@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class ButtonController : MonoBehaviour
 {
+    public static ButtonController Instance;
     [SerializeField] Player player;
 
     AudioSource SFX_AudioSource;
@@ -19,7 +20,10 @@ public class ButtonController : MonoBehaviour
     public AudioClip pet;
     public AudioClip cabinet;
     public AudioClip gameStart;
-
+    private void Awake()
+    {
+        Instance = this;
+    }
     public void Start()
     {
         SFX_AudioSource = GameObject.Find("SoundManager").transform.GetChild(1).GetComponent<AudioSource>();
