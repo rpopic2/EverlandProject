@@ -56,8 +56,8 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        input();
-        Move();//¹«ºê°¡ ²¨Á®¾ßÁö ÀÎÇ²ÀÇ ¾Ö´Ï¸ÞÀÌ¼ÇÀÌ ÀÛµ¿ÇÔ.
+        KeyboardCtl();
+        Move();//ï¿½ï¿½ï¿½ê°¡ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Ç²ï¿½ï¿½ ï¿½Ö´Ï¸ï¿½ï¿½Ì¼ï¿½ï¿½ï¿½ ï¿½Ûµï¿½ï¿½ï¿½.
 
         if (isMove == true)
         {
@@ -73,61 +73,13 @@ public class Player : MonoBehaviour
             Physics2D.IgnoreLayerCollision(playerLayer, platformLayer, false);
     }
 
-    public void input()
+    public void KeyboardCtl()
     {
-        float xInput = Input.GetAxisRaw("Horizontal");
-
-        moveVelocity = new Vector3(xInput, 0, 0);
-
-        transform.position += moveVelocity * moveSpeed * Time.deltaTime;
-
-
-        if (xInput == 1 || xInput == -1)
-        {
-            animator.SetBool("isRunning", true);
-        }
-
-        else
-        {
-            animator.SetBool("isRunning", false);
-            animator.SetBool("isJumpping", false);
-        }
-
-        if ((xInput == 1 && Input.GetKeyDown(KeyCode.Space)) || (xInput == -1 && Input.GetKeyDown(KeyCode.Space)))
-        {
-            if (isGround)
-            {
-                isGround = false;
-
-                RB.velocity = Vector2.zero;
-
-                Vector2 jumpVelocity = new Vector2(0, jumpPower);
-                RB.AddForce(jumpVelocity, ForceMode2D.Impulse);
-                animator.SetBool("isRunning", true);
-                animator.SetBool("isJumpping", true);
-            }
-        }
-
-        if (xInput == 1)//¿À¸¥ÂÊ ¹Ù¶óº¸°Ô
-            transform.GetChild(0).rotation = Quaternion.Euler(0, 180, 0);
-        else if (xInput == -1)//¿ÞÂÊ ¹Ù¶óº¸°Ô
-            transform.GetChild(0).rotation = Quaternion.Euler(0, 0, 0);
-
-
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            if (isGround)
-            {
-                isGround = false;
-
-                RB.velocity = Vector2.zero;
-
-                Vector2 jumpVelocity = new Vector2(0, jumpPower);
-                RB.AddForce(jumpVelocity, ForceMode2D.Impulse);
-                animator.SetBool("isRunning", false);
-                animator.SetBool("isJumpping", true);
-            }
-        }
+        if (Input.GetKeyDown(KeyCode.RightArrow)) ButtonController.Instance.RightBtnDown();
+        else if(Input.GetKeyUp(KeyCode.RightArrow)) ButtonController.Instance.RightBtnUp();
+        else if (Input.GetKeyDown(KeyCode.LeftArrow)) ButtonController.Instance.LeftBtnDown();
+        else if(Input.GetKeyUp(KeyCode.LeftArrow)) ButtonController.Instance.LeftBtnUp();
+        else if(Input.GetKeyDown(KeyCode.Space)) ButtonController.Instance.JumpBtnDown();
     }
 
     public void Move()
@@ -155,7 +107,7 @@ public class Player : MonoBehaviour
                 Jump = false;
 
                 Debug.Log("Jump");
-            
+
                 RB.velocity = Vector2.zero;
 
                 Vector2 jumpVelocity = new Vector2(0, jumpPower);
@@ -207,7 +159,7 @@ public class Player : MonoBehaviour
             {
                 transform.GetChild(1).gameObject.SetActive(true);
                 GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("pet");
-                petCnt += 1;//ÀÌ°Å ÇØ¾ßÁö ¿©±â ´Ù½Ã Åë°úÇØµµ ¼Ò¸® ¾È³².
+                petCnt += 1;//ï¿½Ì°ï¿½ ï¿½Ø¾ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½Ù½ï¿½ ï¿½ï¿½ï¿½ï¿½Øµï¿½ ï¿½Ò¸ï¿½ ï¿½È³ï¿½.
             }
         }*/
         else if (collision.CompareTag("Goal"))
@@ -221,7 +173,7 @@ public class Player : MonoBehaviour
 
                 GameObject.Find("Canvas").GetComponent<ButtonController>().LeftBtnUp();
                 GameObject.Find("Canvas").GetComponent<ButtonController>().RightBtnUp();
-                
+
                 Invoke("EndingScene", 2f);
                 Invoke("EndingShow", 4f);
                 Invoke("Ending", 5.2f);
@@ -229,12 +181,12 @@ public class Player : MonoBehaviour
                 //collision.GetComponent<Animator>().SetBool("Open", true);
                 //GameObject.Find("Canvas").GetComponent<ButtonController>().PlaySound("cabinet");
                 //Invoke("ParticleShow", 0.5f);
-                touchCnt += 1;//ÀÌ°Å ¾ÈÇÏ¸é Á¡ÇÁÇÏ¸é¼­ ¶Ç ¹â¾Æ¼­ ¼Ò¸® °è¼Ó ³²
+                touchCnt += 1;//ï¿½Ì°ï¿½ ï¿½ï¿½ï¿½Ï¸ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ï¸é¼­ ï¿½ï¿½ ï¿½ï¿½Æ¼ï¿½ ï¿½Ò¸ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½
             }
         }
         else if (collision.CompareTag("FinishLine") && isFinish == false)
         {
-            Debug.Log("³¡");
+            Debug.Log("ï¿½ï¿½");
 
             /*GameManager.instance.GameEnd();
 
@@ -265,7 +217,7 @@ public class Player : MonoBehaviour
             treasure.GetComponent<SpriteRenderer>().sprite = PlayerSetting.FindObjectOfType<PlayerSetting>().treasureImg;
             treasure.gameObject.SetActive(true);
             chest.gameObject.SetActive(false);
-            //isMove = true;//¹öÆ° Çü½ÄÀÌ¸é ÀÌ°Å ÁÖ¼®Ã³¸® ÇØ¾ß ¸ØÃã -> ¹öÆ°ÀÌ °è¼Ó ÀÔ·ÂÀ¸·Î Ã³¸® µÇ¾î¼­ ±×·±µí
+            //isMove = true;//ï¿½ï¿½Æ° ï¿½ï¿½ï¿½ï¿½ï¿½Ì¸ï¿½ ï¿½Ì°ï¿½ ï¿½Ö¼ï¿½Ã³ï¿½ï¿½ ï¿½Ø¾ï¿½ ï¿½ï¿½ï¿½ï¿½ -> ï¿½ï¿½Æ°ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½Ô·ï¿½ï¿½ï¿½ï¿½ï¿½ Ã³ï¿½ï¿½ ï¿½Ç¾î¼­ ï¿½×·ï¿½ï¿½ï¿½
         }
     }
 
@@ -376,8 +328,8 @@ public class Player : MonoBehaviour
     }
 
     public void ClickToFinish()
-    { 
-    
+    {
+
     }
     public void ClosePaper()
     {
